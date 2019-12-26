@@ -7,11 +7,9 @@ Tyler Gramling
 import PyPDF2 as p2
 import sys, re, time
 
-print("Extracting and loading data sets...")
+start_time = time.time()
 
-time.sleep(4)
-
-print("*** PROCESS COMPLETE ***\n")
+print("\nExtracting and loading data sets...\n")
 
 PDFfile = open("raceform.pdf", "rb")
 pdfread = p2.PdfFileReader(PDFfile)
@@ -29,16 +27,17 @@ for i in range(count):
 
 sys.stdout = orig_stdout
 f.close()
-# STAGE ONE - COMPLETE
-time.sleep(2)
+
 with open("output.txt", "r") as f2:
     data = f2.readlines()
     data = [x.strip() for x in data]
 
-#    print(data)
-
     for x in data:
         print(x)
-print("*** STAGE ONE - COMPLETE ***")
 
-#shit = re.search(r'[0-9])
+
+print("--- STAGE ONE - COMPLETE ---")
+
+print("--- %s seconds ---\n" % (time.time() - start_time))
+
+
