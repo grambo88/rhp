@@ -8,7 +8,7 @@ handicapping software.
 
 
 If this has helped you in anyway please consider
-donating some BTC to 3GfqXyYKjcoWso4ysrJyfrP2gxxkFAaLGs
+donating BTC to 3GfqXyYKjcoWso4ysrJyfrP2gxxkFAaLGs
 <img src="other/grambo88.png" width="25%" height="25%">
 
 
