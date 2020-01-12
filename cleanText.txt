@@ -1,0 +1,9557 @@
+INDEXTOENTRIES
+>A>
+Ameridude,2
+
+AtlantisRomance,8
+
+Authoritative,7
+>B>
+BestChoice,4
+
+BigGally'sAnswer,7
+
+BigMomma,8
+
+BillyNoSabay,7
+
+BillygetsArrested,7
+
+BlueShine,3
+
+BrotherBobo,2
+
+BubblegumTree,1
+>C>
+Calculation,7
+
+CheckbouncinBilly,7
+
+CongareeRose,3
+
+CountryMoney,6
+
+CurlinCrush,9
+>D>
+DefinitelyTonight,6
+
+DiscoRose,7
+
+DrivenWest,4
+>E>
+EdgeofPatience,9
+
+Extrasexyexotkminx,5
+>F>
+FakeFrontier,4
+
+FarrestRim,5
+
+Fastener,8
+
+FinalRitual,2
+
+FindtheMoney,5
+>G>
+GiantTrick,6
+
+Ginner,6
+
+GreatIllusion,7
+>H>
+HauntedVision,8
+
+He'saSlamDunk,2
+HeyBraciole,8
+
+HopeMessenger,6
+>I>
+Ignite,7
+
+IntheBeat,1
+
+ItDoesntEndWell,1
+>J>
+Joe'sGift,3
+
+JustaTaste,5
+>K>
+KidKelly,1
+>L>
+LaCamedor,3
+LikeaLion,8
+
+LongislandExpress,9
+
+LookinUp,9
+>M>
+MachuPicchuSky,4
+
+MagnaFortune,9
+
+Masio,8
+
+MiGalFren,5
+
+MissAvalon,7
+
+MrBrioni,1
+>N>
+NaturalWarrior,8
+
+NobleandTrue,4
+>O>
+OfficeSecretary,4
+>P>
+Papa'sMissile,8
+
+PhillyCompletely,6
+
+Poppy'sTwoStep,6
+>Q>
+QuietRevenge,9
+>R>
+RumorMill,9
+
+RunDixieRun,6
+>S>
+SaintMainEvent,3
+SalemLoop,6
+
+She'sOverwelming,5
+
+She'sStunning,3
+
+SienaIndian,2
+
+SonofaGeneral,1
+
+SpanishVilla,4
+
+SteveSaysNo,6
+
+SweetLikeCandy,5
+>T>
+ThirstforTruth,3
+
+Tipyourwaiterwell,2
+
+TrustyRoll,7
+
+TwoIstoMany,2
+>U>
+U.Tee,9
+>W>
+WarAtSunrise,9
+
+WesternConqueror,2
+
+Whateveryouwant,2
+>Y>
+Yougotthatgoinforu,1
+INDEXTOTRAINERS
+>A>
+AristonePhilipT,1
+
+AshtonPatrick,1
+>B>
+BedardAlan,5
+
+BrownBruceR,3
+>C>
+CaraballoWilfredoV,2
+
+CashRussellJ,4
+
+ChaconGustavo,2,4
+
+CollazoVictor,5
+
+CronkSamuelF,6
+>D>
+DandyRonaldJ,6
+
+DeMasiKathleenA,7
+
+DunnJohnJ,6
+>F>
+FarroPatricia,7,8,9
+>G>
+GarganDanny,4
+
+GoldbergAlanE,8
+
+GraciKimberlyA,1
+
+GuerreroJGuadalupe,7
+
+GuerreroJuanCarlos,2,4,9
+>H>
+HelmetagRobertW,8
+
+HustonRoryK,4
+>J>
+JenkinsSuzanneH,3
+>L>
+LermanMichael,7
+
+LevineCarolLynn,9
+
+LynchCathal,3
+>M>
+MartinSilvioL,8
+
+MartinezAlexander,8,9
+MilianCarlosJ,2
+
+MontoyaMarya,1
+
+MooreMichaelM,2
+
+MoscoRobert,2
+>N>
+NationsKeith,3,9
+>P>
+PerkinsBenWJr,6
+
+PinoMichaelV,1
+
+PolachekJanet,6
+
+PollaraFrankL,7
+
+PreciadoGuadalupe,5,9
+>R>
+ReidRobertEJr,5,7
+>S>
+SereyJuan,3
+
+SereyMarioJr,7,8,9
+
+ServisJason,4
+
+ServisJohnC,7
+
+StLewisUriah,4,8
+>T>
+TapsasElias,9
+>V>
+VazquezJuanC,2,3,8,9
+VegaRichard,8
+
+VelazquezAlfredo,1
+
+VolkScott,6
+>W>
+WhylieHeroldO,5,6
+
+WoodhouseMartin,1,7
+
+WynerHarold,6
+>Z>
+ZuluetaMarcos,5,6
+1ParxRacing
+Clm
+7500N1Y7Furlongs
+( 1:202)CLAIMING.Purse$21,000(PLUSUPTO40%PABF)ForFourYearOldsAndUpward
+WhichHaveNotWonARaceSinceSeptember6.Weight,124lbs.ClaimingPrice$7,500(Raceswhereenteredfor
+
+$5,000orlessnotconsideredineligibility).
+Posttime:12:55ETWagers:FirstHalfDailyDouble,Pick3,Exacta,50CentTrifecta,10CentSuperfectaBeyerpar:74
+1
+3-1
+MrBrioni
+
+Own:SouthViewStables
+
+Red,BlackHoops,BlackBarsOnSleeves
+SILVERAR(848814.10)2016:(66978.12)
+$7,500B.g(01.21.16)6(Mar)
+
+Sire:JumpStart(A.P.Indy)$10,000
+
+Dam:FirstClassDonna(Taylor'sSpecial)
+
+Br:Mr&MrsRickAbbott(Pa)
+
+Tr:PinoMichaelV(41943.22)2016:(31252.17)
+L124
+Life
+48896$337,635
+8620171010$5,32061
+
+201614222$62,64579
+
+Prx42796$310,89586
+D.Fst40895$320,40586
+
+Wet(353)6001$11,73065
+
+Synth0000$0-
+
+Turf(184)2000$5,50063
+
+Dst(347)5020$19,17576
+4Feb17-2
+Prxfst51/2f
+C222:472 1:002 1:0724^ Clmc-5000
+N2Y611/66681/45653221/2
+BeatoI
+L121fb7.1072-32MagicalFire11621/2MrBrioni1211Whateveryouwant1243Bumpstr,easeout
+ClaimedfromKilkaGregoryJ.for$5,000,WongJonathanTrainer2016:(2747148450.26)
+27Dec16-10
+Prxfst6f
+22 1:454:581 1:1123^ Clmc-7500
+N1Y7310/104533/443451/2323/4
+PenningtonF
+L124b4.9078-21CraftyConcorde12421/4
+IntheBeat
+1241/2MrBrioni12411/2Movedout,rally
+ClaimedfromArmstrongJackJ.for$7,500,MoscoRobertTrainer2016(asof12/27):(1632024330.12)
+10Dec16-5
+Prxfst61/2f
+223:461 1:12 1:1833^  Clmc-5000
+N1Y675/99831/2631/231111/2
+PenningtonF
+L124b*1.8082-17MrBrioni12411/2ChangeofSesons11711/4Estricktor124hd Closedrail,clearlate
+ClaimedfromBushRacingStablefor$5,000,MontoyaMaryaTrainer2016(asof12/10):(1191114140.09)
+18Oct16-1
+Prxfst6f
+223:46:583 1:1123^ Clmc-7500
+N2Y489/11111061/41111111311141/2
+LopezCC
+L121b19.1066-22ThMornngGuys117nk
+Strongbkstltos
+12431/4WldStrt1213/4Farbackthroughout
+ClaimedfromPacittiKathrynfor$7,500,CorrentiArmandWTrainer2016(asof10/18):(131120.08)
+9Aug16-7
+Prxfst61/2f
+S22 1:444 1:092 1:164^ Clm16000
+N1Y602/6655553/46116121/2
+PerezIO7
+L117b10.5082-14He'sSoFine12431/2Peteizum1242Elevated12421/2Gavewayreadily
+17Jly16-7
+Prxfst7f
+233:461 1:11 1:2333^ Clmc-10000
+7410/108831/4651/2311/221/2
+SanchezMJ
+L120b3.20e87-16HesaSlamDunk1221/2MrBrioni12053/4MrMsterpiece11321/4Wideearly,raillane
+ClaimedfromCiavardoneRichardfor$10,000,MoscoRobertTrainer2016(asof7/17):(961513230.16)
+28Jun16-5
+Prxmyø170
+234:474 1:13 1:444^ Clm16000
+N1Y338/874731/4791/27157313/4
+VargasJAJr
+L124b9.0044-24Graybignbadlikedad1243
+DoaLegger
+1241BigTown1171/2Stepslow,nofactor
+19Jun16-4
+Prxfst61/2f
+223:454 1:11 1:1734^ Clm10000
+796/74613/4421/2211/2211/4
+SanchezMJ
+L122b9.1086-19BlastAway12011/4MrBrioni12281/4RealEstateRich120nkWide,nolategain
+7Jun16-6
+Prxfst1
+24:474 1:133 1:3914^ Clm16000
+N1Y701/6633/4411/2533/447363/4
+SanchezMJ
+L124b7.5069-29Neshaminy12443/4
+Graybignbadlikedad
+1242MrBrioni1241/2Steady,faded
+22May16-6
+Prxslyø61/2f
+S222:451 1:11 1:1744^ Clm16000
+N1Y655/74781/4753/4751/2751/2
+SanchezMJ
+L124b12.6081-20CastaDoubt124nkQuepos117óZippedCode124hd Fractiousgate,outrun
+23Apr16-3
+Prxfst6f
+223:46 1:59 1:1214^ Clm12500
+N1Y707/7645332211/2
+VargasJAJr
+L124b11.2077-25MrBrioni1241/2
+HarborKid
+12421/2Don'tBeMad1241/2Randownleaderlate
+2Apr16-2
+Prxfst170
+S24:48 1:132 1:444^ Clmc-7500
+N1Y473/64445541/25115181/2
+PerezIO7
+L117b7.2057-32StreetInvader12481/4WaterTower1241TurntoTravis12411/4Inside,tired
+ClaimedfromKnychRobertfor$7,500,BedardAlanTrainer2016(asof4/2):(100120.00)
+WORKS:Feb28Prx4ffst:501B
+29/52
+Jan21Prx5fgd 1:014B
+4/8
+Jan10Prx4ffst:49B
+19/43
+TRAINER:1stClaim
+(83.18$1.87)
+Dirt
+(313.18$1.48)
+Sprint
+(222.18$1.69)
+Claim
+(215.18$1.28)
+J/T2016-17PRX(77.19$1.61)J/T2016-17(94.19$1.60)
+2
+6-1
+ItDoesntEndWell
+
+Own:BushRacingStable
+
+Gold,Gold"BushRacingStable"OnGreen
+GONZALEZS(107121114.11)2016:(60363.10)
+$7,500B.g(01.30.16)5(Mar)
+
+Sire:SkyMesa(Pulpit)$15,000
+
+Dam:Girlfrienontheside(IndianCharlie)
+
+Br:ElkstoneGroupLLC(Pa)
+
+Tr:MontoyaMarya(19225.11)2016:(12612.10)
+L119
+5Life
+29491$129,240
+7820172000$2,05073
+
+201616251$67,05878
+
+Prx7021$19,30277
+D.Fst19351$92,27178
+
+Wet(393)2100$11,18449
+
+Synth6040$25,41060
+
+Turf(324)2000$37549
+
+Dst(392)0000$0-
+18Feb17-9
+Prxfst61/2f
+C223:46 1:113 1:1824^ Alw10000s
+648/118931/4971/28136121/4
+SalgadoA
+L120b37.5071-25BecauseHeCan11311/4LongMyYouRun1221/2MlibuHigh11911/4Nevermenaced
+31Jan17-8
+Prxfst6f
+C222:462:592 1:1244^ Clm10000
+731/98881/4781/4523/4421/4
+PineroL7
+L113b27.2072-29BigSaver122óS.S.Minnow12013/4BabyCat1151/2Anglein,steady
+26Dec16-5
+Prxfst6f
+223:46 1:583 1:1123^ Clmc-5000
+N1Y637/105411/2411/222313/4
+PenningtonF
+L120b*.7079-19JokerMan11511/2AndrewL120nkItDoesntEndWell1203/4Angledin,flattened
+ClaimedfromPewterStablefor$5,000,DeMasiKathleenATrainer2016(asof12/26):(3986068540.15)
+22Nov16-1
+Prxfst51/2f
+ý233:482 1:01 1:0733^ Clmc-5000
+N1Y632/11118253/42123/4
+LopezCC
+L120b*1.9072-31MagiclFire1203/4ItDoesntEndWell12011/4
+CstDoubt
+1136Offslowly,neededbid
+ClaimedfromEstradaRacingStablefor$5,000,EstradaEberdTrainer2016(asof11/22):(5511940.20)
+18Oct16-1
+Prxfst6f
+223:46:583 1:1123^ Clmc-7500
+N2Y6410/115527466571/4
+VargasJAJr
+L121b11.4074-22ThMorningGuys117nk
+Strongbkstltos
+12431/4WldStrt1213/4Closewide,faltered
+ClaimedfromWernerRobertEfor$7,500,MoscoRobertTrainer2016(asof10/18):(1371819280.13)
+25Sep16-6
+Prxfm5f
+ê22:453:5733^ Clm16000
+499/109971/4993/410121091/2
+VargasJAJr
+L120b11.6081-09PrkAvenueAppl1151RocktMnRichi11511/4SinIndin1203/4Verywide,nofactor
+11Sep16-7
+Prxfst6f
+23:464:59 1:1113^ Clmc-8000
+773/7341421/23323
+HernandezJA
+L120b7.5079-19
+PrkAvnAppl
+1153ItDosntEndWll1203/4MrMstrpc12051/2Widelane,closedwell
+ClaimedfromJacksonAllenfor$8,000,PerriGinaTrainer2016(asof9/11):(9399100.10)
+12Aug16-5
+Penfst51/2f
+222:453:572 1:0333^ Alw6250s
+653/7744531/255663/4
+HernandezJA
+L119b6.5093-08FiveCents12323/4WaitinOnOne11911/2MoneyTree1201/2Slowst,2p,nofactor
+3Aug16-4
+Penfst5f
+ï22:452:583^ Alw30680
+N1X605/88853/4651/25453
+HernandezJA
+L119b10.3092-11Johanna'sDelight1171FrontpageBoldtype1191
+FeelinGroovy
+1171/2Evenly
+15Jly16-6
+Penfst6f
+222:444:57 1:0913^ Alw29500
+N1X786/74531/2521/4441/2453/4
+WolfsontA
+L119b23.4092-05MachMyDay1192
+PeaShooterPro
+1202Rick'sBoy11913/4Wellrated,evenly
+23Jun16-3
+Penfm170
+ê222:452 1:091 1:3743^ Alw30680
+N1X444/8763/47107118168151/2
+CorujoW
+L119b11.0086-ArtieThriller114hd GreyGator1203/4GreekGod12133/4Slowstart,outrun
+4Jun16-9
+Penfst6f
+S22:442:56 1:0823^ Alw29500
+N1X631/777127147167153/4
+PineroL7
+L114b20.2086-08
+Edzctly
+11961/2PeShooterPro12013/4ChrlestonPier11911/4Bobbledstart,trailed
+WORKS:Jan27Prx4ffst:50B
+12/29
+Dec14Prx4ffst:501B
+34/64
+TRAINER:Dirt
+(140.11$1.12)
+Sprint
+(98.11$1.35)
+Claim
+(46.11$0.54)
+J/T2016-17PRX(11.09$2.58)J/T2016-17(17.06$1.67)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race1,page:1Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+3
+20-1
+BubblegumTree
+
+Own:LaurenCHoran
+
+LimeGreen,White"Lm",LimeGreenCap
+BURKEJ(7000.00)2016:(565.09)
+$7,500Dkb/brg(06.01.13)8(Apr)
+
+Sire:RequestforParole(JudgeTC)
+
+Dam:JuniperTree(PowerofMind)
+
+Br:TeaPartyStableInc(Pa)
+
+Tr:WoodhouseMartin(13010.00)2016:(683.04)
+L124
+Life
+57422$97,500
+7020173000$75048
+
+201618001$12,27562
+
+Prx39321$84,89070
+D.Fst43421$92,13570
+
+Wet(322*)10001$4,96562
+
+Synth1000$20034
+
+Turf(251*)3000$20065
+
+Dst(266*)11110$22,49555
+11Feb17-9
+Prxfst170
+232:471 1:122 1:4414^ Clm5000
+N1Y399/111093/411151121111911213/4
+RiveraHG
+L124fb107.0053-26StarofSarava1241
+Yougotthatgoinforu12431/4KodiakSyd1241/2Alwaysoutrun
+24Jan17-9
+Prxslyø170
+--UNKNOWN--
+234:482 1:14 1:4514^ Clm5000
+N1Y486/1063721/2943/487681/2
+FelixJMJr
+L124fb57.6061-25MoneyinyourPockt117hd MidnightTryst1194GdgtMn12423/4Between,empty
+14Jan17-6
+Prxfst170
+24 1:491 1:153 1:4644^ Clm7500
+N1Y354/101hd 2hd 733/410101022
+FelixJMJr
+L124fb115.3040-45Yakov1243/4FavorFactor1244Purim'sGold1191/2Duel,stopped
+6Dec16-4
+Prxfst170
+233:483 1:15 1:473^ Clm5000
+N1Y337/8883/4883/47107136161/2
+FelixJMJr
+L124fb20.4044-32
+SonofaGenerl124óPescitoDeNiro12421/2MidnightTryst1244Wide,nofactor
+29Nov16-9
+Prxslyø170
+234:474 1:141 1:473^ Clm5000
+N1Y362/11961/4871/279101410191/4
+FelixJMJr
+L124fb17.5042-38ChsingTwilight12461/2
+ForgottenKnot
+1241TurntoTrvis12411/2Failedtomenace
+1Nov16-1
+Prxfst170
+23:472 1:131 1:4423^ Clm5000
+N1Y562/737331/24639391/4
+FelixJMJr
+L124fb7.8065-23SintFinin1197ForgottenKnot12421/4BubblegumTree1244Wide,lackedrally
+15Oct16-10
+Prxfst170
+23:472 1:133 1:463^ Clm5000
+N1Y572/12861/2963/4551/245421/2
+FelixJMJr
+L124fb20.1063-30Amaman12421/4
+Sanculpa
+124nkForgottenKnot124hd Toolate
+19Sep16-9
+Prxslyø170
+224:464 1:123 1:4323^ Clm7500
+N1Y555/10651/2643/4633/434573/4
+FelixJMJr
+L124fb79.3071-19LittleJimmy1244
+Germaniac
+11913/4SpeedingTrain11713/4Verywidefinalturn
+10Sep16-6
+Prxfst170
+C23 1:472 1:13 1:4343^ Clm5000
+6212/121071/2971/4663/4575101/4
+FelixJMJr
+L120fb99.4067-23MySonErnie11711/4
+Speightscity
+1156Allstar
+1133Wide,nofactor
+3Sep16-11
+Prxfst7f
+222:45 1:10 1:233^  Alw43400
+N1R2612/12101071/21210112311241/4
+CastroSL
+L121fb123.7067-18CardioCowboy11721/2AwesomeAlex12131/2BrioMn117hd Verywide,nofactor
+2Aug16-5
+Prxfst170
+S23:463 1:12 1:4224^ Clm5000
+N1Y514/10101310141013811811
+ArguetaE7
+L117fb108.0073-16DeaconFurr1242Giroux1241/2JamesLee12421/4Passedfadingrivals
+19Jly16-4
+Prxfst11/16
+--UNKNOWN--
+242:48 1:132 1:4544^ Clm5000
+N1Y497/96867781/26135153/4
+CastroSL
+L124b76.7068-22
+MarketBlaster
+1241/2JamesLee12461/4Lubango1241/2Offslow,wide
+WORKS:Feb2Prx5ffst 1:052B
+2/2
+Dec30Prx4ffst:513B
+8/10
+TRAINER:Route/Sprint
+(8.00$0.00)
+Dirt
+(79.05$1.59)
+Sprint
+(44.02$0.36)
+Claim
+(78.05$1.61)
+J/T2016-17PRX(3.00$0.00)J/T2016-17(4.00$0.00)
+4
+2-1
+IntheBeat
+
+Own:DanielSAtwood
+
+Green,Beige"A"InHorseshoe,Green
+PENNINGTONF(109252515.23)2016:(721109.15)
+$7,500B.g(05.27.12)8(Mar)
+
+Sire:StreetSense(StreetCry*Ire)$45,000
+
+Dam:RhythmicalBeat(FusaichiPegasus)
+
+Br:SFBloodstock(Ky)
+
+Tr:VelazquezAlfredo(27576.19)2016:(16429.18)
+L124
+Life
+72789$256,973
+8620172011$6,09079
+
+201614341$59,49579
+
+Prx13252$52,90079
+D.Fst51667$205,82286
+
+Wet(418)12111$31,37077
+
+Synth3001$6,51677
+
+Turf(278)6010$13,26578
+
+Dst(324)15111$33,71586
+31Jan17-9
+Prxfst6f
+222:46:583 1:1214^ Clmc-7500
+N1Y7912/126831/254451/221
+McCarthyT
+L124*2.0076-29Repentant1171IntheBeat1243HarborKid124óVerywide,gaining
+ClaimedfromJaggerInc.for$7,500,NessJamieTrainer2016:(7611721171170.23)
+10Jan17-7
+Prxfst6f
+22 1:45:571 1:0914^ Clmc-5000
+N2Y702/73411/2411/233331/2
+DavisJA
+L1212.8088-08RJolleyDreamer121hd CastaDoubt11631/2IntheBet12111/2Lackedneededrally
+ClaimedfromPrestineRacingfor$5,000,VelazquezAlfredoTrainer2016:(1642930190.18)
+27Dec16-10
+Prxfst6f
+22 1:454:581 1:1123^ Clm7500
+N1Y743/106431/25435221/4
+DavisJA
+L1242.1079-21CraftyConcorde12421/4IntheBeat1241/2
+MrBrioni
+12411/24pathfor2nd
+4Dec16-5
+Prxfst51/2f
+C223:472 1:00 1:0623^ Clm7500
+N1Y674/978766531/222
+DavisJA
+L1243.7077-21
+Kay'sFinesse
+1192IntheBeat124ó
+RedRocketExpress
+1242Laterushforplace
+19Nov16-5
+Prxfst6f
+22 1:464:593 1:1233^ Clm7500
+N1Y687/114541/4413nk33/4
+DavisJA
+L1244.8074-28
+Simmstown
+119hd Kay'sFinesse
+1193/4IntheBeat12413/4Loomed,notenough
+6Nov16-5
+Prxfst51/2f
+224:47 1:002 1:0633^ Clm5000
+N2Y668/1010863/4772314
+PenningtonF
+L121*2.5078-27IntheBeat1214Coolusive1211/2BuckleberryGrey1143/4Railearly,drewaway
+PreviouslytrainedbyGulloGaryP2016(asof10/25):(1492718230.18)
+25Oct16-5
+Prxfst51/2f
+ý224:471 1:001 1:0713^ Clm5000
+6310/11998761/26541/2
+DavisJA
+L12010.1075-21Manando115nkJacapo122óCoolusive120hd Outside,strongfinish
+PreviouslytrainedbyDiMauroStephenL2016(asof10/1):(1351923200.14)
+1Oct16-2
+Prxmyø6f
+22 1:45:572 1:1013^ Clm5000
+N2Y683/64431/2441/2321/2231/4
+PenningtonF
+L1213.3084-13TheMorningGuys12131/4IntheBt1211/2Timtogivin12141/4Driftedout,gotplace
+12Sep16-9
+Prxfst6f
+22 1:453:581 1:113^ Clm5000
+N2Y639/104651/2581/259261/2
+DavisJA
+L12116.9076-20BullDozer12161/2IntheBeat1211/2PlymouthSqure12113/4Verywide,driftedout
+PreviouslytrainedbyMoscoRobert2016(asof8/7):(1081715240.16)
+7Aug16-9
+Prxfst7f
+23 1:46 1:111 1:2323^ Clm5000
+N2Y549/94713/4633/4661/27103/4
+RemedioM
+L1225.1078-10Invocation1244
+BullDozer
+1221Coolusive1224Verywide,lackedbid
+17Jly16-7
+Prxfst7f
+233:461 1:11 1:2333^ Clm10000
+587/103738768481/2
+RemedioM
+L1203.20e79-16He'saSlamDunk1221/2
+MrBrioni12053/4Mr.Masterpiece11321/4Lackedsolidrally
+2Jly16-9
+Delfst6f
+C22:454:59 1:1223^ Clm8000
+(8-7)
+621/66451/255461/243
+CedenoC
+L1207.7075-25Obsess1202MoonlitPark120hd 
+Manando
+1201Ralliedmildly
+WORKS:Feb28Prx5ffst 1:014B
+5/13
+TRAINER:1stClaim
+(12.08$0.58)
+31-60Days
+(37.19$1.61)
+Dirt
+(197.18$1.61)
+Sprint
+(104.16$1.14)
+Claim
+(129.19$2.00)
+J/T2016-17PRX(8.50$2.88)J/T2016-17(9.44$2.56)
+5
+7-2
+SonofaGeneral
+
+Own:FlyingPStable
+
+HotPink,BlackDiamondFrameAnd'P,'
+ESQUIVELE(71679.08)2016:(66895.14)
+$7,500B.g(12.21.13)9(Mar)
+
+Sire:Mineshaft(A.P.Indy)$25,000
+
+Dam:GeneralJeanne(HonourandGlory)
+
+Br:HermitageFarmLLC(Ky)
+
+Tr:GraciKimberlyA(4010.00)2016:(29144.15)
+L124
+Life
+469712$352,063
+9720171010$3,80060
+
+20168112$31,76082
+
+Prx5112$22,09071
+D.Fst30658$236,78597
+
+Wet(374)10124$75,07092
+
+Synth4200$39,80087
+
+Turf(266)2000$40863
+
+Dst(374)1001$4,05066
+9Jan17-9
+Prxfst170
+223:461 1:111 1:434^ Clmc-5000
+N2Y607/1110131011973/4553/421
+PenningtonF
+L121b*3.3080-20FavorFactor1211SonofaGeneral12141/4LifesReward1211/2Hesitated,closed
+ClaimedfromSmith,DavidandKerrigan,Ronfor$5,000,PinkneyDaveTrainer2016:(132220.15)
+20Dec16-9
+Prxgd1
+ý23 1:461 1:104 1:3723^ Clm7500
+N1Y616/10811893/4981/266323/4
+PenningtonF
+L124b5.5082-09EtonBlue1241MarketBlaster11913/4SonofaGenerl124hd Slowstart,laterally
+6Dec16-4
+Prxfst170
+233:483 1:15 1:473^ Clmc-5000
+N1Y606/8773/4743/4521/41hd 1ó
+EsquivelE
+L124b*.8061-32SonofGenerl124óPscitoDNiro12421/2MidnightTryst1244Slowst,wide,drvg
+ClaimedfromFiveC'sStablefor$5,000,GraciKimberlyATrainer2016(asof12/6):(2603742320.14)
+17Oct16-2
+Prxfst170
+232:472 1:132 1:443^ Clmc-5000
+N1Y666/1212151211853/44638
+CarmoucheK
+L124fb3.1068-27
+MrBeerGoggles
+12451/2SaintFinian
+11921/2SonofaGeneral
+1246Headturn,boreout
+ClaimedfromFlyingPStablefor$5,000,LevineBruceNTrainer2016(asof10/17):(2453532350.14)
+8Aug16-6
+Prxfst1
+24 1:474 1:114 1:3724^ Clm12500
+N1Y714/974741/4763/458483/4
+SalgadoA
+L124fb3.8076-21WellingtonWizrd124nkGoodtimehdbyll12461/4Brtolome12421/4Passedfaders
+8Apr16-2
+Aqufst1
+S23 1:46 1:104 1:3714^ Clm25000
+644/7733/4797157136131/4
+CarmoucheK
+L120b7.7072-16ì
+PasstheDice
+120óIncaSaint12053/4MontyHaul11834-5wupper,noimpact
+PreviouslytrainedbyImperioJoseph2015:(457580.16)
+20Mar16-3
+Aqufst170
+--TRACK MARKER--S234:473 1:121 1:4314^ Clm32000
+734/6631/4641/2510410491/4
+VelasquezC
+L120b5.2075-25Narvaez11823/4
+WinterGames
+1202Bellarmine12041/25wupper,norally
+27Feb16-7
+Aqufst11/16
+--TRACK MARKER--25:493 1:141 1:4634^ Clmc-25000
+825/6212111/22hd 2ó
+VelasquezC
+L120b4.8081-21TugofWar120óSonofaGeneral12041/2Conspiracy1201/22p,bid5/16,gamely
+ClaimedfromConsoli,L.,Anthony,G.,Namm,S.,CTRacing,Ferrari,J.andNidweski,E.for$25,000,MiceliMichaelTrainer2015:(315150.16)
+16Jan16-7
+Aqugd170
+--TRACK MARKER--24:473 1:123 1:4324^ Clm40000
+594/668691/2615618622
+AlvaradoJ
+L118b6.9061-17Cerro11891/2Integrity12023/4BoxOffice12023/4Tuckrail1st,5p1/8pl
+26Dec15-6
+Aqufst1
+--TRACK MARKER--ý242:484 1:134 1:393^ Clmc-32000
+818/8623/4523112111/4
+VelasquezC
+L120b*1.6586-19SonofaGenerl12011/4ìPrivteTle1101/2BrndedHnd1203/45wupper,inchedaway
+ClaimedfromBlackSwanStablefor$32,000,RiceLindaTrainer2015(asof12/26):(4719492680.20)
+8Nov15-3
+Aqufst1
+23 1:454 1:104 1:373^ Clmc-32000
+811/653531/245461/2341/4
+OrtizIJr
+L120b1.9582-14Integrity1221/2LookingCool12233/4
+SonofaGeneral
+12041/45-6wupper,mildkick
+ClaimedfromBrewsterClarkO.for$32,000,AsmussenStevenMTrainer2015(asof11/8):(13262212281980.17)
+3Oct15-3
+Belslyø1
+S234:471 1:112 1:3713^ Clmc-32000
+832/7631/263611/2411/22ó
+OrtizJL
+L120b5.7078-17Rdthprospcts122óSonofGnrl1202Godtmhdbyll1221/24wupper,justmissed
+ClaimedfromSchwartzBarryK.for$32,000,RiceLindaTrainer2015(asof10/3):(3597065490.19)
+WORKS:Feb8Pen3fgd:392B
+7/7
+TRAINER:1stClaim
+(37.14$1.19)
+Route/Sprint
+(19.11$1.17)
+31-60Days
+(78.18$1.40)
+Dirt
+(334.17$1.70)
+Sprint
+(207.15$1.62)
+Claim
+(305.16$1.66)J/T2016-17PRX(8.25$1.62)J/T2016-17(16.25$2.00)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race1,page:2Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+6
+9-2
+Yougotthatgoinforu
+
+Own:IndianMillsStockFarm
+
+Yellow,BlackYoke,RedDotsOnSleeves
+CASTILLOA(39952.23)2016:(29539.13)
+$7,500Dkb/brg(09.07.12)7(Apr)
+
+Sire:StudentCouncil(Kingmambo)
+
+Dam:TheCat'sReach(Bernstein)
+
+Br:RREquineStablesLLC(Pa)
+
+Tr:AristonePhilipT(30463.13)2016:(27922.08)
+L124
+Life
+459510$368,389
+10520172110$12,88074
+
+201611121$46,56586
+
+Prx28547$248,965105
+D.Fst35839$314,178105
+
+Wet(350)6121$53,39691
+
+Synth1000$6158
+
+Turf(283)3000$20058
+
+Dst(353)7103$69,84095
+11Feb17-9
+Prxfst170
+232:471 1:122 1:4414^ Clmc-5000
+N1Y728/1131/23nk2hd 21/221
+RosadoRJ
+L124fb*1.7074-26StrofSrv1241Yougotthtgoinforu12431/4KodikSyd1241/2Vied,couldnotgetby
+ClaimedfromSulleyAndrewfor$5,000,FarroPatriciaTrainer2016:(9721401561470.14)
+27Jan17-7
+Penfst170
+22 1:461 1:12 1:4314^ Clm4000
+N1Y742/6231/2131/21216183/4
+RosadoRJ
+L123fb*.6088-15Yougotthtgonforu12383/4CosnMchl1233/4SnnyMlls12341/4Rated2p,riddenout
+20Dec16-9
+Prxgd1
+ý23 1:461 1:104 1:3723^ Clm7500
+N1Y522/10211/2211/2211/2551/2881/2
+EsquivelE
+L124fb5.7077-09EtonBlue1241MarketBlster11913/4
+SonofGenerl124hd Forcedpace,gaveway
+6Dec16-1
+Prxfst170
+ý224:464 1:133 1:4433^ Clm5000
+N2Y606/72hd 1213262131/2
+EsquivelE
+L121fb11.4059-32LwyrDv121131/2Yogotthtgonfr12111/2ShrpStck12131/4Nomatch,savedsecond
+7Nov16-3
+Prxfst1
+234:472 1:13 1:4013^ Clm7500
+N2Y485/711/21hd 321/25105161/4
+LopezCC
+L122fb6.0055-35Sanculpa1223/4MarketBlaster11911/2
+Invocation
+1222Viedinside,gaveway
+18Oct16-8
+Prxfst6f
+22:452:581 1:1123^ Clm16000
+572/96413/4523/478793/4
+EsquivelE
+L120fb30.8071-22ComncheRuler12013/4AwesomeDvin12011/4
+Doublthstyl
+120nkCarriedout,tired
+4Sep16-5
+Prxfst170
+C23:463 1:113 1:423^ Clm20000
+414/721/231/2681/2723728
+EsquivelE
+L120fb15.8058-19LawyerDve1204HesSoFine1203WellingtonWizrd12031/2Closewide,stopped
+21Aug16-7
+Mthfst11/16
+ý232:471 1:113 1:463^ OC20k/
+N1X295/942531/2991/28188341/4
+BocachicaO
+L120fb21.1043-20ChynnBull11521/4
+GourmtDlght
+12241/2SmoothTlknTom12421/2Bumpedstart,3w
+11Jun16-9
+Prxfst6f
+222:454:582 1:1114^ Clmc-16000
+N1Y861/863nk1hd 11/2121/4
+BeatoI
+L124b3.2082-15Yougotthtgonforu12421/4Ptzum12421/2
+Doublthstyl
+124nkRailduel,edgedaway
+ClaimedfromLongBallStableLLCfor$16,000,VegaRichardTrainer2016(asof6/11):(77816120.10)
+29May16-7
+Prxfst1
+24:471 1:121 1:3933^ OC25k/
+N2X745/61111/221/2331/2661/2
+BeatoI
+L120b6.1067-30Fara'sKid1203/4LawyerDave1241Caliparty1203Stepslow,usedup
+26Apr16-6
+Prxfst1
+24 1:481 1:131 1:4014^ Clmc-16000
+N1Y752/71hd 11/221/222241/4
+LopezCC
+L124fb*2.2067-36MorHndrdAcr12441/4Yogotthtgnfr12433/4
+MdnghtTryst
+12461/2Dueled,nomatch
+ClaimedfromFarroPatriciafor$16,000,FarroPatriciaTrainer2016(asof4/26):(1932834300.15)
+19Mar16-3
+Prxfst1
+234:473 1:134 1:4014^ Clmc-16000
+N1Y612/61hd 121/211/22136
+FelixJMJr5
+L119b*1.6065-24MasterYank12451/2WhiskeySour1241/2Yougotthatgoinforu1193Fadeddrive
+ClaimedfromTouchdownStableandKamikazeStablefor$16,000,AristonePhilipTTrainer2015:(4724660640.10)
+WORKS:Jan22Prx4ffst:501B
+22/28
+TRAINER:1stClaim
+(12.17$2.23)
+Route/Sprint
+(21.05$3.34)
+Dirt
+(310.09$1.23)
+Sprint
+(215.10$1.50)
+Claim
+(209.07$0.96)
+J/T2016-17PRX(122.12$1.83)J/T2016-17(145.12$1.69)
+7
+15-1
+KidKelly
+
+Own:PatrickSAshton
+
+Turquoise,Turquoise"Pa"OnBlackBall
+BOWMANA(44120.02)2016:(28113.05)
+$7,500Dkb/brg(07.22.15)5(May)
+
+Sire:BellamyRoad(Concerto)$7,500
+
+Dam:KellyMac(ThunderGulch)
+
+Br:ThomasMcClay(Pa)
+
+Tr:AshtonPatrick(16100.06)2016:(515.10)
+L124
+Life
+23320$57,773
+7220173000$1,04061
+
+201611120$36,92572
+
+Prx14120$38,21572
+D.Fst17020$22,57372
+
+Wet(392)1100$17,64067
+
+Synth4200$17,56056
+
+Turf(237)1000$050
+
+Dst(343)2000$2,23562
+18Feb17-10
+Prxfst51/2f
+C22 1:463:594 1:0634^ Clm5000
+N1Y437/105631/2953/41091/410103/4
+BowmanA
+L124f18.9068-25Ameridude124óBrolic117hd 
+StudentUnion
+124óWide,dropback
+28Jan17-10
+Prxfst6f
+23:464:592 1:1244^ Clm5000
+N1Y613/109421/4421/4421/2521/2
+RosarioMA
+L124f25.2071-23HesaSlmDunk1241/2StudentUnion12411/2NextRight1241/2Offslow,flattenout
+16Jan17-1
+Prxfst51/2f
+222:46 1:584 1:054^ Clm7500
+N2Y456/75641/2671/26106111/4
+FelixJMJr
+L121f18.2076-21Kay'sFinesse11633/4TroubleWithGirls117óUntethered121nkOutrun
+31Dec16-7
+Prxfst6f
+212:443:564 1:1013^ Clm12500
+273/101091210119178211/4
+FelixJMJr
+L120f7.4066-16LongMyYouRun120hd 
+Smmstown
+1155RubysLov122nkStumbledatthestart
+11Dec16-6
+Prxfst7f
+224:452 1:11 1:2423^ Clm20000
+N4L627/912hd 2hd 21441/2
+FelixJMJr
+L12014.8079-18WildcatSailor1152MiniCosmo12011/4MiAmore12011/4Vied2wide,faded
+28Nov16-8
+Prxfst6f
+22 1:454:581 1:123^ Clm10000
+N4L5610/104441/2561/26145141/4
+FelixJMJr
+L120f64.3064-29HighI.Q.Pete119121/4Ameridude1131/2
+InstructorKunu
+1223/4Wide,tired
+PreviouslytrainedbyPreciadoRamon2016(asof10/19):(3176050390.19)
+19Oct16-6
+Penfst6f
+22:46:583 1:1143^ Clm6250
+(6.25-6)
+N4L323/83211/2721/2893/47131/4
+FloresJL
+L119b*2.0072-12LittlRocco12131/4ThorsChmpion1151HonourthVow11911/2Chased,weakened
+27Sep16-1
+Prxfst51/2f
+ý214:454:59 1:0533^ Clm10000
+N4L376/83341/236687101/4
+LopezCC
+L119b4.8073-12BeauJangles1221/2Readyheartandsoul120ó
+BonVoyage
+11361/2Inside,empty
+10Sep16-4
+Prxfst7f
+22 1:444 1:103 1:2423^ Clm10000
+N4L534/104112hd 681/2712
+NavarroJ
+L120b7.2072-17BlastAway11513/4Readyheartandsoul12211/2Ameridude11331/2Pace,tired
+16Jly16-6
+Prxfst6f
+ý213:45 1:573 1:1033^ Clm7500
+N4L572/114121/211/22347
+NavarroJ
+L122b*3.0078-15BeaHero12061/2RCardinalOne122nkSunshineMark122nkPace,tired
+25Jun16-3
+Prxfst6f
+22:452:58 1:113^ Clm15000
+N4L724/742hd 22221/2233/4
+NavarroJ
+L122b10.3079-20
+MinetheStore
+12233/4KidKelly1222Ameridude113óDueledwinner,nomatch
+6Jun16-9
+Prxfst6f
+C214:453:581 1:1113^  Alw42600
+N1R478/81111/221/28108111/4
+NavarroJ
+L121b6.3071-15FlshyKyem116nkTrueKnockout1161AwsomAlx12111/4Squeezedbacktiring
+WORKS:Feb7Prx4ffst:50B
+13/32
+Jan25Prx3ffst:352B
+1/2
+TRAINER:Dirt
+(66.09$2.10)
+Sprint
+(18.00$0.00)
+Claim
+(50.10$1.92)
+J/T2016-17PRX(8.00$0.00)J/T2016-17(9.00$0.00)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race1,page:3Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+2ParxRacing
+Clm
+5000N2Y51/2Furlongs
+( 1:013)CLAIMING.Purse$19,000(PLUSUPTO40%PABF)ForFourYearOldsAndUpward
+WhichHaveNotWonTwoRacesSinceSeptember6.Weight,124lbs.Non-winnersOfARaceSinceFebruary6
+
+Allowed3lbs.ClaimingPrice$5,000(RacesWhereEnteredFor$4,000OrLessNotConsideredInEligibility).
+Coupled-WesternConquerorandWhateveryouwant
+Posttime: 1:22ETWagers:SecondHalfDailyDouble,Pick3,Exacta,50CentTrifecta,10CentSuperfectaBeyerpar:69
+2
+10-1
+SienaIndian
+
+Own:GustavoChacon
+
+Teal,WhiteDiamondBelt,WhiteDiamond
+CASTILLOD(70159.01)2016:(33920.06)
+$5,000B.g(01.23.15)6(May)
+
+Sire:WildcatHeir(ForestWildcat)$10,000
+
+Dam:OnetoFive(Naevus)
+
+Br:BrentFernung&CrystalFernung(Fla)
+
+Tr:ChaconGustavo(26135.04)2016:(833.04)
+L121
+Life
+29315$48,220
+74201620112$27,14574
+
+20158203$20,93064
+
+Prx17011$14,47057
+D.Fst22313$39,38564
+
+Wet(399)2001$2,94054
+
+Synth0000$0-
+
+Turf(309)5001$5,89574
+
+Dst(403)15202$22,83562
+9Dec16-4
+Penfst51/2f
+22 1:46 1:584 1:0523^ Clm5000
+N3L539/92111/2121111
+CastilloD
+L119b13.0091-11SienaIndian1191Starbound112nkInformtionCenter1191Skipclear,heldon
+28Nov16-4
+Prxfst6f
+C222:464 1:00 1:143^ Clm7500
+N3L298/111111/22hd 881/211143/4
+CastilloD
+L120b29.4053-29Tot120nkWhiteBluff11511/2ChubbyWhoWho113nkCameout,wide,tired
+12Nov16-2
+Prxfst51/2f
+222:47 1:594 1:0633^ Clm7500
+N3L515/9121/221/21hd 673/4
+CastilloD
+L120b20.4070-20
+RemainSilent
+11811/2QuietMiracle11511/4
+Tot
+12031/24p,tired
+23Oct16-6
+Prxfst51/2f
+222:47:593 1:0613^ Clm10000
+N3L233/1011hd 211/28118153/4
+CastilloD
+L120b23.8064-20NellieFox1203ThisMightBe115nkBensational1154Dueled,tired
+15Oct16-3
+Prxfm5f
+ê22 1:46:5833^ Clm16000
+627/10121/2421/2751/2751/4
+CastilloD
+L120b26.3081-16CitysFastLane1131/2SylvenPrk1203/4MerrysHonor121nkClosebetween,tired
+8Oct16-6
+Prxfst5f
+ï222:46:583^ Alw85720
+N1X505/731hd 21565141/2
+CastilloD
+L120b15.9079-18
+BrioMan
+11773/4BabyCat115hd RedHotLooks11933/4Duel,tired
+25Sep16-6
+Prxfm5f
+ê22:453:5733^ Clm16000
+745/10211/211/211/2321/4
+CastilloD
+L120b14.0089-09PrkAvenueAppel1151RocketMnRichie11511/4SienIndin1203/4Pace,weakened
+17Sep16-6
+Prxfm5f
+ê212:44:5543^ Alw10000s
+741/1033243441/4551/4
+CastilloD
+L120b74.9095-02BillytheBull12221/2
+BlueYGold
+12211/2BabyCat115nkInside,fadedlate
+11Sep16-2
+Prxfst51/2f
+23:47:591 1:0533^ Clm7500
+N3L346/87651/244586131/2
+CastilloD
+L120fb14.9069-19SpiritintheNite12061/4Dottie'sRay122nkThisMightBe1222Botheredstart
+6Aug16-2
+Prxfst6f
+22:45 1:58 1:1113^ Clm7500
+N3L577/81111121/2363/4
+CastilloD
+L120fb44.2075-15ì
+BonVoyage
+1083/4Readyheartndsoul1206SienIndin120hd Lead,falteredlate
+Placedsecondthroughdisqualification
+26Jly16-4
+Prxfst5f
+ï22 1:453:584^ Alw10000s
+511/84535855593/4
+CastilloD
+L120fb33.5084-15
+DeferHeven
+12011/2AlfredoRomn
+12213/4NoMoreStripprs1246Bump,lostaction
+17Jly16-9
+Prxfst51/2f
+22 1:453:574 1:0423^ Clm7500
+N3L405/1011121/2571/41014
+RiveraE
+L120fb22.4075-16YeahRocky11261/4BonVoyage10811/2GrisHombre12213/4Inside,stopped
+WORKS:Feb25Prx4ffst:49B
+6/27
+TRAINER:61-180Days
+(9.00$0.00)
+WonLastStart
+(3.00$0.00)
+Dirt
+(103.04$0.69)
+Sprint
+(74.04$3.59)
+Claim
+(96.05$3.18)
+J/T2016-17PRX(45.04$5.86)J/T2016-17(52.06$5.61)
+1
+5-2
+WesternConqueror
+
+Own:KingStar
+
+White,RedStripesOnSleeves,WhiteCap
+HADDOCKD(2000.00)(>)
+$5,000B.h.5(Mar)
+
+Sire:WestAcre(FortyNiner)
+
+Dam:EmpireBeauty(EmpireMaker)
+
+Br:GilbertGCampbell(Fla)
+
+Tr:VazquezJuanC(5714315.25)2016:(25649.19)
+L111
+10Life
+17430$91,420
+7720171000$25048
+
+201611330$61,50075
+
+Prx7110$31,22075
+D.Fst16430$91,17077
+
+Wet(414)1000$25066
+
+Synth0000$0-
+
+Turf(316)0000$0-
+
+Dst(414)1010$3,80068
+28Jan17-6
+Prxfst6f
+224:46 1:583 1:1144^ Clmc-8000
+487/74613/47117136143/4
+SalgadoA
+L120b5.8064-23Pomeroy'sPackage11531/2Kay'sFinesse11931/2Jacapo1202Verywide,tired
+ClaimedfromJustInTimeRacingLLCfor$8,000,PinoMichaelVTrainer2016:(3125255460.17)
+17Dec16-6
+Prxmy7f
+223:453 1:111 1:2423^ Alw10000s
+661/1154296993/48121/4
+SilveraR
+L120b13.1072-17BecauseHeCan1152Secretive122óPrinceZurs11721/2Inside,tired
+18Oct16-8
+Prxfst6f
+22:452:581 1:1123^ Clmc-16000
+567/98969119118101/2
+SanchezMJ
+L124b9.3070-22ComncheRuler12013/4AwesomDvin12011/4
+Doublthstyl
+120nkAnglein,nofactor
+ClaimedfromBarbantiAnthonyfor$16,000,SienkewiczWilliamMTrainer2016(asof10/18):(1171713210.15)
+26Sep16-4
+Prxfst61/2f
+C214:443 1:11 1:183^ Clm20000
+N4L753/98853/476741/41nk
+SanchezMJ
+L120b6.0085-22WesternConqueror120nkìSirrAnch1201InkyDinkyDo116hd Inside,justup
+16Jly16-3
+Prxfst61/2f
+22:443 1:101 1:173^ Clm15000
+N4L751/76641/4753/4521/22nk
+SanchezMJ
+L124b5.2090-15DoubletheChers120nk
+WstrnConquror
+1241/2QuFcil12421/2Splitfoes,latesurge
+7Jly16-2
+Delfst6f
+214:45:58 1:1023^ Clm10000
+(10-7.5)
+N3L701/666734111/2153/4
+SpiethS
+L122b*1.4088-13WstrnConquror12253/4PtrickRocks11311/4
+CltcMoon
+12211/4Circled,goingaway
+PreviouslytrainedbyGorhamMichaelE2016(asof6/25):(75121060.16)
+25Jun16-6
+Delfst51/2f
+22:46 1:583 1:0433^ Clm15000
+(15-10)
+N3L681/6444433122
+RodriguezED
+L122b*1.3087-19PrfctGmCin1222
+WstrnConquror
+1222FifthAvnuFlsh11081/2Bid,finishedwell
+29May16-4
+Mthfst6f
+22:45:572 1:1023^ Clm25000
+(25-20)
+N3L591/55561/2531/244471/2
+CintronA
+L121b2.3082-10BigAwesome1215Tizcano121hd GreedIsGood11921/2Outrun
+26Mar16-6
+Prxfst6f
+222:45:571 1:1014^ Alw25000s
+552/75551/26116135111/4
+NavarroJ
+L124b9.3076-16
+Duval
+12121/2Here'saJetpack1211SirRockport12113/43path,tired
+11Mar16-5
+Lrlfst7f
+233:472 1:123 1:2524^ OC25k/SAL25k-N
+733/7664633/41hd 11
+CarrascoVR
+L120b*1.8082-21WesternConqueror1201Sugimoto120nkLanier12221/45wdturn,driving
+31Jan16-6
+Lrlfst6f
+C224:462:583 1:1134^ OC25k/SAL25k
+706/867868672nk
+ConnerT
+L120b5.0084-18AFnnySong120nk
+WstrnConqror
+120nkSgmoto1223/4Bmp,5w,runbw,angl,gme
+4Jan16-7
+Lrlfst6f
+ý223:462:584 1:1124^ Alw44646
+N1X692/13105265743/477
+CintronA
+L120b9.7078-17ThoroughbredFuel124nkGursky124hd WildctRunner12421/2Railturn,norally
+WORKS:Feb28Prx4ffst:50B
+27/52
+Jan22Prx4ffst:50B
+16/28
+Jan10Prx4ffst:481B
+9/43
+TRAINER:1stClaim
+(27.22$1.70)
+31-60Days
+(88.18$1.54)
+Dirt
+(306.20$1.81)
+Sprint
+(158.22$1.60)
+Claim
+(186.23$2.05)
+3
+7-2
+Tipyourwaiterwell
+
+Own:KaseyKRacingStableLLCFinalTurn
+
+LimeGreen,BlackDiamondBelt,Green
+TORRESJ(26204.08)2016:(40420.05)
+$5,000B.g(09.05.15)4(Mar)EASSEP14$25,000
+
+Sire:TalentSearch(Catienus)$2,500
+
+Dam:Abbicadabra(Citidancer)
+
+Br:GlennEBrokLLC(Pa)
+
+Tr:MooreMichaelM(23222.09)2016:(12618.14)
+L114
+7Life
+19314$143,430
+8020173001$3,74665
+
+201610212$80,92480
+
+Prx19314$143,43080
+D.Fst18313$135,57680
+
+Wet(409)1001$7,85467
+
+Synth0000$0-
+
+Turf(278)0000$0-
+
+Dst(364)7002$20,69467
+14Feb17-4
+Prxfst6f
+222:453:583 1:1124^ Clm5000
+N2Y655/8111/21hd 11/2351/4
+TorresJ7
+L114fb5.8076-22McKenziesWay11651/4AndrewL124hd Tipyourwaiterwell11441/43path,faded
+4Feb17-2
+Prxfst51/2f
+C222:472 1:002 1:0724^ Clm5000
+N2Y435/611hd 2hd 32510
+PerezJM7
+L114fb6.8065-32MagicalFire11621/2MrBrioni1211
+Whateveryouwant1243Dueled,tired
+PreviouslytrainedbySereyMarioJr2016:(5469479610.17)
+17Jan17-7
+Prxfst51/2f
+22 1:453:58 1:0424^ Clm12500
+501/911hd 2hd 781/27123/4
+CaballeroH
+L120fb4.4077-19Simmstown11531/2
+BigSaver
+12023/4RemainSilent12011/2Dueled,tired
+31Oct16-8
+Prxfst61/2f
+ý22:45 1:101 1:173^  Alw44250
+N2R473/732hd 21/27117123/4
+GonzalezS5
+L112fb12.4077-13RunsforLuck1201/2ìPurcell1143/4GravesIsland11723/4Bump,duel,tired
+Placed6ththroughdisqualification
+25Oct16-8
+Prxfst5f
+ý223:47:5943^ Alw82512
+N1X635/1143nk11/221/2641/2
+CaballeroH
+L119fb11.3081-21Strongbaksteeltoes120óPigPen117hd 
+Amplified
+1202Vied,tired
+10Oct16-9
+Prxfst7f
+C22:451 1:102 1:2323^  Alw66600
+C778/812hd 11/2211/2431/2
+CaballeroH
+L117fb12.8085-16FlashyKyem11711/4GravesIsland11713/4WatchMyDust1171/2Pressured,yielded
+18Sep16-2
+Prxfst6f
+213:45:574 1:1113^ Clmc-20000
+N3L755/7111/211121/2123/4
+CaballeroH
+L118fb*1.5082-15Tipyourwiterwell11823/4
+JohnnyU
+1227TheSilverSniper1181/2Bump,drift,drvg
+ClaimedfromRidgeEdwardM.for$20,000,PearcePennyTrainer2016(asof9/18):(508570.16)
+1Aug16-5
+Prxfst6f
+213:44:56 1:093^  Alw44600
+C682/84511/4431/2781/289
+AcostaJD
+L119b12.5084-08Amplified120hd RunsforLuck12023/4RedDoctober113nkRailearly,gaveway
+19Jly16-8
+Prxfst6f
+222:45 1:572 1:1023^  Alw42400
+C807/712hd 1hd 121/211/2
+CaballeroH
+L119b5.4086-17Tipyourwitrwll1191/2MrRomnc121hd RgingChmpion12111/4Duel,clear,lasted
+27Jun16-8
+Prxfst51/2f
+ý22 1:454:59 1:0543^  Alw43000
+N1R622/108413/431521/4671/2
+CaballeroH
+L118fb9.7074-22LarcoMar11921/2PigPen1161/2
+Wordplay
+1213Tookup,gaveway
+23May16-7
+Prxfst6f
+22:444:571 1:0943^ Alw55580
+N2L794/622hd 1hd 2hd 221/2
+CaballeroH
+L119b23.8086-14AtGurd11621/2Tipyourwtrwll1191
+Furyofthnorsmn
+1213/4Viedoutside,gametry
+2May16-7
+Prxmyø51/2f
+22:454:58 1:0423^ Alw65484
+N2L672/531hd 1hd 211/2331/4
+FelixJMJr5
+L114fb13.2086-13PoisedforAction11621/4Starbound1211Tipyourwaiterwell1148Vied,tired
+WORKS:Jan13Prx4fmy:512B
+10/15
+TRAINER:Dirt
+(149.13$1.62)
+Sprint
+(104.12$1.76)
+Claim
+(107.16$2.04)
+J/T2016-17PRX(5.20$2.68)J/T2016-17(7.14$1.91)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race2,page:4Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+1a
+5-2
+Whateveryouwant
+
+Own:KingStar
+
+White,RedStripesOnSleeves,WhiteCap
+CEDENOC(81161117.20)2016:(712114.16)
+$5,000Ch.g(05.25.16)5(May)
+
+Sire:Kantharos(LionHeart)$15,000
+
+Dam:Reeyre(RegalRemark)
+
+Br:LorenDNichols(Fla)
+
+Tr:VazquezJuanC(5714315.25)2016:(25649.19)
+L121
+Life
+23463$177,159
+8820172101$12,89078
+
+201612031$36,07988
+
+Prx6111$21,49078
+D.Fst20462$167,22988
+
+Wet(389)2001$9,46070
+
+Synth0000$0-
+
+Turf(351)1000$47068
+
+Dst(447)4111$26,49081
+4Feb17-2
+Prxfst51/2f
+C222:472 1:002 1:0724^ Clm5000
+N2Y596/622hd 1hd 2hd 331/2
+CedenoC
+L124f*1.1071-32MagicalFire11621/2MrBrioni1211Whateveryouwant1243Duel,driftin,tired
+9Jan17-7
+Prxfst51/2f
+22 1:45:57 1:0314^ Clm5000
+N1Y786/10211/2111/212113/4
+CedenoC
+L124f3.8096-12Whteveryouwnt12413/4NextRight12433/4HectorsPride1242Pace,steadydrive
+28Nov16-8
+Prxfst6f
+22 1:454:581 1:123^ Clm10000
+N4L482/1010961/4771/2818818
+CedenoC
+L120f9.0060-29HighI.Q.Pete119121/4
+Ameridude1131/2InstructorKunu
+1223/4Offslow,outrun
+7Nov16-4
+Prxfst6f
+22 1:454:582 1:1143^ Clm10000
+N4L503/86541/2551/26106103/4
+CedenoC
+L120f*1.4068-25BonVoyage115nkInstructorKunu12251/2NellieFox12411/4Wide,tired
+24Oct16-5
+Prxfst6f
+224:47:592 1:123^ Clmc-8000
+708/95511/4421/4451/2251/2
+PenningtonF
+L120*1.1072-27
+BecauseHeCan
+11351/2Whteveryouwnt120óElKrcken12011/4Bidturn,upplace
+ClaimedfromWycoffJordanV.for$8,000,MakerMichaelJTrainer2016(asof10/24):(8911731341040.19)
+16Oct16-6
+Prxfst61/2f
+22:452 1:104 1:1733^ Alw25000s
+754/1242hd 1hd 33861/4
+AcostaJD
+L121b21.9081-18RollTideRoll12111/2Tashreeh1243/4MelloGroove12421/2Dueled,tired
+24Sep16-9
+Belgd6f
+ê214:45:563 1:093^ Clm25000
+681/7335321/2653/4683/4
+RosarioJ
+L120b3.5086-05TheImposter1222
+Rapscallion
+1223/4McIlroy
+120nkChased2-3w,weakened
+21Aug16-5
+Sarfst6f
+ý22:45:572 1:1023^ Clmc-16000
+673/83112hd 43761/2
+BridgmohanSX
+L120b8.4083-14Chelios1243/4
+Gambler'sGhost
+1223/4YouKnowIKnow
+12013/42-3wbetw,weakened
+ClaimedfromOurSugarBearStableLLCfor$16,000,BrownBruceRTrainer2016(asof8/21):(2071522320.07)
+3Aug16-6
+Sarfst6f
+22:45:564 1:093^ Clm32000
+5511/11843/4521/2111011191/2
+LopezP
+L120b14.2077-09MonsterMash1221RoyalSaint12433/4
+Brewing
+1203/4Chased5w,gaveway
+19Jun16-3
+Belfst61/2f
+22 1:451 1:091 1:1533^ Clm50000
+881/7111121/221433/4
+FrancoM
+L120b11.4092-09CelebratedTlent12021/4SecondCity122óRockford12411/2Ins,testupper,wknd
+18May16-5
+Belfst6f
+22 1:452:57 1:0913^ Clmc-25000
+865/82211/221/21hd 22
+EsquivelE
+L120b8.5092-08RichiesRich1242Whtevryouwnt120hd Glrdondo12411/22p,btwnfoesupr-1/16
+ClaimedfromJacobsonDavidfor$25,000,JacobsonDavidTrainer2016(asof5/18):(2213736310.17)
+16Apr16-3
+Aqufst61/2f
+234:464 1:104 1:174^ Clmc-20000
+776/6532341/22324
+CancelE
+L1182.1590-08Gentrify1204Whateveryouwant118nkFrazil11821/2Rated3w,wkndlate
+ClaimedfromRiccioJamesA.for$20,000,NevinMichelleTrainer2016(asof4/16):(871918140.22)
+WORKS:Feb28Prx4ffst:50B
+27/52
+Jan4Prx4fsly:501B
+10/18
+TRAINER:Dirt
+(306.20$1.81)
+Sprint
+(158.22$1.60)
+Claim
+(186.23$2.05)
+J/T2016-17PRX(123.17$1.73)J/T2016-17(132.17$1.69)
+4
+6-1
+FinalRitual
+
+Own:WilfredoVargas-Caraballo
+
+Yellow,Black"Dh"OnRedDiamond,Red
+CABALLEROH(87161810.18)2016:(48684.17)
+$5,000Ch.g(07.26.15)5(Feb)
+
+Sire:TrustNLuck(Montbrook)
+
+Dam:DevilishAction(Rhythm)
+
+Br:AmyWarren(Pa)
+
+Tr:CaraballoWilfredoV(5011.00)2016:(435.12)
+L121
+Life
+28432$105,465
+7720175100$10,25066
+
+201615221$72,16577
+
+Prx23322$88,26177
+D.Fst22322$85,05777
+
+Wet(359)5110$17,88868
+
+Synth0000$0-
+
+Turf(225)1000$2,52054
+
+Dst(316)4011$6,95040
+17Feb17-5
+Penfst1
+ý242:47 1:12 1:3834^ Clm6250
+(6.25-6)
+662/71hd 111hd 211/2481/4
+GarciaF
+L119b17.8081-20GoldMan11941/4NiceSurprise11433/4Foileen121nkRail,tired
+6Feb17-7
+Prxfst1
+ý234:473 1:143 1:4314^ Clm7500
+N2Y276/811/21hd 2hd 591/2823
+FloresJL
+L124fb25.6033-51EtonBlue1216BigTown1213/4Ghareeb12433/4Viedoutside,stopped
+28Jan17-2
+Prxfst1
+24 1:48 1:132 1:4114^ Clm5000
+N2Y596/1021/2213134571/4
+OcasioLM5
+L116fb16.4059-38
+JackOLiam
+12141/2Allstar1211/2Elevated11611/4Wide,tired
+13Jan17-6
+Pengd1
+244:491 1:134 1:4014^ Clm4000
+N2Y606/101hd 2hd 1hd 1hd 1nk
+OcasioLM5
+L116fb*3.6081-19FinalRitul116nkNinsThermometer1216ScipofVindy1232Duelout,prevailed
+9Jan17-9
+Prxfst170
+223:461 1:111 1:434^ Clm5000
+N2Y378/111hd 1hd 2hd 9101015
+OcasioLM5
+L116fb11.6066-20FavorFactor1211SonofaGeneral12141/4LifesReward1211/2Duel4path,tired
+27Dec16-2
+Prxwf1
+242:48 1:131 1:393^ Clm7500
+N2Y505/711111/21hd 356153/4
+AcostaJD
+L122fb6.3061-29
+Sourcesandmethods
+12261/4Invocation
+12211/4Choroni12211/4Anglein,pace,tired
+25Nov16-5
+Penfst170
+232:472 1:122 1:4233^ Alw10000s
+664/6111121/2394173/4
+RosadoRJ
+L123fb12.7077-22Clowney11931/2IndianRed11913SuperFund11911/4Bobblest,rail,stppd
+6Nov16-7
+Prxfst170
+ý224:472 1:134 1:453^ Alw10000s
+116/7111/22hd 571/2730745
+VargasJAJr
+L124fb25.2026-36
+BrodwyBy
+12423/4UndenibleTmpr124óPrincZurs12411/4Viedoutside,stopped
+29Oct16-6
+Prxfst170
+233:481 1:131 1:4423^ Clm20000
+N3L771/81212111/213141/4
+RosadoRJ
+L120fb7.0074-30FinalRitual12041/4BigDiscovery1151SalemLoop1223/4Driftedout,drewoff
+22Oct16-2
+Prxslyø170
+23:472 1:133 1:4523^ Clm10000
+N3L689/1011111/22hd 22241/4
+RosadoRJ
+L120fb21.1065-35Sourcesndmethods11541/4
+FinlRitul
+12023/4MovieNight1201Setpace,nomatch
+2Oct16-4
+Prxmy6f
+22:45:572 1:103^ Clm10000
+N3L5911/112313154661/4
+SalgadoA
+L120fb27.1082-12InstructorKunu1201/2SurfingUSA1133/4ThisMightB11523/4Camein,verywide
+17Sep16-4
+Prxfm5f
+ê22 1:45:5643^  Alw42400
+C545/73411/2411/4551/2451/2
+SalgadoA
+L121fb18.7089-02BluegrassBall121nkPoisedforAction11711/4
+MaximusMeridius
+1214Intight
+WORKS:Dec22Wst3ffst:392B
+1/1
+TRAINER:Route/Sprint
+(4.00$0.00)
+Dirt
+(43.12$1.04)
+Sprint
+(19.16$1.11)
+Claim
+(27.15$1.41)
+J/T2016-17PRX(5.20$0.92)J/T2016-17(6.17$0.77)
+5
+12-1
+TwoIstoMany
+
+Own:JackJArmstrong
+
+Black,LimeGreenDiamonds,LimeGreen
+MANGALEEN(46362.07)2016:(28624.08)
+$5,000Dkb/brg(09.08.11)8(Feb)
+
+Sire:Bandini(FusaichiPegasus)$5,000
+
+Dam:ComeOnGetHappy(Mr.Greeley)
+
+Br:JohnTLJonesIII(Ky)
+
+Tr:MoscoRobert(22344.14)2016:(16921.12)
+L121
+Life
+581087$260,115
+9820171000$25038
+
+20169114$35,72061
+
+Prx18332$71,80070
+D.Fst41836$176,57290
+
+Wet(377)13251$82,32398
+
+Synth2000$50074
+
+Turf(261)2000$72055
+
+Dst(335)1000$1,41859
+28Jan17-2
+Prxfst1
+24 1:48 1:132 1:4114^ Clm5000
+N2Y389/1031431/261181910201/2
+MangaleeN
+L121b24.0045-38
+JackOLiam
+12141/2Allstar1211/2Elevated11611/4Wide,stopped
+31Dec16-5
+Prxfst7f
+223:444 1:102 1:2413^ Alw5000s
+5711/11211111hd 11/2
+MangaleeN
+L124b7.1085-16TwoIstoMany1241/2SunshineMrk12411/4Chichrito11923/4Longdrivetoprevail
+10Dec16-3
+Prxfst61/2f
+22 1:453 1:112 1:1813^ Clm5000
+N1Y555/8131/23435481/4
+MangaleeN
+L124b8.5076-17CastaDoubt1178GrandFullMoon124nkAleander117óChased,fadeddrive
+5Nov16-4
+Prxfst6f
+23:47 1:594 1:1313^ Clm5000
+N1Y514/10321/2411/23535
+MangaleeN
+L124b6.3067-24MoorestownJackie12421/4
+Simmstown
+12423/4TwoIstoMany1243Fadeddrive
+15Oct16-10
+Prxfst170
+23:472 1:133 1:463^ Clm5000
+N1Y294/1221/221711819920
+RosadoRJ
+L124b8.8046-30Amaman12421/4
+Sanculpa
+124nkForgottenKnot124hd Driftedout,tired
+24Sep16-12
+Prxfst170
+23 1:474 1:134 1:4513^ Clm5000
+N1Y614/10111/2111hd 311/2661/4
+MangaleeN
+L124b7.2064-17SirSidney12433/4StarofSarava1241/2TurntoTravis1243/4Pace,steady,gaveway
+15Sep16-5
+Delfst6f
+223:462:592 1:1213^ Clm5000
+(5-4)
+N1Y592/1042hd 21/231/231
+CedenoC
+L118b4.0078-24RglStrik1181Jzzysdudntrud115óTwoIstoMny118nkViedinside,stubbornly
+3Sep16-3
+Delfst6f
+S234:474 1:001 1:1213^ Clm4000
+N1Y443/74113nk431/2361/2
+CedenoC
+L121b1.8072-15PullingAway11911/2
+StrongShft
+1195TwoIstoMny121hd Vied,faded,saved3rd
+28Mar16-8
+Prxgd170
+C224:47 1:141 1:4634^ Clm5000
+N1Y581/821/2222111211/4
+RosadoRJ
+L124b2.5062-31MonynyorPockt12411/4TwoIstoMny12463/4Vrbrgh119hd Easeout,lead,2ndbe
+12Mar16-1
+Prxfst6f
+S223:464:592 1:1234^ Clm5000
+N1Y542/9632521/245331/2
+VargasJAJr
+L124b2.4071-27Coldblack11411/4Dr.Drew12421/4TwoIstoMany124nkFinishedwell
+27Nov15-7
+Prxfst61/2f
+C22 1:453 1:13 1:2023^ Clm5000
+644/10243/4343422
+RosadoRJ
+L121b12.5071-33MalibuBluff1242TwoIstoMany12133/4
+I'llRuntheShow
+12123/4Respondedwell
+7Nov15-6
+Prxfst170
+234:484 1:144 1:473^ Clm5000
+641/7112hd 242124161/4
+RosadoRJ
+L121b8.4047-46Tiz'naz12113ILoveIt12411/4
+KeytoaCure
+1212Setpace,tired
+WORKS:Feb28Prx4ffst:522B
+48/52
+TRAINER:Route/Sprint
+(34.18$4.12)
+31-60Days
+(28.14$1.16)
+Dirt
+(181.14$2.05)
+Sprint
+(130.13$1.85)
+Claim
+(131.11$1.83)
+J/T2016-17PRX(8.25$2.92)J/T2016-17(8.25$2.92)
+6
+9-2
+He'saSlamDunk
+
+Own:PhilipNLeary
+
+Blue,RedAndWhiteHalvedSleeves,Blue
+CASTILLOA(39952.23)2016:(29539.13)
+$5,000B.g(08.10.14)6(May)
+
+Sire:FirstSamurai(Giant'sCauseway)$15,000
+
+Dam:DancingFool(CarsonCity)
+
+Br:RedOakStable(Fla)
+
+Tr:MoscoRobert(22344.14)2016:(16921.12)
+L121
+Life
+29680$162,390
+7920171100$10,80068
+
+201620430$86,89079
+
+Prx19620$126,23079
+D.Fst25670$155,01579
+
+Wet(398)3010$7,00076
+
+Synth0000$0-
+
+Turf(282)1000$37545
+
+Dst(395)5100$16,18073
+28Jan17-10
+Prxfst6f
+23:464:592 1:1244^ Clm5000
+N1Y685/1022hd 1hd 11/211/2
+CastilloA
+L124f*2.2074-23He'saSlamDunk1241/2StudentUnion12411/2NextRight1241/2Drift,confidently
+26Dec16-6
+Prxfst51/2f
+222:454:581 1:0443^ Clm5000
+N2Y612/11221/2221/22444
+GonzalezS5
+L116f7.4083-19TroubleWithGirls1143McKnzisWy1211/2FlyByPomroy1211/2Driftedout,tired
+5Dec16-6
+Prxfst51/2f
+222:46 1:582 1:0443^ Clm12500
+518/8531/2531/27117151/4
+GonzalezS5
+L115f13.4072-21ì
+PeacockStrut
+11331/4AwesomeDevine1201/2
+FinalForum
+1193/4Wide,tired
+Placed6ththroughdisqualification
+14Nov16-5
+Prxfst61/2f
+--UNKNOWN--
+224:461 1:104 1:1713^ Clmc-8000
+558/93521/2421/26106151/4
+HenryPJr
+L120f3.8074-21AblBkrChrl120101/2BrownydBchlor12031/2RdRocktExprss1201/2Wide,faltered
+ClaimedfromPenalozaMiguelA.for$8,000,PenalozaMiguelTrainer2016(asof11/14):(1572721180.17)
+2Nov16-6
+Penfst6f
+C214:444:571 1:103^ Clm8000
+(8-7)
+776/9981371047211/2
+HenryPJr
+L119f10.5092-13DixiesLastLaugh12111/2HesaSlamDunk1194
+Obsess
+1193/4Lunged,rank,closed
+22Oct16-7
+Prxmyø6f
+22 1:463:593 1:1243^ Clm12500
+432/772hd 631/26116123/4
+ArosemenaJC
+L120f17.8061-27Synchronous1201/2
+Doddsprvtlbl
+12221/4ThGrtWhtwy1131Slowstart,rushedup
+15Oct16-7
+Prxfst61/2f
+ý213:443 1:104 1:1733^ Alw10000s
+621/128621/41183/41281/211101/2
+ArosemenaJC
+L120f55.4076-21
+ProperFreud
+1203/4Here'saJetpack120nk
+RunsforLuck
+1203Inside,weakened
+2Sep16-7
+Mthfst6f
+S22 1:453:572 1:0913^ Clm12500
+(12.5-10.5)
+644/5221/2531/4451/2491/4
+MarianoA
+L119f5.7087-09PrudhoeBay11933/4SierrAnch1193/4LongMyYouRun11943/4Steadied7/16&3/8
+12Aug16-6
+Mthfst6f
+213:442:571 1:1013^ Clm12500
+(12.5-10.5)
+675/72231/23443233/4
+MarianoA
+L119f3.7087-12BrowneyedBchelor11933/4HsSlmDunk1191/2CDGold1191/2Chased,upforplace
+17Jly16-7
+Prxfst7f
+233:461 1:11 1:2333^ Clm10000
+755/10411/21hd 1111/2
+MarianoA
+L122f8.9088-16HesSlmDunk1221/2MrBrioni12053/4MrMsterpiec11321/4Repulsedfoes,gamely
+18Jun16-7
+Prxfm5f
+ê213:44:564^ Alw8000s
+459/1010981/28128167141/4
+GonzalezS7
+L117f23.5085-01BillythBull12431/2AlfrdoRomn12441/4GoldnJson12011/4Brokecompletetangle
+12Jun16-5
+Prxfst51/2f
+224:47:591 1:0533^ Clm7500
+N4L736/97311/231/212141/2
+GonzalezS7
+L113f4.1083-23He'saSlamDunk11341/2
+SurferMoon
+1203/4ElPosole1201/2Widebid,edgedaway
+WORKS:Feb28Prx4ffst:53B
+51/52
+Jan21Prx4fgd:514B
+15/19
+TRAINER:31-60Days
+(28.14$1.16)
+WonLastStart
+(21.05$2.53)
+Dirt
+(181.14$2.05)
+Sprint
+(130.13$1.85)
+Claim
+(131.11$1.83)
+J/T2016-17PRX(11.18$1.25)J/T2016-17(11.18$1.25)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race2,page:5Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+7
+5-1
+Ameridude
+
+Own:TenStrikeRacing
+
+PurpleAndBlackQuarters,BlackHoops
+CHIAPPER(25234.08)2016:(46574.16)
+$5,000Ch.g(10.10.14)6(Apr)
+
+Sire:SirShackleton(Miswaki)
+
+Dam:Amerinda(Gentlemen*Arg)
+
+Br:MidwestThoroughbredsInc(Pa)
+
+Tr:GuerreroJuanCarlos(371045.27)2016:(18941.22)
+L124
+Life
+19436$130,368
+7320172100$16,20070
+
+20168113$48,35473
+
+Prx14324$105,51873
+D.Fst17335$112,36873
+
+Wet(297)2101$18,00071
+
+Synth0000$0-
+
+Turf(146)0000$0-
+
+Dst(308)4300$65,76073
+18Feb17-10
+Prxfst51/2f
+C22 1:463:594 1:0634^ Clm5000
+N1Y701/1033131/22hd 1ó
+ChiappeR
+L124b4.7079-25Ameridude124óBrolic117hd 
+StudentUnion
+124óInside,determinedly
+9Jan17-7
+Prxfst51/2f
+22 1:45:57 1:0314^ Clm5000
+N1Y598/10453431/248471/2
+OcasioLM5
+L119b*1.9088-12
+Whteveryouwnt12413/4NextRight12433/4HectorsPrid1242Lackedneededrally
+28Nov16-8
+Prxfst6f
+22 1:454:581 1:123^ Clm10000
+N4L615/107541/2354122121/4
+PerezJM7
+L113b21.7066-29HighI.Q.Pete119121/4Ameridude1131/2
+InstructorKunu
+1223/4Offrail,got2nd
+6Nov16-4
+Prxfst1
+232:472 1:14 1:4013^ Clm10000
+N4L292/1111/2131hd 481/2927
+PerezJM7
+L113b4.0044-36HereComesGary12041/2ChaseLane12071/2SocialStranger12031/2Dueled,tired
+25Sep16-7
+Prxfst1
+244:483 1:133 1:4033^ Clm10000
+N4L575/9613/4311/2331/2551/2561/2
+GonzalezS7
+L113fb3.0062-30SoaringCid12023/4CandyStalker1201/2ChaseLane12023/4Closebetween,empty
+10Sep16-4
+Prxfst7f
+22 1:444 1:103 1:2423^ Clm10000
+N4L709/103621/4511/4331/2331/4
+ArguetaE7
+L113b6.4081-17BlastAway11513/4Redyhertndsoul12211/2Ameridude11331/2Stumble,wide,gain
+16Jly16-3
+Prxfst61/2f
+22:443 1:101 1:173^ Clm15000
+N4L683/731hd 31/231/2431/4
+PerezIO7
+L113b3.8087-15DoubletheCheers120nk
+WstrnConquror
+1241/2QuFcil12421/2Viedinside,faltered
+25Jun16-3
+Prxfst6f
+22:452:58 1:113^ Clm15000
+N4L686/72441/445341/2353/4
+PerezIO7
+L113b4.1077-20
+MinetheStore
+12233/4KidKelly1222Ameridude113óBetweenearly,nobid
+31May16-5
+Prxfst6f
+22 1:453:573 1:1023^ Clm15000
+N4L722/734331/2321/2321/4
+PerezIO7
+L113b*2.1084-17MidnightGmes1201/2AgentVnAldn11513/4Amridud11321/2Railearly,evenlylate
+5Mar16-3
+Prxfst51/2f
+22 1:453:574 1:0414^ Clm15000
+N3L731/5211/2111513
+PerezIO7
+L113b*.6090-11Ameridude1133BlastAway12021/2
+MidnightGames
+1203/4Nothardpressed
+22Dec15-9
+Prxfst6f
+22 1:454:584 1:1233^ Alw25000s
+434/1275353111811153/4
+RosadoRJ
+L124b2.90e59-27
+Resourceful
+1221/2Here'saJetpack
+1221/2Queequeg1241/2Usedupearly
+15Nov15-7
+Prxfst51/2f
+22:462:591 1:063^  Alw42800
+N1X722/9311111315
+RosadoRJ
+L121b*1.8078-26Ameridude1215ThinkBig11911/2Amaman1213/4Briskhandride
+WORKS:Jan28Prx4ffst:494B
+28/48
+òJan5Prx4ffst:494B
+1/7
+TRAINER:WonLastStart
+(46.30$1.92)
+Dirt
+(219.23$1.95)
+Sprint
+(134.21$2.11)
+Claim
+(149.22$1.79)
+J/T2016-17PRX(4.25$2.85)J/T2016-17(4.25$2.85)
+8
+6-1
+BrotherBobo
+
+Own:ABARPR
+
+Gold,White'Abar,'WhiteCuffs,Gold
+VARGASJAJR(7612129.16)2016:(49990.18)
+$5,000Ch.g(02.21.17)5(Apr)
+
+Sire:Kantharos(LionHeart)$15,000
+
+Dam:PrivatePromParty(PrivateTerms)
+
+Br:MilanKosanovich&MachmerHall(Fla)
+
+Tr:MilianCarlosJ(20633.30)2016:(604.07)
+ûL121
+Life
+21412$90,044
+8320171000$57051
+
+201611301$44,15977
+
+Prx9100$23,03077
+D.Fst18312$69,64483
+
+Wet(389)2100$19,98077
+
+Synth0000$0-
+
+Turf(355)1000$42060
+
+Dst(431)4101$25,95573
+14Feb17-4
+Prxfst6f
+222:453:583 1:1124^ Clm5000
+N2Y517/8321/22hd 321/25111/2
+VargasJAJr
+L121b5.1069-22McKenziesWy11651/4AndrewL124hd 
+Tipyourwiterwll11441/4Stalkedwide,tired
+26Nov16-3
+Prxfst6f
+23:474 1:003 1:143^ Clmc-5000
+N2Y547/123421/2212377
+TorresJ7
+L114fb4.4061-36Untethered12441/2PeriWhan121nkOneforDon12111/4Bid,fadeddrive
+ClaimedfromEstradaRacingStablefor$5,000,EstradaEberdTrainer2016(asof11/26):(56111040.20)
+25Oct16-5
+Prxfst51/2f
+ý224:471 1:001 1:0713^ Clm5000
+6111/113121hd 21/2511/2
+MarianoA
+L124fb4.7074-21Manando115nkJacapo122óCoolusive120hd Clear,collared,tired
+1Oct16-3
+Prxmyø6f
+22:45:571 1:103^ Clm5000
+774/7112111/21313
+MarianoA
+L120fb11.7088-13BrothrBobo1203MrMstrpic115nkRdRocktExprss12211/2Drift,straighten,clr
+25Sep16-7
+Prxfst1
+244:483 1:133 1:4033^ Clm10000
+N4L337/9311hd 227168203/4
+OcasioLM5
+L115b10.0048-30SoaringCid12023/4CandyStalker1201/2ChaseLane12023/4Wideearly,rail,fade
+10Sep16-4
+Prxfst7f
+22 1:444 1:103 1:2423^ Clm10000
+N4L4910/102731/4721/4811814
+CaballeroH
+L1205.9070-17BlastAway11513/4Readyheartandsoul12211/2
+Ameridude11331/2Boreout
+31Jly16-2
+Prxmy51/2f
+214:45:572 1:0333^ Clm7500
+N4L614/93741/4841/2551/2541/4
+NguyenJ
+L1205.1089-10WildStreet120nkSunshineMark12221/4NextRight12011/4Clipheels,rail
+Placed4ththroughdisqualification
+14Jun16-6
+Prxfst61/2f
+23:461 1:104 1:1714^ Clmc-16000
+532/66511/2656126171/2
+PenningtonF
+L1206.4071-20PrudhoeBay12013/4
+GreybyYou
+12021/4Collin'sSmile12061/2Offslow,nofactor
+ClaimedfromMr.AmoreStablefor$16,000,BreenKellyJTrainer2016(asof6/14):(921712110.18)
+14May16-1
+Mthfst6f
+ý213:443:572 1:1123^ Clm12500
+(12.5-10.5)
+N3L747/7145331/2311/211/2
+LopezP
+L124*1.1085-12BrotherBobo1241/2
+InkyDinkyDo
+1161/2BlastAway
+12111/2Rallied3wide
+10Apr16-7
+GPfst7f
+--UNKNOWN--
+23 1:462 1:104 1:2413^ Clm12500
+N2L657/83211/221/211111/4
+JuarezN
+L1221.4082-14
+BrotherBobo
+12211/4DncinintheHt
+1221/2AmricnLuxury11731/2Duel2p,edgedclear
+16Mar16-7
+GPfst1
+224:454 1:103 1:3733^ Clm12500
+N2L6810/113121/221/221/2341/2
+JuarezN
+L121f10.5072-30Discipline1211/2DancinintheHet1214
+BrotherBobo
+12121/2Bid1/4,vied,driftdout
+7Feb16-5
+GPfst6f
+ý222:453:581 1:114^  OC12k/
+N1X-N
+644/116861/4651/4661/2561/4
+GudielV5
+L11623.1080-17VegasStrip12121/4
+BoldSummit
+12111/2RastaRant12124w-turn,angledout1/8
+WORKS:Feb6Prx4ffst:52B
+28/29
+Jan14Prx4ffst:514B
+45/50
+TRAINER:2Off45-180
+(10.10$0.82)
+Dirt
+(75.12$2.58)
+Sprint
+(64.12$2.90)
+Claim
+(52.12$2.46)
+J/T2016-17PRX(9.11$1.20)J/T2016-17(9.11$1.20)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race2,page:6Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+3ParxRacing
+ç
+Alw
+40000s61/2Furlongs
+( 1:141)STARTERALLOWANCE.Purse$42,000(PLUSUPTO40%PABF)ForFilliesThree
+YearsOldWhichHaveStartedForAClaimingPriceOf$40,000OrLessAndWhichHaveNeverWonARaceOther
+
+ThanMaidenOrClaiming.Weight,121lbs.Non-winnersOfARaceSinceFebruary6Allowed3lbs.
+Coupled-BlueShineandThirstforTruth
+Posttime: 1:49ETWagers:FirstHalfDailyDouble/Pick3,Exacta,50CentTrifecta,10CentSuperfectaBeyerpar:NA
+1
+3-1
+BlueShine
+
+Own:StonyBrookStables
+
+Yellow,DarkBlueBeltsAndDarkBlue
+PENNINGTONF(109252515.23)2016:(721109.15)
+B.f.3(Feb)FTKFEB15$32,000
+
+Sire:Langfuhr(Danzig)$5,000
+
+Dam:SterlingVow(BrokenVow)
+
+Br:SpruceLaneFarm&ValerieStevens(Ky)
+
+Tr:NationsKeith(15323.20)2016:(30862.20)
+L118
+Life
+7200$27,940
+6520173100$11,62065
+
+20164100$16,32043
+
+Prx0000$0-
+D.Fst2100$12,36065
+
+Wet(389)1100$13,80040
+
+Synth0000$0-
+
+Turf(302)4000$1,78061
+
+Dst(341)1100$11,22065
+3Feb17-2
+Tamfst61/2f
+23:463 1:112 1:18çClm25000
+654/63533112141/4
+LebronV
+L118b8.5089-12BlueShine11841/4Renee'sCat1182Candrasa11861/43wbid,drewclear
+13Jan17-5
+Tamfm1
+êS233:482 1:123 1:363çOC40k/SAL32k-N
+536/95453421/2431/2541/4
+LebronV
+L118b12.2082-10
+QueenDelValle
+11811/4MamaTrace11811/4
+Zuzanna
+1181/2Flattenedout
+1Jan17-7
+Tamfm1
+ê24:482 1:121 1:362çOC75k/
+N1X611/821211/221/224571/2
+CruzA
+L118b29.8079-16
+Dynatail
+12253/4BellaVincenza1181Rockin1183/4Stalked,bid,weakened
+3Dec16-3
+Tamfst6f
+222:46 1:583 1:12çOC32k/SAL25k-N
+322/86623/4311/23548
+GonzalezE
+L118b20.7077-12WrapItUp11831/4ReneesCat118nk
+WhtAboutTonight
+11841/24wmoveturn,tired
+5Nov16-6
+Lrlfm51/2f
+ê214:443:561 1:022çOC45k/
+C216/1055354783/410131/2
+CarrascoVR
+L116b34.7080-07Unaquoi12221/4Fly1181/2
+SuperMarina
+12221/4Erratic,eased
+1Oct16-5
+Delgd1
+ïS243:484 1:142 1:423çMd25000
+(25-20)
+406/7311/2321/2181513/4
+DavisD
+L120b4.3061-30BlueShine1203/4Notthatitmatters120óOnHerHonor12073/4Bid,clear,allout
+7Sep16-4
+DelfmÍ1
+ê244:501 1:143 1:40çMd25000
+(25-20)
+436/987733/4741/4531/2451/4
+CedenoC
+L120b4.8075-07InspiredBlue12021/2Kissthebutterflies11311/4FullFaith11511/2Respondedwell
+WORKS:Feb27Prx4ffst:493B
+3/12
+Dec22Tam5ffst 1:004B
+2/11
+TRAINER:31-60Days
+(74.20$2.28)
+WonLastStart
+(70.20$2.23)
+Dirt
+(291.22$1.90)
+Sprint
+(151.22$1.91)
+J/T2016-17PRX(5.40$3.76)J/T2016-17(13.15$1.45)
+2
+6-1
+SaintMainEvent
+
+Own:DanielMcConnell
+
+Blue,GreenAndWhite,BlueCap
+SANCHEZMJ(98151015.15)2016:(65479.12)
+B.f.3(Mar)
+
+Sire:Redeemed(Include)$3,000
+
+Dam:LuckyNotion(GreatNotion)
+
+Br:DanielWMcConnellSr(Pa)
+
+Tr:NationsKeith(15323.20)2016:(30862.20)
+L118
+Life
+4102$41,176
+5120172002$7,32644
+
+20162100$33,85051
+
+Prx2100$33,85051
+D.Fst2001$3,91344
+
+Wet(375*)2101$37,26351
+
+Synth0000$0-
+
+Turf(255*)0000$0-
+
+Dst(349*)0000$0-
+10Feb17-7
+Pengd170
+--UNKNOWN--
+233:483 1:14 1:45ç Alw33300
+N1X422/532311/2424123131/2
+SanchezMJ
+L117b5.4065-25CitrineHarbor1178
+WildcatCrtridge
+11751/2SintMinEvent11711/4Stoppedinside
+27Jan17-3
+Penfst51/2f
+--UNKNOWN--
+222:454:582 1:05ç Alw33300
+N1X444/654537312381/2
+VargasJAJr
+L119b3.6084-11Overhear117ó
+CitrineHarbor
+12181/2SaintMainEvent11921/23path,nofactor
+20Dec16-5
+Prxgd6f
+212:443:58 1:104çMd40000
+518/9545351/2331nk
+SanchezMJ
+L121b15.8084-10SaintMainEvent121nkTinNLint12113/4
+CorrineStrong
+1211/2Widebid,uplate
+28Nov16-6
+Prxfst51/2f
+22 1:462:592 1:062çMd40000
+302/128111011119157161/4
+OcasioLM5
+116b55.6063-29Liz'sCableGirl121103/4TinNLint12121/2MountainHawk121hd Verywide,outrun
+WORKS:Feb27Prx4ffst:493B
+3/12
+Jan14Prx4ffst:481B
+2/50
+Dec14Prx4ffst:48B
+2/64
+TRAINER:Route/Sprint
+(24.29$2.48)
+Dirt
+(291.22$1.90)
+Sprint
+(151.22$1.91)
+J/T2016-17PRX(7.14$4.80)J/T2016-17(8.13$4.20)
+3
+9-2
+LaCamedor
+
+Own:RHBreedingLLC
+
+HunterGreen,GreenShamrockOnWhite
+RIVERAE(694511.06)2016:(38438.10)
+B.f.3(Mar)
+
+Sire:SilverTrain(OldTrieste)$5,000
+
+Dam:PasstheSalt(SaltLake)
+
+Br:RHBreedingLLC(Pa)
+
+Tr:JenkinsSuzanneH(7001.00)2016:(412.05)
+BlinkersON
+L118
+Life
+4101$41,848
+4620172001$7,99846
+
+20162100$33,85046
+
+Prx4101$41,84846
+D.Fst4101$41,84846
+
+Wet(354)0000$0-
+
+Synth0000$0-
+
+Turf(238)0000$0-
+
+Dst(342)0000$0-
+14Feb17-7
+Prxfst6f
+224:464:594 1:131çAlw40000s
+463/74631/44433313/4
+RiveraE
+L11832.3070-22Fillupcohnspikr11811/4CorrinStrong1211/2LCmdor1183Railtrip,gradualgain
+4Feb17-8
+Prxfst7f
+23:471 1:14 1:28çOC50k/
+N1X-N
+193/744nk623/46175223/4
+BowmanA
+L11820.9043-32SineWave11873/4CandycoatedDame1181HastyNic1188Bump,fellback
+19Nov16-6
+Prxfst6f
+223:471 1:003 1:142çMd40000
+469/92521/431/211/2111/4
+BowmanA
+L12132.9066-28LaCamedor12111/4CrazyDaisy1215TizDaBiz12111/2Wide,edgedaway
+7Nov16-6
+Prxfst6f
+23:472 1:001 1:124çMd40000
+281/107311/2411/4563/46143/4
+RiveraE
+L12130.0059-25NikkisPick12141/4Luxicharm12151/2MissEmilysSmile12111/4Offslow,rail,tired
+WORKS:ò
+Feb1Prx3ffst:361B
+1/5
+òJan17Prx3ffst:362B
+1/19
+Dec28Prx3ffst:38B
+8/11
+TRAINER:1stBlink
+(2.00$0.00)
+BlinkOn
+(2.00$0.00)
+Dirt
+(42.02$1.61)
+Sprint
+(28.07$3.22)
+J/T2016-17PRX(16.00$0.00)J/T2016-17(16.00$0.00)
+4
+5-2
+She'sStunning
+
+Own:OurSugarBearStable
+
+Pink,RoyalBlueYokeAnd"Wt",blueDots
+ARROYOAS(3100.33)2016:(83776.09)
+B.f.3(Mar)
+
+Sire:AdiosCharlie(IndianCharlie)$2,500
+
+Dam:Comacina(DixieUnion)
+
+Br:OurSugarBearStableOcalaStud&WhiteOwlSta(Fla)
+
+Tr:BrownBruceR(11001.00)2016:(30018.06)
+L118
+Life
+4110$37,567
+6820172110$36,20068
+
+20162M00$1,36747
+
+Prx1000$1,20033
+D.Fst3110$37,40068
+
+Wet(390)0000$0-
+
+Synth0000$0-
+
+Turf(249)1000$16747
+
+Dst(385)0000$0-
+17Feb17-4
+Aqufst6f
+--TRACK MARKER--24:48 1:003 1:123çOC50k/SAL50k
+681/622122212nk
+ArroyoAS
+L1227.1084-16ClirvoyntLdy120nkShesStunning12221/2TintedAngl12221/2Inshalf,2w,ledlate
+16Jan17-3
+Aqufst6f
+--TRACK MARKER--S23:47:594 1:131çMd40000
+643/5132321/23111/2
+ArroyoAS
+L1204.6081-16ShesStunning1201/2
+Courtmewithcrts
+1201OuroVrd12013/4Ins,3wupr,view/pair
+28Nov16-6
+Prxfst51/2f
+22 1:462:592 1:062çMd40000
+333/125421/254511515
+SilveraR
+L1217.5064-29Liz'sCableGirl121103/4TinNLint12121/2MountainHawk121hd Inside,tired
+27Oct16-2
+Belgd6f
+Ñ22:452:572 1:101çMd62500
+472/1176444651/2971/2
+CastellanoJJ
+L1208.8076-16Hoponthbsgs12021/4TwoHotBtty1201/2MjstcMst12011/2Savedground,faltered
+WORKS:Feb8Beltr.t4ffst:511B
+23/33
+Jan29Beltr.t4ffst:504B
+58/94
+Jan6Beltr.t4ffst:49B
+9/106
+Dec30Beltr.t4fgd:503B
+22/26
+Dec21Beltr.t4ffst:502B
+48/108
+Dec14Beltr.t4ffst:494B
+27/53
+TRAINER:Dirt
+(207.08$1.01)
+Sprint
+(186.09$0.87)
+J/T2016-17(3.33$3.73)
+5
+12-1
+CongareeRose
+
+Own:CarloDeThomasi
+
+Red,White"Cr"InGreenCircle,White
+BISONOJ(42651.14)2016:(33838.11)
+Ch.f.3(May)
+
+Sire:Congaree(Arazi)
+
+Dam:Elirose(NotForLove)
+
+Br:CarloDeThomasi(NY)
+
+Tr:SereyJuan(14100.07)2016:(472.04)
+L121
+Life
+3100$17,260
+4520172100$17,01045
+
+20161M00$25028
+
+Prx3100$17,26045
+D.Fst1000$81031
+
+Wet(369)2100$16,45045
+
+Synth0000$0-
+
+Turf(298)0000$0-
+
+Dst(342)0000$0-
+7Feb17-1
+Prxgd51/2f
+224:473 1:01 1:08çMd20000
+456/105743/4653/4361nk
+BisonoJ
+L121f16.8072-27CongareeRose121nkLoveOnFire116nkBoaSorte12131/2Wide,surged,justup
+16Jan17-5
+Prxfst51/2f
+222:462:592 1:064çMd20000
+318/107651/2571/2610581/2
+RosarioMA
+L121f20.0069-21BnvolntGft12143/4BstnGold116nkPostnosChmpon12123/4Lackedasolidrally
+20Dec16-5
+Prxgd6f
+212:443:58 1:104çMd40000
+287/9699913912993/4
+PerezJM7
+116f28.0074-10
+SaintMainEvent121nkTinNLint12113/4
+CorrineStrong
+1211/2Unrulypriortostart
+WORKS:Feb27Prx3ffst:362B
+5/9
+Feb20Prx4ffst:493B
+6/10
+Jan28Prx4ffst:484Bg
+10/48
+TRAINER:WonLastStart
+(2.00$0.00)
+Dirt
+(60.05$1.11)
+Sprint
+(44.02$0.81)
+J/T2016-17PRX(11.00$35.60)J/T2016-17(11.00$35.60)
+6
+9-5
+Joe'sGift
+
+Own:BigMonkStableLLC
+
+Purple,White"Bms",PurpleCap
+CEDENOC(81161117.20)2016:(712114.16)
+Gr/ro.f.3(Apr)KEESEP15$15,000
+
+Sire:SkyMesa(Pulpit)$15,000
+
+Dam:SuperduperMiss(RobynDancer)
+
+Br:DebbyOxley(Ky)
+
+Tr:VazquezJuanC(5714315.25)2016:(25649.19)
+L118
+Life
+1100$24,000
+6320171100$24,00063
+
+20160M00$0-
+
+Prx1100$24,00063
+D.Fst1100$24,00063
+
+Wet(362)0000$0-
+
+Synth0000$0-
+
+Turf(302)0000$0-
+
+Dst(358)0000$0-
+30Jan17-4
+Prxfst6f
+232:481 1:013 1:134çMd40000
+634/922221111101/2
+CedenoC
+L1217.1069-27Joe'sGift121101/2LittleAlana116nkStrangersNoMore121hd Fanin,wide,clear
+WORKS:Feb28Prx4ffst:492B
+17/52
+Feb19Prx4ffst:52B
+9/9
+Jan25Prx4ffst:512B
+5/7
+Jan4Prx3fsly:372Bg
+2/4
+Dec30Prx4ffst:501B
+4/10
+Dec14Prx4ffst:502B
+38/64
+TRAINER:31-60Days
+(88.18$1.54)
+WonLastStart
+(60.22$1.37)
+Dirt
+(306.20$1.81)
+Sprint
+(158.22$1.60)
+J/T2016-17PRX(123.17$1.73)J/T2016-17(132.17$1.69)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race3,page:7Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+1a
+3-1
+ThirstforTruth
+
+Own:LynchRacingLLCandStonyBrookStab
+
+Red,WhiteCircled"Cl",WhiteBandOn
+MCCARTHYT(36874.22)2016:(1437274.19)
+Dk.borbrf.3(Apr)OBSAPR16$75,000
+
+Sire:StayThirsty(Bernardini)$10,000
+
+Dam:ExcitingAvenue(AvenueofFlags)
+
+Br:JusticeFarmGregJustice(Ohio)
+
+Tr:LynchCathal(2000.00)2016:(26540.15)
+L121
+Life
+5101$25,300
+5620172100$19,80056
+
+20163M01$5,50049
+
+Prx0000$0-
+D.Fst4101$25,30056
+
+Wet(410)0000$0-
+
+Synth0000$0-
+
+Turf(276)1000$035
+
+Dst(354)1001$3,52049
+18Feb17-4
+Lrlfst6f
+23:464:591 1:114çMd40000
+(40-35)
+562/77641/2441/2221/211/2
+McCarthyT
+L122f5.0084-06ThirstforTruth1221/2Really12221/4SisterSays12231/2Stpslw,angl,5wgrind
+4Feb17-2
+Lrlfst6f
+23:472 1:00 1:131çMd40000
+(40-35)
+341/66521/2413/4421/2551/4
+GomezK
+L122f*2.1072-17BltmrStrt12221/4MyChsChrm1221Prttysnwmny11811/4Bobbled,thruins,even
+26Aug16-6
+TimfstÍ61/2f
+223:471 1:132 1:183çMdSpWt37k
+494/75551/2421/23nk3nk
+CruzA
+L122f5.5092-06
+SmmrSmthn
+122nkSpcGrlRd122hd ThrstfrTrth12231/4Boreoutst,bmp,4w,hng
+14Aug16-7
+Lrlfst51/2f
+224:473 1:00 1:064çMd40000
+(40-35)
+353/87810871/25846
+RussellS
+L122f17.8072-22
+HappyMesa
+12231/4SweetZoraya12211/2Neyami12211/43-6wd,by-faders
+17Jly16-3
+Lrlfm51/2f
+ê223:453:572 1:032çMdSpWt40k
+358/9578781/27676
+GarciaLuis
+L122f57.5083-07Advert12231/2BigheartedNana1221/2SisterNation12211/4Bumpedstart,wide
+WORKS:Feb26Lrl4ffst:52B
+15/15
+Jan28Lrl5ffst 1:02B
+12/33
+Jan6Lrl4ffst:50B
+9/23
+Jan1Lrl4ffst:49B
+3/23
+Dec23Lrl4ffst:51B
+33/39
+Dec16Lrl3ffst:383B
+5/7
+TRAINER:WonLastStart
+(47.21$2.73)
+Dirt
+(237.17$1.67)
+Sprint
+(192.14$1.72)
+J/T2016-17PRX(3.00$0.00)J/T2016-17(79.25$2.32)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race3,page:8Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+4ParxRacing
+Md
+400001MILE
+( 1:342)MAIDENCLAIMING.Purse$40,000(PLUSUPTO40%PABF)ForMaidens,ThreeYears
+OldAndUpward.ThreeYearOlds,117lbs.;Older,124lbs.ClaimingPrice$40,000.
+Posttime:2:16ETWagers:SecondHalfDailyDouble,Pick3,Exacta,50CentTrifecta,10CentSuperfectaBeyerpar:NA
+1
+20-1
+OfficeSecretary
+
+Own:Trin-BrookStablesInc
+
+Black,Gold"V",BlackCuffsOnGold
+PINEROL(8551210.06)2016:(38222.06)
+$40,000Ch.f.4(Apr)EASMAY15$12,000
+
+Sire:GiantOak(Giant'sCauseway)$7,500
+
+Dam:OfficeGossip(StorminFever)
+
+Br:JohnRPenn&FrankPenn(Ky)
+
+Tr:StLewisUriah(49126.02)2016:(29910.03)
+L112
+7Life
+22M21$53,075
+6220172M00$50046
+
+201613M11$29,47562
+
+Prx18021$51,20062
+D.Fst13011$36,95062
+
+Wet(332)5010$14,25059
+
+Synth0000$0-
+
+Turf(215)4000$1,87547
+
+Dst(281)9001$15,20051
+30Jan17-1
+Prxfst1
+S25:50 1:154 1:4224^ çMd40000
+447/7771/276791/46106151/4
+FloresJL
+L124fb27.5045-44OntheList1243Magnettes12431/4
+SultrySilhouette
+12461/4Brokeslowly
+21Jan17-7
+Prxwf1
+S243:491 1:144 1:4114^ çMdSpWt50k
+462/76664531/2481/47111/2
+PineroL7
+L117fb32.8055-34SayCinCin12411/4Presumptuous12413/4SpecialCity1248Inside,nofactor
+10Dec16-6
+Prxfst1
+--UNKNOWN--
+24:483 1:143 1:4123^ çMd40000
+365/666523/4675105131/4
+PineroL7
+L116b26.0052-34SixDegree1231/2
+OntheList
+12363/4AnotherChance12441/2Fractious,wide
+29Nov16-5
+Prxslyø170
+24:481 1:143 1:4823^ çMd40000
+372/768691/249272141/4
+PineroL7
+L115b20.4040-38BillyNoSby124141/4OfficeScrtry115óSultrySilhoutt1195Railbid,saved2nd
+30Oct16-4
+Prxfst170
+S233:481 1:134 1:4513^ çMdSpWt50k
+391/6671/465676144171/2
+PineroL7
+L114fb23.9052-31Adornment1213/4SayCinCin12414CatchAhFlight12423/4Brokeright,outrun
+10Oct16-10
+Prxfst11/16
+ïS24:482 1:132 1:473^ Md20000
+628/9641/2686855431/4
+PineroL7
+L111fb46.3075-27MoeganAvenue121óBlydeRiver1211/2
+IAmSoJealous
+11623/4Outside,toolate
+8Aug16-7
+PrxylÍ11/16
+ê243:511 1:163 1:4743^ çMdSpWt56k
+2910/10841/4841/41011101610171/2
+BowmanA
+L119b134.0058-24GirlsSecret119nkAnissa11911/4
+FlowerValley
+119nkWideearly,gaveway
+31Jly16-5
+Prxgd1¶
+ï492 1:1522:0742:3233^ MdSpWt54k
+534/102hd 1hd 411/25105121/4
+BowmanA
+L114b54.7078-12
+DcisvTrumph
+11961/2MchuPcchuSky1123SunshnWld11921/4Narrowlead,empty
+18Jly16-6
+Prxgd170
+ê23 1:484 1:133 1:433^ çMdSpWt55k
+396/11971/21051/2748128161/2
+MartinezHN
+L119124.0063-20MissNancy119nkFlowerValley11941/2SixDegree11213/4Verywide,nothreat
+3Jly16-6
+Prxfm11/16
+ê23:47 1:12 1:4343^ çMd25000
+478/129111011943/4712711
+FloresJL
+L11929.5073-16MyMusic119nkI'maLuckyGirl124nkî
+Courtage
+12443/4Verywide,showlittle
+7Jun16-8
+Prxfst1
+24 1:491 1:151 1:423^ çMdSpWt52k
+263/99109109107157161/2
+CastilloD
+L119f50.6045-29
+Tenggara
+11943/4GoGoDana1193MyCountry1243/4Failedtomenace
+7May16-8
+Prxgd170
+224:461 1:104 1:42çPrxOaksB100k
+595/77177206206186151/4
+SanchezMJ
+L12137.1071-13ìMissInclusive1211/2
+EighthWonder
+1214LittleCyclon12111/4Passedtiringfoe
+Placed5ththroughdisqualification
+WORKS:Feb28Prx4ffst:523B
+49/52
+Jan17Prx4ffst:52B
+32/34
+TRAINER:31-60Days
+(47.02$0.21)
+Dirt
+(339.03$1.31)
+Routes
+(190.03$1.43)
+MdnClm
+(57.07$1.74)
+J/T2016-17PRX(64.06$3.62)J/T2016-17(64.06$3.62)
+2
+5-2
+DrivenWest
+
+Own:GaryandMaryWestStables
+
+HotPink,BlackCollarAndDiamondBelt
+VARGASJAJR(7612129.16)2016:(49990.18)
+$40,000B.c.4(Apr)KEENOV13$300,000
+
+Sire:AwesomeAgain(DeputyMinister)
+
+Dam:AbbaGold(Devil'sBag)
+
+Br:Five-DThoroughbredsLLC(Ky)
+
+Tr:ServisJason(2100.50)2016:(36497.27)
+L124
+Life
+3M00$2,585
+8420163M00$2,58584
+
+20150M00$0-
+
+Prx0000$0-
+D.Fst3000$2,58584
+
+Wet(389)0000$0-
+
+Synth0000$0-
+
+Turf(283)0000$0-
+
+Dst(386)1000$1,12066
+PreviouslytrainedbyBaffertBob2016(asof5/14):(1463326210.23)
+14May16-8
+SAfst11/16
+ý23:464 1:102 1:4223^ MdSpWt58k
+845/11211/22121531/2533/4
+ElliottS
+L120b58.6086-13TheLieutenant12011/4OneMoreRound1201/2Ziconic1201/2Offrail,nolatebid
+6Mar16-6
+SAfst1
+23:471 1:122 1:371MdSpWt57k
+668/942311/2211/2441/2581/2
+GarciaM
+L123b21.3077-14
+Hoffenheim
+123óOneMorRound12333/4TrojnNtion12331/24wd1stturn,wkened
+6Feb16-9
+SAfst6f
+213:444:573 1:101MdSpWt58k
+5611/128951/21193/411111091/2
+EspinozaV
+L123b16.8077-17TenBlssings12321/4MuchoChrom12311/2JournybyS1233/4Angledinturn,nobid
+WORKS:Feb25Beltr.t5ffst 1:03Bg
+4/15
+Feb15Beltr.t5ffst 1:031B
+9/18
+Jan29Beltr.t4ffst:492B
+12/94
+Dec9PmM4ffst:512B
+33/36
+TRAINER:1stW/Trn
+(49.43$3.06)
++180Days
+(20.40$3.24)
+MSWtoMCL
+(16.62$4.09)
+Dirt
+(244.25$1.46)
+Routes
+(164.26$1.71)
+MdnClm
+(55.33$2.23)J/T2016-17PRX(6.17$1.50)J/T2016-17(11.27$1.64)
+3
+8-5
+NobleandTrue
+
+Own:MidwestThoroughbredsInc
+
+BlackAndGreenHalves,BlackAndGreen
+CARMOUCHEK(6210.33)2016:(1128145.13)
+$40,000B.g(11.18.15)4(Apr)KEESEP14$200,000
+
+Sire:Giant'sCauseway(StormCat)$75,000
+
+Dam:Baghdaria(RoyalAcademy)
+
+Br:CasaFarmsILLC(Ky)
+
+Tr:GarganDanny(8321.38)2016:(25656.22)
+L124
+Life
+5M23$37,100
+8620165M23$37,10086
+
+20150M00$0-
+
+Prx0000$0-
+D.Fst4022$29,60086
+
+Wet(368)0000$0-
+
+Synth0000$0-
+
+Turf(348)1001$7,50084
+
+Dst(356)1001$3,60075
+29Jly16-1
+Sarfst1°
+474 1:122 1:372 1:5013^ Mdc-30000
+867/96555521/2212ó
+VelazquezJR
+L118b*.5585-11SqueezeThetrigger118óNobleandTrue1183/4Vilma11871/43-4w,rallied,led1/16
+ClaimedfromMathisStableLLCfor$30,000,PletcherToddATrainer2016(asof7/29):(720163113950.23)
+12Jun16-7
+Mthfst1
+S242:491 1:142 1:3913^ MdSpWt34k
+754/6631/264431/234343/4
+LebronV
+L117b2.2073-33VeesBoy11733/4
+GettheW
+1171NobleandTrue11731/4Mildstretchresponse
+20May16-3
+Belfm1
+ê--UNKNOWN--
+243:492 1:123 1:3433^ MdSpWt75k
+844/63242221/2241/2343/4
+OrtizJL
+L117b2.9083-12DropShot11741/2
+TrickedUp
+117nkNobleandTrue11711/43wfarturn,missedplc
+16Apr16-4
+Keefst11/16
+S234:48 1:124 1:444MdSpWt60k
+739/9761/2871/2764531
+SaezL
+L121*2.1087-10MoonKing1211/2SouthernWild1211/2NobleandTrue1213/45w,unabletoreach
+12Mar16-4
+Aqufst170
+--TRACK MARKER--233:473 1:113 1:442MdSpWt60k
+725/743471/2352321/2
+FrancoM
+L12010.5077-14DixieRunner1201/2NobleandTrue12093/4BigGillette12011/23w1/4,greenstretch
+WORKS:Feb25Beltr.t4ffst:50B
+38/78
+Feb14Beltr.t4ffst:521B
+32/60
+Feb4Beltr.t4ffst:502B
+6/59
+Jan26Beltr.t4ffst:514B
+38/41
+Jan13Beltr.t4ffst:493B
+39/88
+TRAINER:1stClaim
+(41.24$1.80)
++180Days
+(12.17$1.38)
+Dirt
+(229.24$1.69)
+Routes
+(153.25$2.18)
+MdnClm
+(35.31$1.76)
+J/T2016-17PRX(9.33$1.82)J/T2016-17(135.29$2.44)
+4
+10-1
+SpanishVilla
+
+Own:OceanViewStable
+
+HunterGreenAndPinkDiagonalQuarters
+OCASIOLM(133211613.16)2016:(522107.20)
+$40,000Dkb/brg(05.19.16)4(Apr)
+
+Sire:Petionville(SeekingtheGold)$5,000
+
+Dam:That'saPlenty(DixielandBand)
+
+Br:OceanViewStablesLLC(Pa)
+
+Tr:CashRussellJ(9001.00)2016:(1066.06)
+L119
+5Life
+8M11$18,920
+5720172M01$9,16052
+
+20166M10$9,76057
+
+Prx3011$16,72055
+D.Fst3010$11,06055
+
+Wet(366)1001$6,16052
+
+Synth0000$0-
+
+Turf(284)4000$1,70057
+
+Dst(343)0000$0-
+21Feb17-7
+Prxfst6f
+C23:471 1:003 1:1344^ MdSpWt53k
+4610/107871/4953/4684103/4
+OcasioLM5
+L11921.0058-26WeDeerYou1247Freemark12411/4SouthernKisses12421/2Wide,mildrally
+2Jan17-2
+Prxmyø7f
+--UNKNOWN--
+224:461 1:113 1:2514^ Md40000
+525/9431/231351/238
+PerezJM7
+L11733.3072-16GavinStreetsense1244
+RiskyPersusion
+1244SpnishVill11721/4Driftedout,tired
+5Dec16-1
+Prxfst6f
+224:463:583 1:113^ Md20000
+553/62321/2351/23102161/2
+OcasioLM5
+L11814.8066-21MrNeetie124161/2SpnishVill1181RiskyPersusion1233/4Pursued,gamelyplace
+18Oct16-4
+Medfm5f
+ê222:45:5613^ Md25000
+(25-20)
+562/9352541/2451/2453/4
+UskeS
+L12211.80e91-05BermudTringle12231/2RiskRevrsl12421/4FirlyBold122hd Chasedinside,evenly
+2Jly16-12
+Mthgd11/16
+ê233:502 1:15 1:462Õ3^ MdSpWt35k
+552/833621/4853/4810881/4
+UskeS
+L11967.9056-33Cavity124óOtto119hd Desperado119hd Inside,nofactor
+18Jun16-3
+MthfmÍ51/2f
+êS 1:0413^ Md50000
+(50-40)
+446/95863/4891/4871/4831/2
+UskeS
+L11831.80e82-12CityElitist118óAbundantFaith12211/4FairlyBold1181/2Outrun
+4Jun16-11
+Mthfst6f
+22:444:574 1:1133^ MdSpWt35k
+428/82771/2771/2791/269
+UskeS
+L11736.8075-15GoingAbroad11713/4
+RacehorseHaynes
+11731/4Cornedbeefncabbge117hd Outrun
+21May16-1
+Mthfm1
+êS23 1:482 1:121 1:3543^ MdSpWt34k
+572/954761/2973/4893/4812
+UskeS
+L11799.7070-12Stockyard117hd Defiantly1174Immunity117hd Inside,nofactor
+WORKS:Feb8Ris4fgd:51B
+2/3
+Jan27Ris4fgd:513B
+5/11
+TRAINER:2Off45-180
+(17.00$0.00)
+Sprint/Route
+(22.00$0.00)
+2Sprints/Route
+(5.00$0.00)
+Dirt
+(72.06$0.58)
+Routes
+(58.05$0.46)
+MdnClm
+(28.00$0.00)J/T2016-17PRX(4.00$0.00)J/T2016-17(4.00$0.00)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race4,page:9Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+5
+3-1
+MachuPicchuSky
+
+Own:SantaRosaRacingStables
+
+White,RedSashAndShield,WhiteAnd
+CABALLEROH(87161810.18)2016:(48684.17)
+$40,000B.g(01.18.16)4(Mar)KEESEP14$130,000
+
+Sire:Harlan'sHoliday(Harlan)$35,000
+
+Dam:HeadedHome(Anees)
+
+Br:MachmerHall(Ky)
+
+Tr:GuerreroJuanCarlos(371045.27)2016:(18941.22)
+L124
+Life
+11M63$81,900
+70201611M63$81,90070
+
+20150M00$0-
+
+Prx7042$51,40070
+D.Fst5022$29,90070
+
+Wet(362)3020$21,50067
+
+Synth0000$0-
+
+Turf(287)3021$30,50070
+
+Dst(348)3021$25,50070
+4Dec16-6
+Prxfst170
+S244:503 1:163 1:4623^ Md40000
+667/71hd 1hd 1hd 32333/4
+OcasioLM5
+L118fb*1.8060-38PharaohsCity123ó
+NickCnFix
+12333/4MchuPicchuSky1187Vied2wide,faded
+16Oct16-3
+Prxfm1¶
+ê511 1:1742:1042:3633^ MdSpWt85k
+704/10411/23121/22hd 2nk
+OcasioLM5
+L116fb*1.6081-22CpCodTid121nkMchuPicchuSky11661/4MountinFightr1243/4Bid,heldgamely
+26Sep16-3
+Prxfm1
+ê244:49 1:124 1:383^ MdSpWt52k
+645/964531/2441/2431/2313/4
+CarmoucheK
+L120fb1.9089-16BeachView12011/4QualityTime1201/2MchuPicchuSky12011/4Angledout,rallied
+4Sep16-4
+Prxfm1°
+ê50 1:152 1:412 1:5413^ MdSpWt52k
+709/102hd 2hd 2hd 11/223/4
+OcasioLM5
+L115fb2.7067-27Barraaq1203/4MachuPicchuSky11531/2QualityTime12013/4Dueled,sharptry
+31Jly16-5
+Prxgd1¶
+ï492 1:1522:0742:3233^ MdSpWt54k
+598/1043/4422hd 221/2261/2
+OcasioLM7
+L112fb2.0083-12
+DcsvTrumph
+11961/2MchuPcchSky1123SnshnWld11921/4Bid,nomatchwinner
+14Jun16-1
+Prxfst1
+S233:48 1:134 1:3933^ MdSpWt62k
+622/631/2311/235391/23111/2
+CaballeroH
+L119fb4.1062-37GlovesOff1192VivaLaKid11991/2MachuPicchuSky1195Closeinside,faltered
+23May16-1
+Prxwf170
+S24:482 1:13 1:4213^ MdSpWt55k
+671/732311/2521/2551/2573/4
+CaballeroH
+L119fb*2.3077-18
+Aimed
+119nkGlovesOff
+119hd VivaLaKid11921/4Ratedrail,gaveway
+9Apr16-6
+Prxslyø1
+S243:49 1:134 1:39MdSpWt51k
+657/711/2112124212
+CaballeroH
+L121b*.9065-29
+Kingslayer
+12112MachuPicchuSky1211
+MyCousinLou
+1215Pace,nomatch
+19Mar16-6
+Prxfst170
+233:481 1:133 1:442MdSpWt52k
+683/911/21hd 1121/2231/2
+CaballeroH
+L121fb*1.9070-24WarriorCall12131/2MachuPicchuSky12141/4
+Kingslayer
+1228Pace,nomatch
+27Feb16-7
+Prxfst1
+S24 1:49 1:143 1:393MdSpWt52k
+706/911111/2121/221/221
+CaballeroH
+L121fb28.4073-30Tipit1211MachuPicchuSky12121/4BronzeBull1218Gavewaygrudgingly
+18Jan16-5
+Lrlfst6f
+232:473 1:001 1:14MdSpWt40k
+336/967961161189
+VargasJAJr
+L1223.2063-22CozzeCat1223
+MidnightPunk
+122nkSoundCheck1223/4Outrun,3wideturn
+WORKS:Feb25Prx5ffst 1:021B
+7/28
+Feb6Prx4ffst:50B
+8/29
+TRAINER:61-180Days
+(49.33$2.58)
+Dirt
+(219.23$1.95)
+Routes
+(99.24$1.52)
+MdnClm
+(20.45$2.75)
+J/T2016-17PRX(8.25$2.00)J/T2016-17(8.25$2.00)
+6
+5-1
+FakeFrontier
+
+Own:HopeHJones&IsabelleHDetomaso
+
+BlueAndGreenHalves,BlueSleeves
+PENNINGTONF(109252515.23)2016:(721109.15)
+$40,000Dkb/brg(06.19.14)5(Feb)
+
+Sire:CanadianFrontier(GoneWest)
+
+Dam:FakeRomance(NotForLove)
+
+Br:HopeHJones&IsabelleHdeTomaso(NJ)
+
+Tr:HustonRoryK(2010.00)2016:(748.11)
+L124
+Life
+8M20$14,640
+5320171M10$5,40050
+
+20163M00$60053
+
+Prx1010$5,40050
+D.Fst2010$5,88050
+
+Wet(325)3010$7,66052
+
+Synth0000$0-
+
+Turf(245)3000$1,10053
+
+Dst(343)0000$0-
+30Jan17-2
+Prxfst170
+--UNKNOWN--
+23 1:48 1:151 1:494^ Md20000
+503/9781/2653/4351/2321/223/4
+ChiappeR
+L124f5.1050-44BuzzWithAlex1243/4FakeFrontier1243/4Madeyourpoint1246Bump,rallied
+24Dec16-4
+Lrlslyø6f
+222:46:58 1:1023^ Md25000
+(25-20)
+523/10101013916815715
+McCarthyT
+L124f11.8075-17
+Laki
+1235GavinStreetsense
+12351/4Speightshill1241Sluggishstart
+4Jun16-7
+Mthfm11/16
+ê233:472 1:112 1:43Õ3^ Md35000
+(35-30)
+5311/1144541/2751/2781/288
+GarciaWA
+L12480.6073-19SaltMine118nkTyr1181/2BuiltforProfit12411/2Chased3w,tired
+14May16-11
+Mthgd11/16
+ê24:492 1:132 1:444Õ3^ Md35000
+(40-30)
+419/10521/2421/2641/4898171/4
+GonzalesJJ
+L12358.4055-27MoonlghtPrty12411/4MyBckysBoy11831/4Snwfly118nkChasedoutside,faded
+28Jun15-4
+Mthslyø11/16
+ï232:482 1:134 1:4513^ Md30000
+(40-30)
+485/8643/4631/4631/458218
+AyusoA
+L11634.7063-23
+BullEnsign
+11818FakeFrontier1161/2BradandtheGang118nkEarnedplace
+14Jun15-4
+Mthfm1
+êC23 1:463 1:11 1:3633^ Md35000
+(35-30)
+479/11743/4851/2971/4731/465
+AyusoA
+L11871.3075-15SilentCritic1183/4Powerline116óUnbridledMjsty11831/44wd3/16,neededrally
+9May15-1
+Mthfst51/2f
+224:464:593 1:0613^  Md35000
+(40-30)
+343/9653/4681/4
+SaezG
+L1166.80e74-14MelloGroove116óGreedIsGood11813/4PlayItAgain1182Fog
+24Jan15-1
+Pengd51/2f
+23:481 1:01 1:074Md22500
+(25-22.5)
+255/63513/4521/2331/2451/4
+BelmonteLA
+11918.3069-20ImaginetheLite1211/2
+Congarazi
+12141/4TheGretRomp1211/2Intgttrn,weakened
+WORKS:Feb24Ovr5ffst 1:044B
+1/2
+Jan14Ovr5ffst 1:051B
+2/3
+TRAINER:31-60Days
+(14.14$3.36)
+Dirt
+(58.12$1.46)
+Routes
+(38.11$2.97)
+MdnClm
+(28.11$2.41)
+J/T2016-17PRX(2.50$2.80)J/T2016-17(2.50$2.80)
+7
+15-1
+BestChoice
+
+Own:LynoMaraspin&GlennMaraspin
+
+Yellow,White"Pp",YellowBarsOnWhite
+SILVERAR(848814.10)2016:(66978.12)
+$40,000B.g(10.25.16)4(Mar)
+
+Sire:Alex'sPal(ValidExpectations)
+
+Dam:HoneyWest(WestbyWest)
+
+Br:DrLynMaraspin(NJ)
+
+Tr:ChaconGustavo(26135.04)2016:(833.04)
+L124
+Life
+5M00$5,850
+5520171M00$25039
+
+20164M00$5,60055
+
+Prx4000$3,45055
+D.Fst4000$5,60055
+
+Wet(342)1000$25039
+
+Synth0000$0-
+
+Turf(158)0000$0-
+
+Dst(311)0000$0-
+PreviouslytrainedbyPenalozaMiguel2016:(2013023250.15)
+2Jan17-2
+Prxmyø7f
+--UNKNOWN--
+224:461 1:113 1:2514^ Md40000
+394/97611/4411/4481/26141/2
+CaballeroH
+L124f19.0065-16GavinStreetsense1244
+RiskyPersuasion
+1244SpanishVill11721/4Wide,gaveway
+4Dec16-6
+Prxfst170
+S244:503 1:163 1:4623^ Md40000
+556/72hd 2hd 433/4484103/4
+HiraldoL
+L123f39.7053-38Pharaoh'sCity123ó
+NickCanFix
+12333/4MachuPicchuSky1187Viedinside,tired
+18Nov16-5
+Lrlfst6f
+22:46:583 1:1133^ MdSpWt43k
+441/10107156135114111/4
+HiraldoL
+L122f82.1073-16FudgeProud1223FirstNotion12211/2Howyaformoney12263/42wd1/4,by-faders
+25Oct16-1
+Prxfst7f
+23 1:471 1:124 1:2513^ Md40000
+261/8641217237281/2
+HiraldoL
+L121f40.5051-21SunshineWild1216JwDropper12112NickCnFix12113/4Closeinside,gaveway
+PreviouslytrainedbyEinhornSkip2016(asof9/6):(99413130.04)
+6Sep16-3
+Prxfst6f
+22 1:462:581 1:0943^ MdSpWt51k
+204/77771/47127297361/4
+GarciaWA
+12047.8053-16
+HotSeat
+120131/2Bolster12021/2PieceofEight1201Trailedthroughout
+WORKS:Feb15Prx4ffst:50B
+19/50
+Jan26Prx5ffst 1:032B
+4/5
+Dec21Prx4ffst:50B
+13/23
+TRAINER:1stW/Trn
+(27.11$1.58)
+61-180Days
+(9.00$0.00)
+Sprint/Route
+(9.00$0.00)
+Dirt
+(103.04$0.69)
+Routes
+(40.05$0.97)
+MdnClm
+(6.00$0.00)J/T2016-17PRX(5.20$1.88)J/T2016-17(7.29$1.89)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race4,page:10Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+5ParxRacing
+ ç
+Alw
+42000C
+51/2Furlongs
+( 1:013)ALLOWANCE.Purse$42,000ForRegisteredPa-bredFilliesAndMaresFourYearsOld
+AndUpwardWhichHaveNeverWonOnePa-restrictedRace(s)OtherThanMaiden,Claiming,OrStarterAnd
+
+WhichHaveNeverWonTwoRacesOtherThanMaiden,Claiming,OrStarter.Weight,124lbs.Non-winnersOfA
+
+RaceSinceFebruary6Allowed3lbs.(ClaimingRacesNotConsideredInAllowances).
+Posttime:2:43ETWagers:Pick3,Exacta,50CentTrifecta,50CentPick4,10CentSuperfectaBeyerpar:NA
+1
+6-1
+JustaTaste
+
+Own:FastForwardRacingStableLLC
+
+Red,RoyalBlueChevrons,BlueCuffsOn
+OCASIOLM(133211613.16)2016:(522107.20)
+B.f.4(Apr)
+
+Sire:LouisQuatorze(SovereignDancer)$2,500
+
+Dam:Smokin'Prospect(PurePrecision)
+
+Br:CarmenCelino(Pa)
+
+Tr:PreciadoGuadalupe(20323.15)2016:(19529.15)
+L116
+5Life
+15304$77,893
+5220172200$34,44052
+
+20169103$37,14851
+
+Prx13304$77,29352
+D.Fst13303$74,81352
+
+Wet(346)1001$3,08051
+
+Synth0000$0-
+
+Turf(256)1000$047
+
+Dst(319)8202$50,64852
+16Jan17-3
+Prxfst51/2f
+23:473 1:00 1:0634^ çClm7500
+N3L528/842121/211133/4
+PenningtonF
+L124fb2.5079-21JustaTaste12433/4PineyBlues12211/4HouseRed12011/4Drewawaysteadydrive
+1Jan17-2
+Prxfst6f
+222:463:593 1:1244^ çClm7500
+N2L504/72311/221/22hd 121/4
+PenningtonF
+L121fb6.4074-20
+JustaTaste
+12121/4JustListen12123/4HazyDaisy12141/2Easedout,drewoff
+13Dec16-2
+Prxwf51/2f
+222:46:584 1:0543^ çClm7500
+N2L514/7665461/2471/2351/2
+AcostaJD
+L120fb3.4076-20
+NorthernMine
+12033/4Don'tAskMeWhy12113/4
+JustaTaste
+12013/4Bumped,wide
+27Nov16-2
+Prxfst6f
+C224:48 1:014 1:1523^ çClm7500
+N2L201/95741/4753/45103121/4
+AcostaJD
+L119fb16.8049-35CaliforniaWildcat11910MajesticKoa12121/4JustaTste1191Failedtomenace
+8Nov16-2
+Prxfst51/2f
+223:464:592 1:063^ çClm7500
+N2L229/124733/4973/410149201/4
+GonzalezS5
+L114fb42.1061-23AWingandaSong119113/4JustListen1213/4DragonTattoo1211/2Verywide
+19Oct16-1
+Penfst51/2f
+S224:46:581 1:0433^ çClm25000
+N2L371/6521/2341/2513515
+GonzalezS7
+L112fb12.6080-12ILvCwbys12171/2
+StffSgtRcklss
+11913/4WhtsTrndng11911/4Sentrailearly,stppd
+21Jly16-4
+Penfm5f
+ê223:45 1:5633^ ç Alw33300
+N1X479/107963/4751/4881/4861/4
+FloresJL
+L116b27.3084-10LittleStella12111/2She'sChubs11511/4Leapt1141/25wd,lackneededrally
+31May16-1
+Prxfst51/2f
+S223:464:594 1:0613^ çClm15000
+N2L483/722hd 1hd 11/2313/4
+GonzalezS7
+L110fb10.5078-17EBayGirl121hd MadMango11413/4JustaTaste11033/4Vied,led,weakened
+25Apr16-4
+Prxfst6f
+22 1:453:584 1:1223^ ç Alw42200
+N1X341/66321/2571/2595131/4
+SilveraR
+L117fb10.1063-23Roman'sMiddy11741/4Rapidez12113/4
+LemonStrudel
+12161/4Rail,weakened
+2Apr16-5
+Prxfst5f
+223:46:582ç Alw40740
+N1X104/4331461/24194261/2
+FloresJL
+L121fb4.0065-17MissAvalon1189
+Roman'sMiddy
+1189PoplarPoint11881/2Chased,tired
+5Mar16-9
+Prxfst5f
+223:47 1:001ç MdSpWt39k
+477/102111/2121/213113/4
+FloresJL
+L121b10.9083-11JustaTaste12113/4HeartyJones121nkHeatherly12111/2Kepttoadrive
+20Dec15-4
+Prxfst6f
+222:471 1:00 1:132çMd25000
+433/93111hd 33363/4
+FloresJL
+L120b4.6064-26Faithinvictoria1215DolledUp12013/4
+JustaTaste
+12031/4Pace,tired
+WORKS:Feb27Prx4ffst:502B
+5/12
+Feb19Prx4ffst:51B
+8/9
+Feb7Prx4ffst:502B
+18/32
+Jan30Prx4ffst:492B
+3/15
+Dec23Prx4ffst:502B
+80/119
+TRAINER:31-60Days
+(45.11$0.76)
+WonLastStart
+(29.17$1.57)
+Dirt
+(170.15$2.07)
+Sprint
+(155.16$2.03)
+Alw
+(35.17$1.14)
+J/T2016-17PRX(17.18$2.05)J/T2016-17(17.18$2.05)
+2
+20-1
+She'sOverwelming
+
+Own:SanchezJReid
+
+Black,White"Pp",BlackBarsOnWhite
+PEREZJM(43128.02)2016:(23213.06)
+Gr/ro.m.6(Apr)
+
+Sire:AlberttheGreat(GoforGin)
+
+Dam:CraftyToast(CraftyProspector)
+
+Br:CharlesMarkSchnelle(Pa)
+
+Tr:WhylieHeroldO(22111.05)2016:(1487.05)
+L114
+7Life
+35242$53,289
+5220174000$1,00027
+
+201616211$34,27352
+
+Prx11001$5,85652
+D.Fst24232$44,89852
+
+Wet(379)5010$6,56646
+
+Synth0000$0-
+
+Turf(270)6000$1,82551
+
+Dst(342)2000$1,68035
+28Feb17-9
+Prxfst1
+243:493 1:16 1:4344^ çClm7500
+N3L225/10111/211211/2611/48131/4
+PerezJM7
+L113fb84.7040-37AllD'Night12023/4ModernHarmony1222Saffi12021/24path,tired
+14Feb17-9
+Prxfst170
+233:481 1:141 1:474^ çClm7500
+N3L262/12311/231/2431/2386133/4
+MartinezHN
+L120fb103.5047-33AllDayLawn12041/2Phocea12051/4
+AllD'Night
+120óInside,fadedstretch
+31Jan17-4
+Prxfst170
+--UNKNOWN--
+242:493 1:154 1:4834^ çClm7500
+N3L277/9843/4891/4810712716
+MartinezHN
+L121fb65.1037-47Thump12023/4RoyalStage1153ModernHarmony1244Failedtomenace
+14Jan17-3
+Prxfst170
+24 1:492 1:154 1:4844^ çClm7500
+N3L78/111hd 511/4541/4111811291/4
+MartinezHN
+L120fb93.0023-45LittleMissEmily120hd TotallyGag1203/4Fithinvictori12031/2Usedinearlypace
+PreviouslytrainedbyWynerHarold2016(asof12/27):(1942623260.13)
+27Dec16-1
+Prxwf170
+233:481 1:143 1:4623^ çClm7500
+N3L271/9311/242787127171/2
+PenningtonF
+L120b9.4046-29JazzyJava12021/4FooledbyMagic11441/4Kristinite11323/4Inside,tired
+13Dec16-4
+Prxfst1
+234:473 1:133 1:4123^ çClm7500
+N3L525/9311/2311/232211/255
+PenningtonF
+L120b39.8060-30BelleofBowdoin1201Faithinvictori12123/4LittleMissEmily119nkWide,faded
+2Dec16-8
+Penfst170
+23 1:474 1:141 1:4543^ çClm5000
+N3L406/94454843/4771/2714
+RainfordM
+L119b20.1065-28Warrior'sDance11861/2YourTurn1163/4MarchtoGlory12111/2Nomatch
+17Nov16-4
+Penfst11/16
+24 1:483 1:14 1:4743^ çClm5000
+N3L372/721/221/22142791/2
+GonzalezS5
+L114b3.9071-11ShzSoGroovy1193/4ShynVDLvon12011/2ShotgnSlly11813/4Pushed,surrendered
+3Nov16-2
+Penfst170
+233:483 1:14 1:4623^ çClm5000
+N3L231/1132623/4683/410118123/4
+WhitneyDG
+L119fb5.0063-21Peter'sValentine1222
+Warrior'sDance
+1182GoOnGreen1192Rail,noresponse
+16Oct16-1
+Prxfst170
+24 1:49 1:151 1:4713^ çClm7500
+N3L389/12322166671/279
+PenningtonF
+L122fb15.5051-34Outpatient11421/4CrolinDrems1225BelleofBowdoin1201/2Between,weakened
+PreviouslytrainedbyStillwellMaureen2016(asof10/8):(102110.20)
+8Oct16-7
+Penfst170
+--UNKNOWN--
+242:483 1:134 1:4533^ çClm7500
+N3L383/621/221/21hd 211/226
+WhitneyDG
+L121b3.8074-12TctclMnuvr1196ShsOvrwlmng1211/2ShotgnSlly11821/42w,led2nd,weakened
+22Sep16-8
+Penfst1
+24:48 1:132 1:413^ ç Clm7500
+N3L376/8761/279793/455343/4
+WhitneyDG
+L121b8.5076-10HnnhsGmble1191HurricneRven11633/4ShsOvrwlming121hd Belatedrailrally
+TRAINER:1-7Days
+(5.00$0.00)
+Route/Sprint
+(14.00$0.00)
+Dirt
+(149.05$1.17)
+Sprint
+(117.05$1.18)
+Alw
+(40.00$0.00)
+J/T2016-17PRX(6.00$0.00)J/T2016-17(6.00$0.00)
+3
+2-1
+Extrasexyexotkminx
+
+Own:KirwanEquineGroupInc&EdHipps
+
+HotPink,"Keg"AndParrotDesign,Hot
+PENNINGTONF(109252515.23)2016:(721109.15)
+Ch.f.4(May)
+
+Sire:SilverTrain(OldTrieste)$5,000
+
+Dam:ExtraSexyPsychic(Freud)
+
+Br:ToniMKirwan&EdwardHipps(Pa)
+
+Tr:ZuluetaMarcos(361362.36)2016:(31584.27)
+L121
+Life
+5121$69,520
+7220165121$69,52072
+
+20150M00$0-
+
+Prx5121$69,52072
+D.Fst3111$55,02072
+
+Wet(332)2010$14,50053
+
+Synth0000$0-
+
+Turf(258)0000$0-
+
+Dst(337)0000$0-
+5Jly16-8
+Prxwf6f
+22:45 1:572 1:1033^ çAlw55244
+N1X473/99763/476812812
+AcostaJD
+L117fb8.8073-11Kittery1143/4
+FinalBetrayal
+12431/4Authoritative
+11611/4Bobble,bump
+4Jun16-9
+Prxfst61/2f
+232:461 1:113 1:1823^ ç Alw42400
+N1R666/733nk31/23131
+VargasJAJr
+L116b*1.0082-16GretIllusion1141/2WkUpMm1211/2Extrsxyxotkminx11621/4Cameinearly,wide
+14May16-8
+Prxfst6f
+22:453:581 1:1113^ ç Alw42600
+N1R726/82513/4511/422231/4
+VargasJAJr
+L119b2.4079-19Authorittiv11631/4Extrsxyxotkmnx1191WkUpMm12121/4Verywide,nomatch
+30Apr16-2
+Prxfst6f
+--UNKNOWN--
+224:46:583 1:1123^ çMdSpWt63k
+623/711hd 111/21618
+VargasJAJr
+L119b*1.4081-21Extrasexyexotkminx1198SingleBroad1125LikeaLion11921/2Mildhandling
+9Apr16-5
+Prxmyø6f
+222:46:581 1:104çMdSpWt54k
+532/64331/2383112141/2
+VargasJAJr
+L121f2.9069-20
+Whrblbrdsfly
+121141/2Extrsxyxotkmnx
+12111/4LkLon12141/4Longdriveupfor2nd
+WORKS:Feb25Prx5ffst 1:01B
+2/28
+Feb14Prx5ffst 1:022Bg
+2/3
+Feb6Prx5ffst 1:02B
+2/13
+òJan29Prx5ffst 1:001B
+1/6
+Jan15Prx4ffst:491B
+2/10
+Jan1Prx4ffst:483B
+8/18
+TRAINER:+180Days
+(4.00$0.00)
+Dirt
+(345.28$2.06)
+Sprint
+(198.26$1.84)
+Alw
+(60.22$2.78)
+J/T2016-17PRX(66.21$1.24)J/T2016-17(69.22$1.26)
+4
+8-1
+FarrestRim
+
+Own:CornerstoneRacingStableInc
+
+Yellow,MaroonDiamondBelt,YellowCap
+FELIXJMJR(26112.04)2016:(17922.12)
+Ch.m.7(Mar)
+
+Sire:Rimrod(Danzig)$1,500
+
+Dam:JDRainFarrest(PowerbyFar)
+
+Br:CastleRockFarm(Pa)
+
+Tr:BedardAlan(6001.00)2016:(737.10)
+L121
+Life
+41543$141,643
+6720172000$2,24853
+
+201616311$69,85267
+
+Prx37532$131,05567
+D.Fst31231$72,88567
+
+Wet(387)9312$68,25862
+
+Synth0000$0-
+
+Turf(253)1000$50056
+
+Dst(295)16332$79,39065
+25Feb17-5
+Pengd6f
+S23 1:47 1:594 1:1314^ ç Alw33300
+N1X302/5454593/4481/24103/4
+CorujoW
+L119f4.1065-13FormalClass11991/4LadyA.G.1201/2PagingMr.Hughes1191Outruninside
+2Jan17-5
+Prxslyø6f
+223:462:59 1:124^ ç Alw42750
+C535/86723/4851/2851/2853/4
+CedenoC
+L121f9.3072-16HeyBraciole1211/2
+FindtheMoney
+1213/4FreezingFast1211/2Showedlittle
+21Dec16-1
+Pengd51/2f
+22 1:453:583 1:0523^ ç Alw33300
+N1X554/74671/268671/223/4
+CorujoW
+L119f48.4090-09RoyalSixShooter1193/4FarrestRim1193/4Merril'sBank1181/22p,laterunoutside
+5Dec16-7
+Prxfst6f
+222:464:594 1:1243^ ç Alw43500
+C352/114631/4973/49128133/4
+SanchezMJ
+L121f39.4060-21HeartbreakerGirl1203/4
+HeyBraciole
+12011/2FindtheMoney1201/2Inside,gaveway
+13Nov16-5
+Prxfst61/2f
+--UNKNOWN--
+223:462 1:12 1:1833^ ç Alw42250
+C466/646365614617
+SanchezMJ
+L121f9.2065-25SoYouKnow11971/2Rapidez12111/4
+FindtheMoney
+1193/4Carriedout,trailed
+23Oct16-8
+Prxfst6f
+222:462:59 1:123^ ç Alw64500
+N1R356/107851/4878158161/4
+RiveraE
+L121f42.1062-20Tonasah1181/2
+SoYouKnow
+118nkHeyBraciole11851/2Showedlittle
+8Oct16-1
+Prxfst61/2f
+222:461 1:121 1:1843^ çClm7500
+N2Y674/6343/42hd 15161/4
+SanchezMJ
+L121f15.6081-18FarrestRim12161/4NatalieLaRose11341/2Pampam1211/2Bidturn,underwraps
+4Sep16-1
+Prxfst51/2f
+224:47:59 1:0513^ çClm5000
+N2Y652/753121/22hd 1ó
+RiveraE
+L121f9.3085-16
+FarrestRim
+121óCochitaRich11653/4SpanishDream1213Bid,cameagain
+6Aug16-1
+Prxfst51/2f
+22 1:46 1:583 1:0513^ çClm7500
+N4L375/99710713611511
+RiveraE
+L12412.6074-15GhzisStone12051/4BigGllysAnswr113óUpAllNight1133Slowstart,nofactor
+19Jly16-2
+Prxfst6f
+23 1:47:591 1:1133^ çClm7500
+N4L361/8744456106121/2
+RiveraE
+L12436.2067-17Jojo'sGal12041/2Celebratemehome12013/4GethotStayhot12031/4Steadiedearly
+9Jly16-2
+Prxmy51/2f
+222:46:581 1:0443^ ç Clm7500
+N3L628/8343311/2211/21nk
+SanchezMJ
+L12015.7087-11FrrestRim120nkRocketteJet12023/4MidnightPrincss1131Angledout,intime
+26Jun16-10
+Prxfst6f
+22 1:46 1:592 1:1314^ çClm5000
+N1Y4310/104751/2761/44545
+PerezIO7
+L11722.8067-24CowCatcher12411/2Nicen'Sweet124nkTerri'sPass12431/4Widethroughout
+WORKS:Feb16Prx3ffst:37B
+2/6
+TRAINER:2Off45-180
+(6.00$0.00)
+Dirt
+(78.09$1.72)
+Sprint
+(47.11$2.73)
+Alw
+(8.00$0.00)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race5,page:11Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+5
+8-1
+MiGalFren
+
+Own:EmeraldRacingStableLLC
+
+Gold,DoctorBirdDesign,GreenCollar
+SANCHEZMJ(98151015.15)2016:(65479.12)
+B.m.6(Mar)
+
+Sire:KentuckyPride(A.P.Indy)$1,500
+
+Dam:ColebrookGoGo(ElPrado*Ire)
+
+Br:VictoriaMHerlinger(Pa)
+
+Tr:WhylieHeroldO(22111.05)2016:(1487.05)
+L121
+Life
+8120$39,560
+4720172100$23,76047
+
+20166M20$15,80047
+
+Prx8120$39,56047
+D.Fst6120$34,34047
+
+Wet(396)2000$5,22042
+
+Synth0000$0-
+
+Turf(301*)0000$0-
+
+Dst(222)3010$6,91042
+31Jan17-1
+Prxfst6f
+C224:473 1:011 1:154^ çMd20000
+477/73631/45211111/4
+SanchezMJ
+L12413.9063-29MiGalFren12411/4CWRoad12423/4TenSilverDollrs124nkGotoutstrt,lostwhip
+16Jan17-10
+Prxfst6f
+223:464 1:001 1:144^ ç Md10000
+327/924232421/2441/2
+MartinezHN
+L1244.2063-21KwikE1241
+Rosie'sNotion
+12431/2SouljaGirl124óDriftout,nokick
+26Dec16-1
+Prxfst5f
+222:464 1:003^ çMd10000
+385/98741/4651/2431/2211/2
+MartinezHN
+L1246.2082-19ArchPrincess12311/2MiGlFren1241/2RewritetheRules1181Outside,closedwell
+11Dec16-1
+Prxfst61/2f
+23:463 1:114 1:1823^ çMd10000
+471/7221/21hd 23281/4
+MartinezHN
+L1245.2075-18Silvrscrnctrs12381/4MiGlFrn12421/2GonnWnnWnk12441/2Viedinside,nomatch
+22Nov16-9
+Prxfst170
+23 1:484 1:162 1:4933^ çMd10000
+97/12411/2421/2597197271/4
+TorresJ7
+L11518.1021-45TheasReign11911/2ShenangoVlley11911/4
+MjesticKindness
+11910Stumble,tired
+6Nov16-2
+Prxfst51/2f
+224:474 1:01 1:083^ çMd25000
+191/823437691/26111/4
+RiveraE
+L12414.9060-27TeasEminence12161/4DramticPegsus1171BetterThnRubies1211Inside,tired
+22Oct16-3
+Prxmyø6f
+--UNKNOWN--
+223:471 1:00 1:1313^ çMd40000
+254/75431/2561/2414415
+MartinezHN
+L12437.7057-27AtlantisRomance12153/4
+BillyNoSabay
+1247Heatherly12121/4Between,faltered
+1Oct16-9
+Prxmyø51/2f
+--UNKNOWN--
+222:454:582 1:053^ çMd10000
+422/91311/2341/23446
+BowmanA
+L12422.5080-13BrooklynGal12141/4NaturalWarrior11413/4
+Trousseau
+121hd Cameupempty
+WORKS:Feb28Prx4ffst:524B
+50/52
+TRAINER:31-60Days
+(18.00$0.00)
+WonLastStart
+(8.00$0.00)
+Dirt
+(149.05$1.17)
+Sprint
+(117.05$1.18)
+Alw
+(40.00$0.00)
+J/T2016-17PRX(9.11$3.31)J/T2016-17(10.10$2.98)
+6
+8-5
+FindtheMoney
+
+Own:CommonwealthStableLLC
+
+Brown,WhiteDots,BlackSleeves,Brown
+ACOSTAJD(50268.04)2016:(881132.15)
+Dk.borbrf.4(Feb)OBSAPR15$60,000
+
+Sire:LoveofMoney(NotForLove)
+
+Dam:KingsEmpress(KingsFiction)
+
+Br:MaryKHaire(Pa)
+
+Tr:ReidRobertEJr(29466.14)2016:(19624.12)
+L121
+Life
+12142$63,458
+6520173020$18,06065
+
+20166102$32,74064
+
+Prx9122$50,80065
+D.Fst10132$54,75864
+
+Wet(354)2010$8,70065
+
+Synth0000$0-
+
+Turf(266)0000$0-
+
+Dst(292)0000$0-
+20Feb17-8
+Prxfst7f
+224:464 1:143 1:2833^ ç Alw43750
+N1R5812/12411111/2111/2213/4
+PenningtonF
+L121b3.7061-36BillyNoSby12113/4FindtheMoney1212FreezingFst1211/25path,clear,weaken
+28Jan17-8
+Prxfst7f
+232:472 1:133 1:2714^ ç Alw43750
+C435/1212hd 2hd 431/2581/2
+PenningtonF
+L121*3.0061-23CheckbouncinBilly12131/4JazzyJav1211Trousseu121hd Stumble,bump,tired
+2Jan17-5
+Prxslyø6f
+223:462:59 1:124^ ç Alw42750
+C652/8121311/221/221/2
+PenningtonF
+L1213.5077-16HeyBrciole1211/2FindtheMoney1213/4FreezingFst1211/2Closed,up,caughtlate
+5Dec16-7
+Prxfst6f
+222:464:594 1:1243^ ç Alw43500
+C616/11231/231211/2321/4
+PenningtonF
+L1204.1072-21HertbrekerGirl1203/4
+HeyBrciol
+12011/2FindthMony1201/2Closeupwide,gamely
+13Nov16-5
+Prxfst61/2f
+--UNKNOWN--
+223:462 1:12 1:1833^ ç Alw42250
+C642/6211/2221/2381/2383/4
+RiveraE
+L1199.0073-25SoYouKnow11971/2Rapidez12111/4FindtheMoney1193/4Ledinside,faltered
+2Oct16-7
+Prxmy1
+232:473 1:122 1:3833^ ç Alw63600
+C591/72hd 11/2513/4671/267
+RiveraE
+L11815.1072-19Ponytail11823/4LittleMissEmily1182AwesomeSinger1162Viedinside,faded
+3Sep16-2
+Prxfst6f
+22:46:59 1:133^ ç MdSpWt37k
+537/922hd 411/43311
+RiveraE
+L12031.8073-18FindtheMoney1201SntimntlMmory11521/4CWRod120hd Fellback,angleout
+18Jly16-7
+Prxfst6f
+S22:453:582 1:1113^ çMdSpWt66k
+419/9232778119131/4
+RiveraE
+L11919.2069-15SoYouKnow119nkCandySioux12433/4Heatherly11931/4Duckedoutstart,fade
+27Jun16-6
+Prxfst6f
+C214:454:583 1:1143^ çMdSpWt55k
+285/83221/2461/25146211/4
+CintronA
+L119b7.80e58-22WildcatBelle11963/4BillyNoSabay12441/2
+SoYouKnow
+11921/2Offrail,tired
+PreviouslytrainedbyDelacourArnaud2015(asof12/26):(2815646400.20)
+26Dec15-9
+Tamfst140
+232:473 1:124 1:414çMdSpWt20k
+522/9111/21111241/22101/4
+GarciaG
+L120b11.9076-17Dreamup120101/4FindtheMoney12011/2Claravoyant120nkSetpace,heldplace
+4Nov15-3
+Penfst6f
+214:443:57 1:093ç MdSpWt33k
+407/10233381/23112181/2
+CruiseG
+L120b8.4077-11
+BehrniksBnk
+120181/2FindtheMony1201HrDivinnss120nk2w,outlastedothers
+10Oct15-3
+Penfst6f
+222:46 1:592 1:13ç MdSpWt33k
+351/9421/222421/244
+CruiseG
+L121b7.7075-14
+ItsaJourney
+12121/4MissMoneyhenny1211/2WilmaLynn12111/4Pressedrail,wknd
+TRAINER:Dirt
+(201.13$1.86)
+Sprint
+(149.12$2.05)
+Alw
+(70.10$1.01)
+J/T2016-17PRX(5.00$0.00)J/T2016-17(5.00$0.00)
+7
+5-1
+SweetLikeCandy
+
+Own:VictorEllisCollazo
+
+KellyGreen,"Vc"InGoldCircle,Gold
+CABALLEROH(87161810.18)2016:(48684.17)
+Dk.borbrf.4(Mar)FTKOCT14$4,500
+
+Sire:TwirlingCandy(CandyRide*Arg)$20,000
+
+Dam:DisclosedDesire(Forestry)
+
+Br:BlackstoneFarmLLC(Pa)
+
+Tr:CollazoVictor(5100.20)2016:(111.09)
+L121
+Life
+4110$22,980
+5620171000$2,52051
+
+20163110$20,46056
+
+Prx3110$22,68056
+D.Fst3110$22,68056
+
+Wet(416)0000$0-
+
+Synth0000$0-
+
+Turf(347)1000$30014
+
+Dst(462)1100$15,12056
+28Jan17-8
+Prxfst7f
+232:472 1:133 1:2714^ ç Alw43750
+C511/12121hd 1hd 21441/4
+CaballeroH
+L121b20.6066-23CheckbouncinBilly12131/4JazzyJava1211Trousseu121hd Stumble,duel,drift
+31Dec16-1
+Prxfst51/2f
+222:46:582 1:0443^ çMd10000
+569/952hd 2hd 121/2161/4
+CaballeroH
+L123fb2.1087-16SwtLkCndy12361/4GonnWnnWnk12413/4RossNtn124nkVied,drifted,drewoff
+11Dec16-4
+Prxfst61/2f
+223:462 1:13 1:1943^ çMd10000
+388/87521/243/4231/224
+FloresJL
+L123b7.1072-18
+PinkStinNLce
+1244SweetLikeCndy
+1233SnkyCowgirl12321/45wide,neededbid
+15Oct16-1
+Prxfm5f
+ê223:47 1:5923^ çMd20000
+148/1010811922101610141/4
+GonzalezS5
+L116b13.0068-16NghtyNncy11921/2HollywdTmct121nk
+TmpstTrckstr
+12113/4Slowstart,farback
+WORKS:Feb23Prx3ffst:381B
+4/4
+Feb15Prx4ffst:54B
+50/50
+TRAINER:31-60Days
+(4.00$0.00)
+Dirt
+(15.13$5.44)
+Sprint
+(7.14$0.89)
+Alw
+(1.00$0.00)
+J/T2016-17PRX(6.33$13.60)J/T2016-17(6.33$13.60)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race5,page:12Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+6ParxRacing
+Clm
+20000N3L
+1MILE
+( 1:342)CLAIMING.Purse$29,000(PLUSUPTO40%PABF)ForFourYearOldsAndUpward
+WhichHaveNeverWonThreeRaces.Weight,124lbs.Non-winnersOfARaceAtOneMileOrOverSince
+
+February6Allowed2lbs.SuchARaceSinceJanuary6Allowed4lbs.ClaimingPrice$20,000.
+Posttime:3:10ETWagers:Pick3,Exacta,50CentTrifecta,10CentSuperfectaBeyerpar:77
+1
+20-1
+HopeMessenger
+
+Own:SanchezJReid
+
+Black,White"Pp",BlackBarsOnWhite
+BISONOJ(42651.14)2016:(33838.11)
+$20,000Gr/ro.g(04.19.15)5(Feb)
+
+Sire:MizzenMast(Cozzene)$10,000
+
+Dam:LasVegasLady(Whywhywhy)
+
+Br:Mr&MrsRickAbbott(Pa)
+
+Tr:WhylieHeroldO(22111.05)2016:(1487.05)
+L120
+Life
+32246$96,671
+6720172000$50064
+
+201611113$40,71667
+
+Prx27234$87,63667
+D.Fst23225$79,48665
+
+Wet(343)7021$16,81067
+
+Synth0000$0-
+
+Turf(323)2000$37543
+
+Dst(347)3000$3,27059
+24Jan17-6
+Prxslyø7f
+232:463 1:112 1:2414^ Clm40000
+N3L587/8377781/28158141/4
+MartinezHN
+L121fb87.1071-16Jay'sWay1201Purcell1201
+MyCousinLou
+1206Verywide,outrun
+2Jan17-7
+Prxslyø61/2f
+22 1:45 1:101 1:1544^ Alw10000s
+649/109101010108107121/4
+MartinezHN
+L121fb73.0084-16PeacockStrut1193/4BecauseHeCan11761/4Secretive122hd Showedlittle
+17Dec16-7
+Prxmy7f
+223:453 1:111 1:2413^  Alw43750
+C6712/1281181/488481/2353/4
+MartinezHN
+L121fb81.1079-17NotGoliath11623/4Kendricks1133HopeMessenger12121/4Verywide,rallied
+19Nov16-7
+Prxfst170
+S25:491 1:142 1:4533^ Clm20000
+N3L224/9585106129279311/2
+BeatoI
+L120fb50.3036-40FakeDreams12081/4Trieste124ó
+SalemLoop
+12011/4Tired
+29Oct16-6
+Prxfst170
+233:481 1:131 1:4423^ Clm20000
+N3L615/835321/2441/2571/2610
+MartinezHN
+L120b25.0064-30FinalRitual12041/4BigDiscovery1151
+SalemLoop
+1223/4Inside,tired
+8Oct16-4
+Prxfst170
+232:473 1:133 1:4523^ Clm20000
+N3L649/11843/48464211/2351/2
+MartinezHN
+L120b49.6063-26
+McMullnCounty
+12051/4SlmLoop124nkHopMssngr1201Fannedwide,nomatch
+10Sep16-5
+Prxfst7f
+22:444 1:104 1:2433^ Clmc-10000
+N3L4811/1161073/411107155141/4
+EsquivelE
+L120fb8.3069-17BonVoyage11121/4Ruby'sLove12441/2TheCustodian12251/4Passedfadingrivals
+ClaimedfromBottigliaLouisJ.for$10,000,FarroPatriciaTrainer2016(asof9/10):(6641051091060.16)
+1Aug16-4
+Prxfst7f
+23:454 1:104 1:243^ Clm10000
+N3L622/87611/4841/465423/4
+EsquivelE
+L120fb6.2083-08Picked1123/4NellieFox1201/2AlextheDude11611/2Steadied3/8
+12Jly16-6
+Prxfst7f
+S23 1:453 1:102 1:2323^ Clm10000
+N3L634/1081041/2953/45735
+EsquivelE
+L120fb9.1084-12CndyStlker12411/4WinQuietly11733/4HopeMessngr120nkCameout,splitfoes
+6Jun16-3
+Prxfst6f
+--UNKNOWN--
+222:46 1:582 1:113^ Clm15000
+N3L651/76621/24346441/2
+EsquivelE
+L122fb5.0078-15JokerMn12021/4Rdyhrtndsoul12013/4BuddysNoFool1201/2Angledout,mildbid
+16May16-5
+Prxfst1
+S242:483 1:142 1:4033^  Alw42200
+N1X591/652633/4623/4431/245
+EsquivelE
+L121fb8.0064-37
+EdistoBay
+121nkFairandBalnced1141/2EdgerJones11441/4Circled,neededmore
+18Apr16-2
+Prxfst7f
+23:462 1:121 1:253^  Clm12500
+N2L622/7743411/2211/211
+EsquivelE
+L121fb5.2081-22HopeMssngr1211RubysLov1216Tipyourwitrwll113nkOffslow,swungwide
+WORKS:Feb27Prx5ffst 1:023B
+3/5
+Feb21Prx3ffst:364B
+3/10
+TRAINER:Sprint/Route
+(16.00$0.00)
+31-60Days
+(18.00$0.00)
+Dirt
+(149.05$1.17)
+Routes
+(54.04$0.89)
+Claim
+(84.07$1.65)
+J/T2016-17PRX(11.00$0.00)J/T2016-17(12.00$0.00)
+2
+12-1
+Poppy'sTwoStep
+
+Own:JanetPeterson
+
+LavenderAndWhiteDiagonalQuarters
+ACOSTAJD(50268.04)2016:(881132.15)
+$20,000Dkb/brg(05.23.16)5(Apr)
+
+Sire:TwoStepSalsa(Petionville)$7,500
+
+Dam:Poppycop(HotCop)
+
+Br:MrsENormanPeterson(Fla)
+
+Tr:CronkSamuelF(>)2016:(977.07)
+L120
+Life
+11212$42,720
+7720168111$29,88077
+
+20153101$12,84055
+
+Prx1000$50047
+D.Fst9111$27,36077
+
+Wet(314)2101$15,36070
+
+Synth0000$0-
+
+Turf(231)0000$0-
+
+Dst(257)0000$0-
+23Nov16-10
+Penfst6f
+222:46:581 1:113^ Alw30680
+N1X585/97971/2851/4991/477
+ChiappeR
+L11923.8082-11TwoStepTemper1191/2
+TipsyMoos
+11811/2ìFlshyKym12021/2Trailed,wideupper
+Placed6ththroughdisqualification
+13Oct16-8
+Delfst6f
+--UNKNOWN--
+224:46:592 1:1223^ Alw36250
+N1X666/7276773/4544hd 
+ChiappeR
+L119f3.8078-19îHolidyTouch119óîPeteizum119óTimmyT119hd Closeddeterminedly
+19Sep16-8
+Delslyø6f
+C224:463:591 1:1123^ Alw36125
+N1X601/64621/463361/239
+CastrenzeA7
+L112f3.5074-22
+Futile
+1162YoSoyElLobo
+1177Poppy'sTwoStep1121/2Randownrivalfor3rd
+22Aug16-8
+Delfst6f
+214:444:573 1:1013^ OC12k/
+N1X-N
+727/77771/4661/255441/2
+ChiappeR
+L1208.4084-11Charlesbrecknridge1202
+AfleetWilly
+11611/4Futile
+11611/4Gainingwelllatestr
+27Jly16-4
+Delfst6f
+S22 1:45:572 1:1013^ Clm40000
+(40-35)
+N3L731/444646441/2431/4
+ChiappeR
+L121fb2.5086-17DonLupe1193/4EightDaHardway11711/4LoveRules12111/4Bobbledatthestart
+7Jly16-6
+Delfst51/2f
+22:453:574 1:0413^ OC20k/SAL12k-N
+626/63631/4631/4651/246
+CintronA
+L122fb2.5085-13PachangaParty11513/4SSMinnow12211/4PerfectGmeCin1243Lateoutsidebid
+18Jun16-7
+Delfst51/2f
+ý212:453:584 1:053^ OC12k/
+N1X-N
+773/656768321/223/4
+ChiappeR
+L120fb14.9086-18FinalForum1083/4Poppy'sTwoStep1205ZenPapa1161/2Closedoutside
+23May16-6
+Delgd6f
+223:464:593 1:1223^ Clm15000
+(15-10)
+N2L702/75421/22hd 111/2133/4
+ChiappeR
+L122fb7.5078-14PoppysTwoStep12233/4GrecianPrince11223/4RoyalBrute1171/2Bid,goingaway
+2Nov15-8
+Prxfst6f
+222:463:593 1:1333^ Alw70320
+N1X475/119831/49510141091/2
+CedenoC
+L119fb60.6061-30WaitinOnOne1191/2AvalancheRock121hd WildStreet119nkFailedtomenace
+13Jun15-3
+Delfst6f
+S223:46 1:59 1:123^ Md20000
+(20-16)
+553/4331/231/231/213/4
+ConnerT5
+L114b3.1080-16PoppysTwoStp1143/4SummrMorn11911/4
+ExtrmAlx
+11921/23wbid,upfinal70yds
+16May15-1
+Delfst5f
+--UNKNOWN--
+214:453:5743^ Md12500
+(12.5-10)
+411/55510591/2571/2353/4
+ConnerT5
+L1135.8088-05EmptyBckfield11823/4ExtremeAlex1183
+PoppysTwoStep
+11311/4Goingwelllate
+WORKS:Feb18FFm4ffst:53B
+1/3
+Jan21FFm3fsly:371B(d)
+1/2
+òDec24Deltr.t3fsly:384B
+1/4
+TRAINER:61-180Days
+(7.00$0.00)
+Sprint/Route
+(11.09$2.22)
+Dirt
+(86.08$2.22)
+Routes
+(20.10$1.83)
+Claim
+(48.06$0.74)
+3
+12-1
+SalemLoop
+
+Own:AlbertRLupchoJr
+
+NeonYellow,BlackDots,BlackCap
+CASTILLOA(39952.23)2016:(29539.13)
+$20,000B.g(05.06.16)5(Feb)
+
+Sire:Congrats(A.P.Indy)$20,000
+
+Dam:Yogi'ssplashofgold(TouchGold)
+
+Br:DrCharlesSGiles(Ky)
+
+Tr:ZuluetaMarcos(361362.36)2016:(31584.27)
+L120
+Life
+27253$96,663
+7520171000$1,26066
+
+201615142$53,73768
+
+Prx5012$16,71068
+D.Fst17242$79,27675
+
+Wet(364)7011$14,99067
+
+Synth0000$0-
+
+Turf(268)3000$2,39770
+
+Dst(329)5120$28,10467
+24Jan17-6
+Prxslyø7f
+232:463 1:112 1:2414^ Clm40000
+N3L661/88810891/27145101/4
+SalgadoA
+L120fb12.8075-16Jay'sWay1201Purcell1201
+MyCousinLou
+1206Offslow,passfaders
+12Dec16-4
+Prxslyø170
+--UNKNOWN--
+23:463 1:114 1:4223^ Clmc-20000
+N3L672/757474345773/4
+SanchezMJ
+L120fb6.2076-22TwoWeeksOff1204BillyBadpay1131/2
+PaintedPatchen
+1191/2Justoffrail,tired
+ClaimedfromSulleyAndrewfor$20,000,FarroPatriciaTrainer2016(asof12/12):(9291341541410.14)
+19Nov16-7
+Prxfst170
+S25:491 1:142 1:4533^ Clm20000
+N3L597/936371/23425381/4
+SanchezMJ
+L120fb9.8060-40FakeDreams12081/4Trieste124óSalemLoop12011/4Bid,deniedtheplace
+29Oct16-6
+Prxfst170
+233:481 1:131 1:4423^ Clm20000
+N3L684/877655534351/4
+BisonoJ
+L122fb5.2069-30FinalRitual12041/4BigDiscovery1151SalemLoop1223/4Wide,norealthreat
+8Oct16-4
+Prxfst170
+232:473 1:133 1:4523^ Clm20000
+N3L644/111171151/2861/232251/4
+BisonoJ
+L124fb11.2064-26
+McMullnCounty
+12051/4SlmLoop124nk
+HopMssngr1201Squeeze,wide,got2nd
+PreviouslytrainedbySciaccaGary2016(asof9/11):(2232123310.09)
+11Sep16-1
+Belfst1
+C233:474 1:132 1:3813^ Clm16000
+N2L664/766631/263411/413/4
+FrancoM
+L122b5.5073-20SlemLoop1223/4SrtogSight11711/2Toohottoevenspk122nk2-3w,5pupr,up1/16
+22Aug16-3
+Sargd1°
+S484 1:143 1:39 1:523^ Clm16000
+N2L661/6211/2421/2421/242521/4
+CarmoucheK
+L122b11.1074-19Greyjoy122hd GoNiko117hd LuckybuckSyndrom1192Trackedins,outkicked
+1Aug16-4
+Sarslyø1°
+--UNKNOWN--
+481 1:13 1:384 1:5143^ Clm16000
+N2L564/653521/4331/238212
+CarmoucheK
+L122b10.2065-28McMllnConty12212SlmLp12221/4LckybckSyndrm11983/43w1st,3w&used2nd
+14Jly16-4
+Belfm7f
+ê23:46 1:093 1:2123^ Clm40000
+N2L46/63681/2611618632
+ArroyoAS
+L121b25.7562-09CompletlyBonkrs1203/4RivrDncr121hd HonorblDnil12441/4Insideturn,trailed
+25Jun16-5
+Belfst1
+232:463 1:114 1:3733^ Clm16000
+N2L675/9523/4645221/22nk
+LezcanoJ
+L122b7.4076-19Don'tPoint124nkSalemLoop1226GuyanaCat118nk5wupper,repelled
+5Jun16-9
+Belfst6f
+22 1:46:581 1:113^ Clm16000
+N2L566/86716791/2610661/4
+ArroyoAS
+L122b8.2079-15TwoTimesBook11931/4Elcinico11521/2
+CongratsKid
+1191/27wupper,outkicked
+13Apr16-7
+Aqufst1
+23 1:462 1:113 1:3834^ Clm14000
+N2L574/108788771/2771/289
+EsquivelE
+L121b5.2069-19SoundofFreedom12123/4ChasinChm12111/2
+Swivel
+12113/43wtopturn,4wtopstr
+WORKS:Feb28Prx4ffst:494B
+24/52
+Feb6Prx5ffst 1:024B
+6/13
+Jan14Prx5ffst 1:02B
+5/22
+TRAINER:Sprint/Route
+(49.35$3.27)
+31-60Days
+(98.28$2.13)
+Dirt
+(345.28$2.06)
+Routes
+(162.29$2.19)
+Claim
+(206.28$1.79)
+J/T2016-17PRX(24.46$4.28)J/T2016-17(28.43$3.84)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race6,page:13Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+4
+8-1
+PhillyCompletely
+
+Own:ScottHFairlie
+
+ForestGreen,GoldClub,Gold"A"On
+RIVERAE(694511.06)2016:(38438.10)
+$20,000Dkb/brg(11.27.15)4(Feb)
+
+Sire:Philanthropist(KrisS.)$3,367
+
+Dam:Whispertoascream(HonorGrades)
+
+Br:FrankDiGiulioJr(Ont-C)
+
+Tr:WynerHarold(28135.04)2016:(19526.13)
+L122
+Life
+8211$40,027
+6820172101$19,33068
+
+20165100$13,96859
+
+Prx1100$16,80061
+D.Fst2101$19,33068
+
+Wet(371)0000$0-
+
+Synth6110$20,69759
+
+Turf(248)0000$0-
+
+Dst(347)0000$0-
+PreviouslytrainedbyFairlieScottH2016:(112188160.16)
+4Feb17-5
+LrlfstÍ11/16
+S233:471 1:122 1:4444^ OC16k/SAL16k-N
+684/7211/232331/2361/2381/4
+RainfordM
+L122fb7.3079-22QulityInterest12051/2Segovi12023/4PhillyCompletly12231/2Inside,chased,faded
+PreviouslytrainedbyWynerHarold2016:(1952623260.13)
+9Jan17-8
+Prxfst170
+S23:463 1:114 1:434^ Clm20000
+N2L612/721311/22hd 1hd 11
+RainfordM
+L121fb13.6081-20PhillyCompletely1211Lori'sFolly1244Baychimo12111/2Movedout,clear
+6Nov16-10
+WOfst11/16
+úC233:48 1:131 1:4433^ Clmc-
+(10-9.5)
+N2L5710/1332331/211/2221/2751/2
+HusbandsP
+L120b*2.4082-10ShotforShot12121/2
+RebelMusic
+1231/2Hockey11911/4Brkinwd,dueled,passed
+ClaimedfromDiGiulio,Jr.FrankD.for$10,000,TillerRobertPTrainer2016(asof11/6):(2092932270.14)
+16Oct16-11
+WOfst11/16
+ú24:481 1:122 1:4333^ Clm20000
+(20-19)
+N2L595/114354723/41051/4971/4
+HusbandsP
+L118b9.1586-10GrayPhantom12111/4Biigon1193/4DurangoFlier12111/4Noresponseinstretch
+14Sep16-2
+WOfst1°
+ú492 1:143 1:40 1:533^ Md16000
+(16-15)
+581/8111/211/211/21112
+HusbandsP
+L119b5.2076-24PhillyCompletely1192LandHo1191/2Asterism11923/4Clrtopstr,lightdrv
+14Aug16-10
+WOfst6f
+ú224:46 1:583 1:1123^  Moc40000
+333/107731/2107993/4893/4
+AldersonJI
+L11919.4074-13IntotheMystic1231/2
+RtfcMcdougll
+1192SirBronx1192Stmbl'd,brkoutw,bmp'd
+30Jly16-10
+WOfst61/2f
+ú23 1:473 1:12 1:181 MdSpWt47k
+487/11222211/2431/2881/2
+HusbandsSP
+L12111.0572-17Mxsmircljourny12111/2MMor12133/4RtfcMcdougll12121/42w,alloutstr,evnout
+29Nov15-3
+WOfst7f
+ú232:471 1:122 1:254 MdSpWt47k
+482/118943/4541/2321/233/4
+HusbandsP
+L1193.7575-17Mik119nkìSpcilConcoction1191/2PhillyCompltly119hd Offslw,checkedlate
+Placedsecondthroughdisqualification
+WORKS:Feb25Prx4ffst:494B
+11/27
+Feb19Prx4ffst:502B
+6/9
+Jan28Pen4ffst:492B
+20/40
+Jan19Pen3fgd:401B
+11/11
+Jan5Pen4ffst:512B
+15/24
+Dec30Pen4ffst:501B
+18/26
+TRAINER:Dirt
+(211.13$1.59)
+Routes
+(85.18$1.80)
+Claim
+(124.10$1.20)
+J/T2016-17PRX(2.00$0.00)J/T2016-17(2.00$0.00)
+5
+6-1
+RunDixieRun
+
+Own:KnewStable
+
+Blue,GreenBlocks,GreenStripesOn
+CABALLEROH(87161810.18)2016:(48684.17)
+$20,000B.c.4(Feb)
+
+Sire:Tizway(Tiznow)$7,500
+
+Dam:DixieDos(DixielandBand)
+
+Br:RandalFamilyTrustRDavid&MarylynARandalTr(Ky)
+
+Tr:DunnJohnJ(8123.12)2016:(223.14)
+L124
+Life
+9214$51,340
+6020172101$19,88060
+
+20167113$31,46060
+
+Prx7204$48,82060
+D.Fst7213$47,94060
+
+Wet(299)1001$3,08056
+
+Synth0000$0-
+
+Turf(360)1000$32035
+
+Dst(350)1001$3,08056
+14Feb17-3
+Prxfst170
+--UNKNOWN--
+234:493 1:142 1:4544^ Clm20000
+N2L605/734211hd 1111
+CaballeroH
+L1215.4067-33RunDixieRun1211Baychimo1211WendyWend12111/2Railbid,edgedclear
+24Jan17-3
+Prxslyø1
+233:481 1:134 1:4014^ Clm20000
+N2L569/9731/4841/4761/2553/437
+SilveraR
+L121f9.6064-25
+SteveSaysNo
+121nkPharaoh'sCity12163/4
+RunDixieRun
+1213/4Uplateforthird
+19Nov16-1
+Prxfst6f
+222:464 1:00 1:1323^ Md20000
+602/75421/222211/213/4
+SilveraR
+L1222.2071-28RunDixieRun1223/4KellysSilvr12261/2BuzzWithAlx12211/2Closed,upfinal70yds
+24Oct16-2
+Prxfst6f
+224:47 1:594 1:133^ Md20000
+5610/1146357571/2353/4
+CaballeroH
+L12111.3067-27HonorCommitment12121/2TizAfleet12431/4
+RunDixieRun
+121óWide,norally
+15Oct16-2
+Prxfst6f
+22:453:581 1:1123^ Mdc-10000
+588/111451/236361/2391/2
+CastilloD
+L1216.6071-21ArtBoss12181/2ProudFlyer1211RunDixieRun12131/2Wide,tired
+ClaimedfromSmylie,JonJ.andWindNLeavesFarm,Inc.for$10,000,SmylieTimothyJTrainer2016(asof10/15):(160240.00)
+3Oct16-1
+Prxfst51/2f
+224:462:582 1:0443^ Md20000
+565/9442421/4431/4441/4
+CastilloD
+L121f5.0083-16SecretSecret1162InterestRtSwp1241/2GoldnSnd12413/4Closeup,evenlylane
+12Sep16-1
+Prxfst6f
+S23:47:592 1:123^ Md20000
+575/712hd 1hd 31/2321/4
+CastilloD
+L120f9.6076-20WhersWilly120óMrChrls12421/4RunDixiRun12041/4Viedbetween,weakened
+PreviouslytrainedbyAsmussenStevenM2016(asof7/16):(8571831391070.21)
+16Jly16-2
+ElPfst6f
+--UNKNOWN--
+224:454:574 1:1033^ Md10000
+(10-9)
+563/7321211/2222ó
+MenaM
+L1193.6086-11NimsHonor124óRunDixieRun11911/4StoryOnthStrt1193/4Brokeinst,missed
+29Jun16-7
+Indfm5f
+ê213:443:5623^ MdSpWt39k
+352/8854871/2813812
+SantanaRJr
+L1183.2084-04GoneBallistic11913/4SilentMission1184Volt118nkNofactor
+WORKS:Jan16Prx4ffst:51B
+28/39
+Dec14Prx4ffst:503B
+39/64
+TRAINER:WonLastStart
+(3.00$0.00)
+Dirt
+(28.14$1.24)
+Routes
+(13.08$0.98)
+Claim
+(24.08$0.98)
+J/T2016-17PRX(10.20$2.34)J/T2016-17(10.20$2.34)
+6
+12-1
+CountryMoney
+
+Own:JRMStable
+
+Yellow,LightBlueBracesAndCross
+PEREZJM(43128.02)2016:(23213.06)
+$20,000Dkb/brg(08.17.15)4(Mar)KEESEP14$60,000
+
+Sire:HardSpun(Danzig)$45,000
+
+Dam:StarsIndySkies(A.P.Indy)
+
+Br:SummerWindFarm(Ky)
+
+Tr:DandyRonaldJ(10110.10)2016:(735.07)
+L113
+7Life
+11201$37,423
+7320171000$25053
+
+20169201$36,77373
+
+Prx2100$14,05055
+D.Fst2100$14,34060
+
+Wet(398)1000$25053
+
+Synth0000$0-
+
+Turf(329)8101$22,83373
+
+Dst(387)1000$54060
+21Jan17-5
+Prxwf170
+C232:472 1:131 1:4534^ Clmc-7500
+N3L5311/116464571/2691/267
+SilveraR
+L1223.9061-34CarFiftyFour12221/4PureSpring1201T.J.Goodie12021/2Outside,lackedrally
+ClaimedfromScheraMatthewfor$7,500,PinoMichaelVTrainer2016:(3125255460.17)
+4Dec16-1
+Prxfst170
+234:484 1:154 1:4813^ Clm10000
+N2L552/7761/4431/41hd 2hd 1nk
+SilveraR
+L1192.3055-38CountryMony119nkSocilRbllon12061/2BrdHumor11551/4Railrally,cameagain
+10Nov16-7
+Aqufst1
+S24 1:483 1:14 1:3923^ Clm16000
+N2L605/6311/231/2521/255663/4
+DavisD
+L1194.6067-31
+BttleMidwy
+12211/2InEqulity
+11941/2FeetsofStrngth1211/2Slightbobblest,wknd
+19Oct16-1
+Medfm11/16
+ê--UNKNOWN--
+233:481 1:114 1:423^ Clm25000
+(25-20)
+N2L655/7411/2513/45354531/4
+SilveraR
+L1204.80100-MontaukMan118hd SaltMine11813/4MkeBigPlns118hd Betweenfoes,norally
+4Jly16-2
+Belfm11/16
+ê--UNKNOWN--
+234:464 1:104 1:4023^ Clm40000
+N2L643/854531/264751/277
+CarmoucheK
+L119b9.0085-05FerociousTiger1221/2ArcticKing122nk
+SignatureLook
+12223/4Reserved2p,tired
+12May16-6
+Belfm1
+ê223:461 1:103 1:3343^ Clmc-50000
+N2L662/8871/2861/285751/279
+CarmoucheK
+L11812.7083-12DataDriven12211/4
+AltarBoy
+12211/2RockEagle
+12211/42-3wturn,fan6pupr
+ClaimedfromDreamWalkinFarms,Inc.for$50,000,ZitoNicholasPTrainer2016(asof5/12):(1161114170.09)
+21Apr16-9
+Keefm1°
+ê472 1:121 1:382 1:512Alw50000s
+578/1211131119111710177131/2
+HillC
+L1183.8068-21FreeRose11821/4SmartyKitten11811/2Solve11831/4Improvedposition
+11Mar16-6
+GPfm11/16
+ê232:481 1:114 1:42OC50k/SAL50k-N
+733/7646342411/431/2
+JaramilloE
+L1202.4079-10Kystonforvctory1181/2ElCclon118óContryMny120hd Waitd1/4,insidebid1/8
+24Feb16-8
+GPfm11/16
+ê253:494 1:133 1:452Md75000
+723/9661/269681/2651/21nk
+JaramilloE
+L1207.6063-34CountryMoney120nkEndPly12011/2MoegnAvenu12011/4Angledout1/4,uplate
+27Jan16-8
+GPfm11/16
+ê233:464 1:11 1:423Md50000
+616/13107981/4731251/275
+GudielV5
+L11516.4072-29RegalKitten1201/2CpeForce12011/2MoegnAvenue1201Steadiedst,lackdroom
+31Dec15-7
+GPfm1
+ê244:50 1:134 1:382MdSpWt40k
+6012/131281161/2981/487751/2
+ZayasEJ
+12064.3062-29HighlyPrized1201/2ArcticJoy120nkMollydooker120nkPassedtiringrivals
+WORKS:Feb21Prx5ffst 1:031B
+6/7
+Jan6Prx4fgd:492B
+15/50
+Dec23Prx4ffst:49B
+17/119
+TRAINER:1stClaim
+(13.15$1.23)
+2Off45-180
+(12.17$1.63)
+31-60Days
+(16.00$0.00)
+Dirt
+(85.07$0.59)
+Routes
+(36.08$0.56)
+Claim
+(64.08$0.72)
+7
+15-1
+Ginner
+
+Own:JanetPolachek
+
+Purple,WhiteLightningBolt,WhiteBars
+SILVERAR(848814.10)2016:(66978.12)
+$20,000Dkb/brg(08.14.15)4(Mar)EASSEP14$8,500
+
+Sire:AlberttheGreat(GoforGin)
+
+Dam:ShawklitKisses(CapeCanaveral)
+
+Br:XanthusFarmsInc(Pa)
+
+Tr:PolachekJanet(8110.12)2016:(566.11)
+L122
+Life
+14241$60,261
+6620174210$38,05066
+
+20169M31$21,29159
+
+Prx11241$59,02666
+D.Fst13241$59,18166
+
+Wet(359)1000$1,08047
+
+Synth0000$0-
+
+Turf(293)0000$0-
+
+Dst(359)2101$18,81659
+25Feb17-2
+Prxfst170
+234:483 1:144 1:4914^ Clmc-7500
+N3L511/1055421/24546243/4
+SilveraR
+L124fb5.9045-50BigManRocket12243/4Ginner124nkGuyanaExpress115óDriftout,gainplace
+ClaimedfromGoldStarrRacingLLCfor$7,500,LakeScottATrainer2016:(661102103870.15)
+4Feb17-6
+Prxfst170
+S24:491 1:153 1:484^ Clm7500
+N2L667/8411/431211/231/211/2
+SilveraR
+L124b8.4056-53Ginner1241/2UrbanBurn1163/4RockytheKid12143/4Intight,rail,drive
+28Jan17-1
+Prxfst1
+--UNKNOWN--
+25:501 1:154 1:4234^ Md10000
+576/9111hd 1hd 111/211
+SilveraR
+L124b11.8059-38
+Ginner
+1241ShurFox12441/4CongratstoAvie119hd Longdrivetoprevail
+9Jan17-2
+Prxfst170
+S232:48 1:124 1:4244^ Md10000
+201/7651/2771/47137227271/4
+SilveraR
+L124fb1.6055-20CourageousColonel12453/4CongratstoAvie11933/4StormLute12481/2Dulleffort
+20Dec16-2
+Prxgd170
+S23:47 1:113 1:4043^ Md10000
+473/11523/4723/4641/4481/24111/2
+SilveraR
+L123b*2.3080-09Lori'sFolly12381/4CongratstoAvie11911/4
+HardLabor
+1232Outside,tired
+3Dec16-1
+Prxfst11/16
+24:49 1:152 1:5043^ Md10000
+537/10761/4851/4853/4451/223/4
+SilveraR
+L123b9.4058-40Extrovert1233/4Ginner1231HardLabor123nkOutside,lateenergy
+15Nov16-1
+Prxfst170
+C224:473 1:141 1:4733^  Md10000
+477/9651/46647232nk
+SilveraR
+L122b12.9058-35Ding122nkGinner12211/2U.Tee12221/4Loomedboldly,hung
+6Sep16-1
+Prxfst170
+--UNKNOWN--
+24 1:492 1:151 1:4523^ Md10000
+341/64131510516518
+SalgadoA
+L120b5.5051-30JmmythExplorr120101/4CongrtstoAv1241
+UnclWoodrw
+12411/4Inside,gaveway
+22Aug16-2
+Delfst11/16
+24 1:492 1:141 1:4713^ Md16000
+(16-14)
+334/9531/263871/2993/4814
+CedenoC
+L120b13.5057-25ThomasKnight1241Nick'sLuck120ó
+SirLucaRichard
+120óTired
+1Aug16-9
+Prxfst170
+232:471 1:121 1:4333^ Mdc-10000
+462/1041311/2551/2581/2563/4
+SalgadoA
+L119fb2.6071-17SaintRoch1203ThomasKnight12421/4CongratstoAvie12411/2Briefbid,faded
+ClaimedfromPewterStableandMJMStablefor$10,000,DeMasiKathleenATrainer2016(asof8/1):(2082937340.14)
+26Jun16-1
+Prxfst170
+233:48 1:142 1:4643^ Mdc-10000
+515/8321/221/21hd 112nk
+SalgadoA
+L119b2.6062-32MrCoupons117nkGinner11981/2LilRedCaboose11233/4Stalked,clear,gamely
+ClaimedfromSureThingStablesLLCfor$10,000,ZuluetaMarcosTrainer2016(asof6/26):(1584031230.25)PreviouslytrainedbyTaggBarclay2016(asof6/7):(611010100.16)
+7Jun16-1
+Prxfst1
+242:473 1:131 1:4013^ Md15000
+591/745410575534
+LopezP
+L119b*2.5067-29Slaminator124óBestThing1244Ginner1191/2Somelateenergy
+TRAINER:1stClaim
+(11.00$28.80)
+Dirt
+(65.11$5.66)
+Routes
+(31.13$4.60)
+Claim
+(45.13$7.54)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race6,page:14Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+8
+5-2
+GiantTrick
+
+Own:MorrisEKernanJr&M-ZRacingPartn
+
+White,GreenCircledFruitEmblem,Green
+PENNINGTONF(109252515.23)2016:(721109.15)
+$20,000B.c.4(Mar)TEXAPR15$15,000
+
+Sire:NekoBay(Giant'sCauseway)$2,500
+
+Dam:Subterfuge(FavoriteTrick)
+
+Br:EurekaThoroughbredFarm(Tex)
+
+Tr:ZuluetaMarcos(361362.36)2016:(31584.27)
+L120
+Life
+22265$129,364
+8120172000$2,77077
+
+201616244$110,05081
+
+Prx3000$3,02077
+D.Fst16264$122,07481
+
+Wet(293)4000$4,39077
+
+Synth0000$0-
+
+Turf(201)2001$2,90072
+
+Dst(342)3001$7,60067
+28Jan17-7
+Prxfst6f
+222:453:58 1:1124^ Alw25000s
+705/76761/479710773/4
+RodriguezAR
+L12115.7073-23HighIQPet11611/4SirRockport12111/4ThomsKnight1211Stumbledatthestart
+2Jan17-4
+Prxslyø7f
+224:454 1:103 1:2314^ Clm40000
+N3L771/8221211/2421/2453/4
+RodriguezAR
+L122f6.1084-16WatchMyDust1203/4Purcell1201/2MyCousinLou12041/2Driftedout,fade
+26Dec16-9
+Prxfst170
+233:481 1:132 1:4343^ Alw52000
+N1X671/91hd 11/22hd 421/2661/2
+RodriguezAR
+L120f*2.2070-25RoylInclusion120nkBlvnLuck1202ConqustKronos12111/4Ledinside,faltered
+12Nov16-3
+CDfst11/16
+24:481 1:13 1:4443^ Clmc-
+(30-25)
+N2L775/72hd 2hd 11/2111/2111/4
+HernandezBJJr
+L120*1.7083-11GiantTrick12011/4
+GoingStrong
+1203/4PerfectSaint12033/4Pressed,cleared,held
+ClaimedfromBenoitLarryfor$30,000,BourgeoisKeithTrainer2016(asof11/12):(1843338240.18)
+4Nov16-9
+CDfst61/2f
+23:464 1:103 1:1643^ Clm40000
+(50-40)
+N2L736/84311/2412324
+HernandezCJ
+L118*2.3087-13RockStrSttus1224
+GintTrick
+118nkSightforsoreys12033/45pathturn,nomatch
+13Oct16-5
+Keefst7f
+22 1:452 1:104 1:243^ Clm30000
+N2L752/12921/2211hd 23/4
+HernandezBJJr
+L1184.3085-15ATerrificShot1183/4GiantTrick11831/2Zanotti1183/4Grudginglygaveway
+24Sep16-2
+CDfst61/2f
+23 1:464 1:102 1:1623^ Clm40000
+(50-40)
+N2L815/6121/22hd 21221/2
+HernandezBJJr
+L1168.0090-13Taketothestreets12221/2GintTrick11651/2FullHert12213/4Vied3w,keptonwell
+15Sep16-1
+KDfm61/2f
+ê263:501 1:173^ Clm30000
+N2L603/1114265912961/2
+StJulienM
+L12011.5090-02HoosierZip120hd DeepExplorer1201/2PerfectSaint1201/22wd,droppedback
+10Aug16-5
+IndfmÍ5f
+ê213:45 1:5723^ Clm25000
+B724/76541/266641/2311/2
+StJulienM
+L1186.30--
+DynmiteStick
+11711/2GottLoveCndy120óGintTrick118óBmpdst,rallied6wd
+10Jly16-6
+ElPfst7f
+S224:452 1:093 1:22Alw30000s
+696/91111hd 2hd 331/2
+HernandezBJJr
+L1194.2093-04ShuttheBox12211/4
+NominalDollars
+11921/4GiantTrick11911/2Longdrive,faltered
+26May16-6
+CDwf61/2f
+223:454 1:104 1:1733^ Clmc-
+(30-25)
+N2L656/73221/2421/443431/2
+HillC
+L118f3.1083-10FairAdvantage124nk
+BowTieBoss
+1242Bcklsh11811/4Unpreparedst,weakened
+ClaimedfromMuddyWatersStablesfor$30,000,VanBergJackCTrainer2016(asof5/26):(1391621180.12)
+16Apr16-8
+OPfst1
+232:471 1:12 1:374NorthnSpr150k
+634/10413/4823/4941/29119141/4
+DeLaCruzW
+L11541.6079-13DecortedSoldir115nk
+BigRdRockt
+1151Unxplind11713/45w2ndturn,backedup
+WORKS:Feb28Prx4ffst:502B
+33/52
+TRAINER:Sprint/Route
+(49.35$3.27)
+2Sprints/Route
+(10.30$1.30)
+31-60Days
+(98.28$2.13)
+Dirt
+(345.28$2.06)
+Routes
+(162.29$2.19)
+Claim
+(206.28$1.79)J/T2016-17PRX(66.21$1.24)J/T2016-17(69.22$1.26)
+9
+7-2
+DefinitelyTonight
+
+Own:JerseyShoreRacingStable
+
+Turquoise,TanStarAndSunEmblem
+MCCARTHYT(36874.22)2016:(1437274.19)
+$20,000Dkb/brg(11.11.15)4(May)
+
+Sire:Fairbanks(Giant'sCauseway)$2,500
+
+Dam:Whapina(PrivateInterview)
+
+Br:JohnPetrini(NJ)
+
+Tr:PerkinsBenWJr(12320.25)2016:(8117.21)
+L120
+Life
+8202$70,718
+7120168202$70,71871
+
+20150M00$0-
+
+Prx0000$0-
+D.Fst8202$70,71871
+
+Wet(271)0000$0-
+
+Synth0000$0-
+
+Turf(213)0000$0-
+
+Dst(298)2100$29,52471
+12Nov16-8
+LrlfstÍ11/16
+25:49 1:141 1:4733^ Alw42000
+N1X615/9751/4710611963/4781/2
+McCarthyT
+L118b7.9061-30Allowed1203/4BullEnsign12011/2JumpinFracFlash1201/2Rail1/4,nofactor
+24Sep16-9
+Mthfst1
+C234:464 1:112 1:3743^  OC50k/
+N2R-N
+712/754510691/2653/4571/2
+BocachicaO
+L118b11.2077-14FuzzyMuzzl1203/4NoMorMusic12021/2WBJmmin12011/4Bumpedstart,norally
+3Sep16-10
+Mthfst170
+232:474 1:121 1:4143^  OC50k/
+N2R-N
+704/633411/233341/2363/4
+BocachicaO
+L118b3.1083-10
+DiamondPly
+1154FkeDrems12023/4DefinitelyTonight11811/2Trackedins,nobid
+15Jly16-8
+Mthfst170
+S23 1:47 1:114 1:4233^  OC20k/
+N2X-N
+706/8421/2431/2411/232423/4
+BocachicaO
+L118b9.9083-21Don'sMarsh1242CheddarChub1201/2AciniDiPepe120nk3wintolane,outkick
+4Jly16-3
+Mthfst1
+242:49 1:131 1:3913^  Alw50000
+N1X643/7311/232311/22hd 131/2
+BocachicaO
+L118b5.0078-13DefinitelyTonight11831/2
+ASixtiesTune
+1202DiamondMrket1203/4Inside,rallied
+24Jun16-1
+Mthfst51/2f
+223:47:594 1:0623^  MdSpWt45k
+454/66531/4311/221/211
+BocachicaO
+L118b5.3081-17
+DefinitelyTonight
+1181Will1181/2ChubScout11811/23w1/4,ralliedbtwn
+4Jun16-11
+Mthfst6f
+22:444:574 1:1133^ MdSpWt35k
+506/87881/2661/25645
+FerrerJC
+L1175.0079-15GoingAbrod11713/4
+RcehorsHyns
+11731/4Corndbfncbbg117hd Failedtothreaten
+14May16-4
+Mthfst6f
+222:453:582 1:123^ MdSpWt35k
+593/66541/24323331/4
+CentenoDE
+L11713.1079-12IgnorntHist11713/4
+GoingAbrod
+11711/2DfntlyTonght11743/4Inside,bid,outfinish
+WORKS:Feb25Prx4ffst:492Bg
+10/27
+Feb16Prx4ffst:494B
+7/11
+Feb6Prx4ffst:514B
+26/29
+Jan27Prx4ffst:501B
+17/29
+òJan15Prx3ffst:361B
+1/6
+Dec11Pim4ffst:52B
+6/12
+TRAINER:61-180Days
+(8.12$1.32)
+Dirt
+(86.22$2.43)
+Routes
+(24.21$1.67)
+Claim
+(25.24$2.58)
+J/T2016-17PRX(4.50$6.55)J/T2016-17(22.36$3.44)
+10
+4-1
+SteveSaysNo
+
+Own:JohnGatinsandTheodoreVolk
+
+Black,PinkStars,PinkSleeves,Black
+SANCHEZMJ(98151015.15)2016:(65479.12)
+$20,000Dkb/brg(05.26.16)4(Jan)KEESEP14$10,000
+
+Sire:Eskendereya(Giant'sCauseway)
+
+Dam:Swigert(FusaichiPegasus)
+
+Br:SunValleyFarm(Ky)
+
+Tr:VolkScott(4100.25)2016:(265.19)
+L122
+Life
+9220$36,425
+6820171100$16,80068
+
+20168120$19,62565
+
+Prx3210$31,20068
+D.Fst6120$19,20065
+
+Wet(362)1100$16,80068
+
+Synth0000$0-
+
+Turf(291)2000$42521
+
+Dst(374)1100$16,80068
+24Jan17-3
+Prxslyø1
+233:481 1:134 1:4014^ Clm20000
+N2L681/9513/4511/443221/21nk
+SanchezMJ
+L121f5.5071-25SteveSaysNo121nkPharaohsCity12163/4
+RunDixieRun
+1213/4Ranpastleaderlate
+4Dec16-2
+Prxfst51/2f
+C223:48 1:003 1:073^ Md10000
+658/102451/2441/2111/2143/4
+SanchezMJ
+L123f4.8076-21
+SteveSaysNo
+12343/4Guy'sBigGuy12431/2Guaranteed1231/2Circled,goingaway
+31Oct16-2
+Prxfst51/2f
+224:47:594 1:0623^ Md10000
+356/10997751/4521/2211/2
+McCarthyT
+L121f3.7077-13RunforZach12111/2
+SteveSaysNo
+121nkRedChant1141/2Easeoutfor2nd
+12Oct16-2
+Delfst6f
+23:47 1:001 1:1333^ Md5000
+336/1012hd 2hd 221/2231/4
+CentenoDE
+L121f*1.1069-23TizAway12131/4SteveSaysNo12123/4ChiquetoRomero1211/2Viedrail,faded
+5Oct16-1
+Medfm5f
+ê223:462:5833^ Md10000
+217/99943/4871/4873/4673/4
+MangaleeN
+L121f4.7077-10AtticusFinch1233Zen'sSunrise1211/2ColdAzIce1213/43wturn,norally
+3Sep16-11
+Mthgd11/16
+ê24 1:484 1:13 1:444Õ3^ Md30000
+(40-30)
+52/9311/221/2893/49249361/2
+FerrerJC
+L1176.4035-28BultforProft12313/4
+MyBuckysBoy
+11751/4AnmlTrck11813/4Stalked2w,gaveway
+19Aug16-4
+Mthfst170
+23:464 1:112 1:4213^ MdSpWt34k
+-1/62hd 311/2628--
+GonzalesJJ
+L117fb14.30-21
+Arbitrator
+1223/4JawDropper11713/4BritishBulldog117nkPulledup,walkedoff
+7Aug16-8
+Mthfst6f
+223:46:581 1:1023^ MdSpWt34k
+596/7121/22hd 3258
+GonzalesJJ
+L118fb6.4082-12DoShare11823/4BritishBulldog118ó
+BeachView
+11813/4Vied2w,tired
+17Jly16-5
+Mthfst6f
+22 1:453:58 1:1013^ MdSpWt34k
+596/63211/22143471/4
+LopezP
+L117f*1.0084-09
+CheynnBull
+1171/2BritishBulldog1173ZlousFlysAgin11733/43pthturn,weakened
+WORKS:Feb28Prx4ffst:501B
+30/52
+Jan14Prx4ffst:491B
+12/50
+Jan2Prx3fgd:38B
+10/11
+TRAINER:31-60Days
+(7.43$4.14)
+WonLastStart
+(6.33$3.60)
+Dirt
+(25.20$1.67)
+Routes
+(20.20$1.59)
+Claim
+(17.29$2.13)
+J/T2016-17PRX(6.33$4.10)J/T2016-17(6.33$4.10)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race6,page:15Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+7ParxRacing
+ ç
+Alw
+44000C
+7Furlongs
+( 1:202)ALLOWANCE.Purse$44,000ForRegisteredPa-bredFilliesAndMaresFourYearsOld
+AndUpwardWhichHaveNeverWonTwoPa-restrictedRace(s)OtherThanMaiden,Claiming,OrStarterOr
+
+WhichHaveNeverWonThreeRaces.Weight,124lbs.Non-winnersOfARaceSinceJanuary6Allowed2lbs.A
+
+RaceSinceThenAllowed4lbs.(MaidenAndClaimingRacesNotConsideredInAllowances).
+Coupled-BillyNoSabayandBillygetsArrested;Authoritat
+iveandMissAvalon
+Posttime:3:37ETWagers:Pick3,Exacta,50CentTrifecta,10CentSuperfectaBeyerpar:NA
+3
+12-1
+Calculation
+
+Own:GoldSquare
+
+Black,GoldSquare,GoldCap
+CEDENOC(81161117.20)2016:(712114.16)
+Ch.m.6(Feb)
+
+Sire:HardSpun(Danzig)$45,000
+
+Dam:SaintlyAction(SaintBallado)
+
+Br:SmartAngle(Pa)
+
+Tr:LermanMichael(7010.00)2016:(6316.25)
+L120
+Life
+25374$147,701
+69201610210$74,34167
+
+20156032$37,97065
+
+Prx7131$69,57067
+D.Fst19274$107,11369
+
+Wet(374)3100$37,57864
+
+Synth0000$0-
+
+Turf(325)3000$3,01062
+
+Dst(361)4111$52,47067
+13Nov16-7
+Prxfst7f
+C23:463 1:124 1:2613^ ç Alw44500
+N2X506/77421/2421/26126101/2
+PenningtonF
+L120b14.0064-25
+AddibelLightning
+118hd AuntRose12023/4
+Imply
+1183/4Soundlybumpedstart
+9Oct16-8
+Prxmyø6f
+223:46 1:59 1:1213^ çAlw25000s
+463/8864331/27107101/2
+LopezP
+L124b2.9066-20
+RowdEAllie
+116hd RBlingShines
+1214BrzilinSymphony
+1163/4Bobble,swungwide
+19Sep16-3
+Prxslyø7f
+S223:451 1:111 1:2413^ çClm40000
+N3L643/62211hd 12143/4
+LopezP
+L120b2.1085-18Calculation12043/4
+MissAvalon
+1161/2SweetestYet1163Stalkedpace,edgedoff
+6Aug16-7
+Prxfst7f
+--UNKNOWN--
+222:444 1:102 1:2413^ çClm25000
+N3L675/743121/22222
+PenningtonF
+L120b7.6083-15
+CartaRegia
+1202Calculation
+1201/2NavajoKitten12011/4Wide,continuedgamely
+23Jly16-6
+Penfst1
+252:493 1:14 1:4023^ çAlw31329
+N1X567/8521/254545655
+RamirezJG
+L119b6.2079-22SydneyTime11723/4BowtieDiva1211/2
+PlatinumAffair
+11911/2Noroom,angout1/8
+25Jun16-6
+Prxfm71/2f
+ê253:491 1:3133^ ç Alw44800
+N2R623/95741/4731/4661/2471/2
+RamirezJG
+L120b36.2076-12DevilishLove12041/4SassyLittleCat12031/4UltimteAvry120óLackroomturns
+9Jun16-4
+Penfst6f
+S23:462:584 1:1123^ çAlw30680
+N1X495/74323245471/4
+RamirezJG
+L119b6.6080-13StrEghty12121/4HddforHvn123nkWthoutThoght11943/4Hitgate,takenup5/8
+12Mar16-3
+Penfst1
+252:493 1:15 1:4224^ ç Alw33300
+N1L482/6421/2521/211/211/2111/2
+WhitneyDG
+L119b3.0074-21Calculation11911/2ìStartAgain1191/2JumpingBean1131Splitfoes,boreout
+24Feb16-6
+Pensly1
+S243:483 1:133 1:3924^ ç Alw33300
+N1X453/8643/465441/24124121/2
+CedenoC
+L120b2.4076-13SweetLittleLies1198Galanthus12133/4JumpingBean1143/4Jostled,gamely
+30Jan16-5
+Penfst11/16
+--UNKNOWN--
+252:502 1:151 1:4844^ ç Alw33300
+N1X467/7411/43nk2hd 321/2471/2
+WhitneyDG
+L119b*1.8068-24TribalJourney11943/4FleetingFancy1191Galanthus12113/43wide,tired
+8Dec15-5
+Prxfst1
+243:484 1:161 1:4413^ ç Alw42200
+N1X501/6663/457332122
+CedenoC
+L1212.2050-43RockMAgin1202Clcultion12121/2ZnstonlMrry1156Loomed,notgoodenough
+17Nov15-7
+Prxfst1
+244:494 1:16 1:4443^ ç Alw42400
+N1X374/7424122221/2273/4
+CedenoC
+L121*.4041-45UpAllNight12173/4Calculation12110StockFrudBilly12111/4Nomatch,2ndbest
+WORKS:Feb25Fai5ffst 1:02B
+2/6
+Feb7Fai5ffst 1:022B
+1/1
+Jan28Fai5ffst 1:01B
+2/7
+Jan14Fai4ffst:493B
+2/6
+TRAINER:61-180Days
+(12.33$3.75)
+Dirt
+(65.22$1.83)
+Sprint
+(53.19$1.80)
+Alw
+(40.20$1.34)
+J/T2016-17PRX(7.00$0.00)J/T2016-17(16.25$1.45)
+1
+6-1
+BillyNoSabay
+
+Own:ParapetStable
+
+Red,Red"Flp"OnBlackBall,Black
+SANCHEZMJ(98151015.15)2016:(65479.12)
+Ch.m.5(Apr)
+
+Sire:ClosingArgument(SuccessfulAppeal)$4,000
+
+Dam:Monette(NotForLove)
+
+Br:RichardSimoff(Pa)
+
+Tr:PollaraFrankL(7200.29)2016:(685.07)
+L124
+Life
+13260$138,500
+6420171100$25,20062
+
+20169140$91,40064
+
+Prx12260$138,00064
+D.Fst10150$90,00064
+
+Wet(411)2110$48,00060
+
+Synth0000$0-
+
+Turf(298)1000$50041
+
+Dst(391)3120$46,60062
+Entered7Mar17-6PRX
+20Feb17-8
+Prxfst7f
+224:464 1:143 1:2833^ ç Alw43750
+N1R629/12275631/2311/2113/4
+SanchezMJ
+L1217.9063-36BillyNoSabay12113/4FindtheMoney1212FreezingFast1211/2Wide,goingaway
+31Dec16-8
+Prxfst1
+S244:473 1:113 1:3713^ ç Alw43000
+C599/94243421/2461/22121/4
+PineroL7
+L11412.6074-19
+DiscoRose
+120121/4BillyNoSabay
+1143/4Rapidez121hd 3wide,nomatch
+29Nov16-5
+Prxslyø170
+24:481 1:143 1:4823^ çMd40000
+607/72hd 21/2121/2171141/4
+SanchezMJ
+L124*1.4054-38BillyNoSabay124141/4OfficeSecretary115óSultrySilhouette1195Riddenout
+22Oct16-3
+Prxmyø6f
+--UNKNOWN--
+223:471 1:00 1:1313^ çMd40000
+483/71332225253/4
+SanchezMJ
+L1242.9066-27AtlantisRomance12153/4
+BillyNoSaby
+1247Hetherly12121/4Insidebid,flattened
+4Oct16-6
+Prxfst6f
+22:45 1:574 1:1033^ çMdSpWt75k
+605/75633/456571/2483/4
+SanchezMJ
+L12427.2076-14
+Indulgent
+1213MyCountry
+1243PlayMeaMemory12123/4Drifted,nofactor
+18Sep16-9
+Prxfm5f
+ê222:454:5723^ çMdSpWt52k
+419/10893941/4991/2963/4
+SanchezMJ
+L1248.9085-05AllSmmdUp12011/4Dontwstrprtty1203/4WhtCoco1201Extremelywidestretch
+18Jly16-7
+Prxfst6f
+S22:453:582 1:1113^ çMdSpWt66k
+517/94751/46668583/4
+SanchezMJ
+L1243.9073-15SoYouKnow119nkCandySioux12433/4Heatherly11931/4Verywide,nofactor
+27Jun16-6
+Prxfst6f
+C214:454:583 1:1143^ çMdSpWt55k
+611/85441/22425263/4
+SanchezMJ
+L12414.2072-22WildcatBelle11963/4BillyNoSabay12441/2
+SoYouKnow
+11921/2Drifted,nomatch
+20Mar16-6
+Prxfst6f
+22 1:46:59 1:124^ çMdSpWt57k
+641/732122211/222
+SanchezMJ
+L1244.8076-22
+RallyGal
+1242BillyNoSabay12431/2
+She'sRunningFree
+12471/2Splitfoes,nomatch
+1Mar16-4
+Prxfst5f
+22:45 1:584^ çMdSpWt55k
+276/88873/4791/27136161/2
+SanchezMJ
+L1246.7077-07CatTen12411/2Caitlyn'sWish124101/2FortRosalie124hd Bumped,driftout
+14Dec15-2
+Prxfst7f
+S23 1:47 1:141 1:293^ ç MdSpWt37k
+557/943122221/2223/4
+SalgadoA
+L1232.5058-32StrtSmokn12323/4BillyNoSby12371/2ShesRunningFr12311/4Late,chase,nogain
+24Nov15-5
+Prxfst7f
+232:474 1:142 1:2743^ çMdSpWt55k
+594/7231/211221/225
+SanchezMJ
+L12223.5062-36BnnysDimond1225BillyNoSby1221MyDutchssKt1227Nomatch,saved2nd
+WORKS:Feb4Prx4ffst:511B
+9/17
+Dec21Prx4ffst:491B
+6/23
+TRAINER:2Off45-180
+(15.00$0.00)
+WonLastStart
+(4.00$0.00)
+Dirt
+(72.10$2.24)
+Sprint
+(38.03$0.47)
+Alw
+(18.11$3.91)
+J/T2016-17PRX(28.18$5.32)J/T2016-17(28.18$5.32)
+4
+20-1
+BigGally'sAnswer
+
+Own:LaurenCHoran
+
+LimeGreen,White"Lm",LimeGreenCap
+BURKEJ(7000.00)2016:(565.09)
+Dk.borbrm.6(Feb)
+
+Sire:Stonesider(Giant'sCauseway)
+
+Dam:EmpiresAnswer(EmpireMaker)
+
+Br:CavanaughBreenFarmsLLC(Pa)
+
+Tr:WoodhouseMartin(13010.00)2016:(683.04)
+L120
+Life
+37564$179,426
+6520173002$8,27955
+
+201617232$80,05065
+
+Prx34563$175,54065
+D.Fst30463$153,55865
+
+Wet(330)6101$25,36856
+
+Synth0000$0-
+
+Turf(263)1000$50031
+
+Dst(266)6101$25,59759
+20Feb17-5
+Prxfst1
+244:501 1:171 1:4614^ çClmc-8000
+414/721/231/231421/2423/4
+FelixJMJr
+L1205.2038-49MoneyforMaria1171SweetsGalore12011/4Lagrats1201/2Cameinfirstturn
+ClaimedfromFanelliJohnfor$8,000,MontoyaMaryaTrainer2016:(1261215140.10)Disqualifiedandplaced5th
+28Jan17-1
+Penfst11/16
+24 1:484 1:141 1:4724^ çClm10500
+(12.5-10.5)
+484/721/221/21hd 331/2393/4
+FelixJMJr
+L1188.8072-23Extremist11931/2DecdntDoll11461/4BigGllysAnswr1183/4Stalked3p,weakened
+1Jan17-7
+Prxfst170
+23 1:472 1:132 1:4444^ çClm10000
+552/10212hd 31/2311/2341/4
+FelixJMJr
+L120f6.50e68-25MonyforMri1203/4BnnAnn11731/2BgGllysAnswr12021/4Betweenweakenedlate
+12Dec16-7
+Prxslyø7f
+23 1:464 1:12 1:2513^ çClm12500
+415/854252671/2671/2
+SanchezMJ
+L120f*1.20e72-15
+GreatIllusion
+120óHarlansBelle1153/4CheekyGal1201/2Talenupsharplyturn
+15Nov16-7
+Prxfst1
+25:492 1:152 1:4143^ çClmc-10000
+165/85275810815827
+CastilloD
+L122f6.1036-35BananaAnna11511/4
+Ignite120óWyandot
+12013/4Throughearly
+ClaimedfromVillanuevaMariofor$10,000,PattershallMaryATrainer2016(asof11/15):(235700.22)
+24Oct16-1
+Prxfst170
+234:484 1:15 1:4643^ çClmc-7500
+N2Y655/1011/2111hd 111/2121/4
+FelixJMJr
+L124f10.40e62-36BgGllysAnswr12421/4
+LstforDmonds
+12143/4Skdmor12123/4Clear,vied,edgedoff
+ClaimedfromHoranLaurenfor$7,500,WoodhouseMartinTrainer2016(asof10/24):(481350.02)
+3Oct16-7
+Prxfst170
+232:474 1:131 1:443^ çClm10000
+N4L646/91111121313/4
+FelixJMJr
+L120f12.5076-22
+BigGallysAnswer
+1203/4ZafiroAzul12033/4CheekyGl12423/4Clear,widened,lasted
+20Sep16-6
+Prxwf170
+ï23 1:473 1:13 1:443^ çAlw25000s
+564/9531/243/431/221341/2
+FelixJMJr7
+L121f70.1071-23ShkesperinDrem1213/4HKsMerid11733/4
+BigGllysAnswer
+12131/2Wide,weakened
+13Sep16-7
+Prxfst7f
+22 1:443 1:104 1:2523^ çClm16000
+N1Y591/64431/2661/4512581/4
+ArguetaE7
+L117f43.9071-22DesertValley124nkDariel1243/4ValerieVictoria1243/4Steadied3/8pole
+6Aug16-1
+Prxfst51/2f
+22 1:46 1:583 1:0513^ çClm7500
+N4L503/95571/248461/2251/4
+ArguetaE7
+L113f3.1080-15GhzisStone12051/4BigGllysAnswer113óUpAllNight1133Angledin,upplace
+30Jly16-3
+Prxfst6f
+222:454:582 1:124^ çClm5000
+N1Y5910/1033nk311/2221/221
+ArguetaE7
+L117f9.1077-15Alwyscontest1241BigGllysAnswr11711/2JnniSysSo1241/2Closewide,gametry
+16Jly16-4
+Prxfst7f
+S232:461 1:121 1:2524^ çClm5000
+N1Y483/811hd 1hd 11/2311/2
+ArguetaE7
+L117f37.8077-15
+SweetsGlor
+1241GroovyDncr1171/2BigGllysAnswr11711/2Pace,drifted,gamely
+WORKS:Jan22Prx4ffst:501B
+21/28
+TRAINER:1stClaim
+(3.00$0.00)
+Route/Sprint
+(8.00$0.00)
+Dirt
+(79.05$1.59)
+Sprint
+(44.02$0.36)
+Alw
+(2.00$0.00)
+J/T2016-17PRX(3.00$0.00)J/T2016-17(4.00$0.00)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race7,page:16Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+5
+5-2
+TrustyRoll
+
+Own:ADeLaPerriereStablesLLC
+
+Orange,BlueChevrons,BlueSleeves
+BISONOJ(42651.14)2016:(33838.11)
+B.m.5(Apr)
+
+Sire:TrustNLuck(Montbrook)
+
+Dam:RollingTrue(YesIt'sTrue)
+
+Br:ArmandDelaperriere(Pa)
+
+Tr:DeMasiKathleenA(25513.20)2016:(40461.15)
+L120
+Life
+8301$91,550
+7620171000$25055
+
+20164200$67,77076
+
+Prx6201$69,68076
+D.Fst7301$89,66076
+
+Wet(376)0000$0-
+
+Synth0000$0-
+
+Turf(219)1000$1,89058
+
+Dst(320)0000$0-
+30Jan17-9
+Prxfst6f
+23:47 1:002 1:1334^ çOC25k/
+N2X-N
+555/842121/233751/4
+VargasJAJr
+L121b*1.6065-27TotheFlag1193/4FlatterMeZanja1191/2Pinkout11921/4Promptwide,tired
+6Dec16-5
+Prxfst6f
+C22:46:59 1:1213^ çAlw63490
+N1X762/62212hd 121/2151/4
+PenningtonF
+L124b2.7077-22TrustyRoll12451/4AtlntisRomnc1202AllSummdUp1203Bidinhandthendrvg
+28Oct16-5
+Penfst51/2f
+22:45 1:572 1:0333^ ç Alw33300
+N1X716/731hd 11/216171/2
+WhitneyDG
+L119b3.00100-12
+TrustyRoll
+11971/2HopefulTimes
+1211/2QueenPatron11732wide,driving
+10Sep16-8
+Prxfm5f
+ê222:462:5843^ ç Alw64000
+N1R586/105623/4421/244543/4
+BisonoJ
+L121b12.9080-15She'sChubs11731/2PreviousHonor1211/2LemonStrudel1211/2Anglein,empty
+30Jly16-9
+Prxfst5f
+ï22 1:46:5813^ çAlw64740
+N1X544/821hd 1hd 31443/4
+SalgadoA
+L121b12.9088-15
+Authorittive1164ResoluteBb1211/2BrmudLongtil109nkBrokethrupriorstart
+6Jan15-2
+Prxfst6f
+--UNKNOWN--
+223:463:59 1:123ç MdSpWt31k
+521/52111/211111/2111/2
+BisonoJ
+L1212.2075-24TrustyRoll12111/2
+DiscreetSenorita
+12113/4Cheverie12161/2Stronghandling
+15Dec14-6
+Prxfst51/2f
+224:472 1:003 1:073ç MdSpWt29k
+421/812hd 321/2451/2473/4
+BisonoJ
+L120b*1.0062-27SharpandSassy1204CRSAngels12011/4CashiesWy12021/2Hoppedshadow9/16
+2Nov14-5
+Prxfst51/2f
+224:472 1:001 1:064ç MdSpWt29k
+588/9243/44nk1hd 323/4
+BisonoJ
+L1208.6071-23Crswthbrndon12021/4BrzlnSymphony1201/2TrstyRoll12031/2Bid,bestedothers
+WORKS:Feb28Prx4ffst:494B
+23/52
+Jan20Prx4ffst:49B
+6/20
+TRAINER:2Off45-180
+(76.12$1.58)
+31-60Days
+(166.16$1.45)
+Dirt
+(329.17$1.43)
+Sprint
+(308.14$1.07)
+Alw
+(60.15$1.08)
+J/T2016-17PRX(3.00$0.00)J/T2016-17(6.00$0.00)
+1a
+6-1
+BillygetsArrested
+
+Own:ParapetStable
+
+Red,Red"Flp"OnBlackBall,Black
+SANCHEZMJ(98151015.15)2016:(65479.12)
+B.m.6(May)
+
+Sire:LouisQuatorze(SovereignDancer)$2,500
+
+Dam:Monette(NotForLove)
+
+Br:RichardSimoffInc(Pa)
+
+Tr:PollaraFrankL(7200.29)2016:(685.07)
+L120
+Life
+30490$274,270
+9220171000$1,32062
+
+201610120$78,66080
+
+Prx29490$274,07092
+D.Fst23360$191,34080
+
+Wet(379)6130$82,73092
+
+Synth0000$0-
+
+Turf(239)1000$20044
+
+Dst(354)3110$48,76071
+17Jan17-1
+Prxfst7f
+223:453 1:112 1:2514^ ç Alw44250
+N2R621/6432475857
+SanchezMJ
+L1209.0073-19AuntRose124ó
+SoYouKnow
+12011/2GreatIllusion
+1205Rail,weakened
+29Nov16-7
+Prxslyø1
+242:48 1:132 1:4113^ çOC40k/
+N3X-N
+534/7511/452451/25115111/2
+SanchezMJ
+L12211.5054-38Shyjolie120óìKeystoneKelly1208SriousHppinss12023/4Stalkedpace,tired
+Placed4ththroughdisqualification
+29Oct16-7
+Prxfst170
+23 1:472 1:131 1:4413^ çOC25k/
+N2X-N
+801/7111/2121hd 1hd 13/4
+SanchezMJ
+L12025.3075-30BillygetsArrestd1203/4
+TruHistory
+1151/2FlttrMZnj1224Led,challenged,gamely
+26Sep16-8
+Prxfst170
+S243:49 1:14 1:4413^ ç Alw44400
+N2X456/7513/453/467510518
+SanchezMJ
+L1207.2057-25MaybeTonight12073/4ItsaJourney12041/4LittleMissEmily11721/2Wide,tired
+18Sep16-8
+Prxfst6f
+C22:452:581 1:1113^ çOC25k/
+N2X-N
+593/77741/279691/2571/2
+SalgadoA
+L11915.9074-15TotheFlag1193/4HipHopNJazz1123/4Pinkout1192Nofactor
+2Aug16-9
+Prxfst7f
+223:45 1:093 1:2213^ ç Alw44400
+684/72431/2311/224251/4
+SanchezMJ
+L12012.1090-11DanisStorm12051/4BillygetsArrested1201/2RllyGl1203/4Widebid,gamelyplace
+9Jly16-7
+Prxgd170
+S23:463 1:112 1:423^ çOC25k/
+N2X-N
+765/7111/2111/211/221/222
+SanchezMJ
+L12026.9084-15QueenEsther1102BillygetsArrstd1203JrofHrts120nkClearpace,heldgame
+25Jun16-6
+Prxfm71/2f
+ê253:491 1:3133^ ç Alw44800
+N2R444/9211/21hd 891/2916
+VargasJAJr
+L12025.8068-12DevilishLove12041/4SassyLittleCat12031/4UltimateAvary120óInside,tired
+14May16-7
+Prxfst1
+S24 1:481 1:132 1:4033^ çOC40k/
+N3X-N
+571/6531/2521/2431/4451/2463/4
+VillanuevaLG
+L12213.4062-31KeystoneKelly1223PrimoVia122nkPrestonsPrincess12231/2Bid,lackedmore
+25Apr16-7
+Prxfst1
+234:474 1:134 1:423^ çOC30k/
+N2X-N
+575/7341/2311/2421/243633/4
+SanchezMJ
+L1205.5058-40SeriousHappiness12011/4JarofHearts1201/2RareMedl120nkInside,emptylane
+4Apr16-10
+Prxfst6f
+22:452:581 1:1114^ çOC25k/
+N2X-N
+563/65571/25558571/2
+VillanuevaLG
+L11920.8075-21MusketMary119hd Superling119óMonaguska11963/4Between,nofactor
+30Nov15-8
+Prxfst170
+C232:491 1:16 1:4913^ çOC25k/
+N2X-N
+617/7561/264641/45546
+SalgadoA
+L12110.9046-51RebeccsSurprise1211Littlemissperfect12141/4SeriousHppiness1193/4Norally
+WORKS:Feb28Prx4ffst:494B
+22/52
+Jan5Prx4ffst:54B
+7/7
+TRAINER:31-60Days
+(14.29$5.66)
+Dirt
+(72.10$2.24)
+Sprint
+(38.03$0.47)
+Alw
+(18.11$3.91)
+J/T2016-17PRX(28.18$5.32)J/T2016-17(28.18$5.32)
+6
+12-1
+Ignite
+
+Own:EmeraldFieldFarm
+
+White,HunterGreenDiagonalQuarters
+CABALLEROH(87161810.18)2016:(48684.17)
+B.m.6(Apr)
+
+Sire:JumpStart(A.P.Indy)$10,000
+
+Dam:Perverse(DistortedHumor)
+
+Br:BarlarLLC(Pa)
+
+Tr:GuerreroJGuadalupe(33221.06)2016:(18118.10)
+L120
+Life
+36576$226,141
+7720174020$22,64062
+
+201615215$117,99677
+
+Prx30466$203,86677
+D.Fst29564$196,39377
+
+Wet(418)6012$28,42869
+
+Synth0000$0-
+
+Turf(237)1000$1,32057
+
+Dst(372)9112$39,60077
+28Feb17-3
+Prxfst1
+25 1:49 1:141 1:424^ çClm16000
+586/643/4312123223/4
+CaballeroH
+L120b6.5059-37LoveThat12023/4Ignite1203/4SweetCorinna1229Longdrive,held2nd
+7Feb17-3
+Prxwf170
+24:491 1:144 1:4734^ çClm20000
+626/63232331/23121/2
+CaballeroH
+L120b25.8057-47KentuckyRoad1201/2Ignite12041/4
+LoveThat
+12013/4Bid,couldnotgetby
+17Jan17-6
+Prxfst1
+244:491 1:142 1:4114^ çClm16000
+574/8731/4731/4635758
+AcostaJD
+L120b22.1058-34NextBestThing1201CartaRegia11531/4BananaAnna1153Neverthreatened
+2Jan17-8
+Prxslyø61/2f
+--UNKNOWN--
+23:463 1:111 1:1734^ çOC25k/
+N2X486/73723/4791/47147151/4
+NavarroJ
+L120b28.0072-16
+AuntRose
+12021/2Pinkout1201/2FlatterMeZanja1201Verywide,dull
+5Dec16-3
+Prxfst7f
+223:454 1:12 1:253^ ç Alw44250
+C615/6559471/246493/4
+SanchezMJ
+L120b16.9071-21Imply11961/2
+AuntRose
+119nkSoYouKnow1233Wide,lackedrally
+15Nov16-7
+Prxfst1
+25:492 1:152 1:4143^ çClmc-10000
+592/811111/21121211/4
+SanchezMJ
+L120fb9.5062-35BananaAnna11511/4Ignite120ó
+Wyandot
+12013/4Foughtgamely
+ClaimedfromMoriartyMichaelS.for$10,000,DandyRonaldJTrainer2016(asof11/15):(6457110.08)
+24Oct16-6
+Prxfst61/2f
+C223:47 1:133 1:2023^ çClm12500
+548/123743/4643/4321/2323/4
+CarrascoVR
+L120fb38.7070-27Superling1203/4Chickaletta1202Ignite12011/4Wide,toolate
+4Oct16-7
+Prxfst7f
+C222:453 1:113 1:2433^ çClmc-10000
+528/119963/486710771/2
+OcasioLM5
+L115fb11.6075-14StarEighty1201/2HideaRose1223Wyandot12211/4Wide,nofactor
+ClaimedfromEmeraldFieldFarmfor$10,000,GuerreroJGuadalupeTrainer2016(asof10/4):(1371614200.12)
+10Sep16-7
+Prxfst7f
+223:45 1:11 1:2443^ çClm20000
+583/87541/479681/2671/4
+OcasioLM5
+L115fb4.4075-17MissLurenAnn12011/4AbtsAbt1221TooClvrbyHlf12211/2Fadedturn,nofactor
+2Aug16-9
+Prxfst7f
+223:45 1:093 1:2213^ ç Alw44400
+651/7433413/459461/2
+LopezP
+L120fb9.1088-11Dani'sStorm12051/4
+BillygetsArrested
+1201/2RallyGal1203/4Briefbid,weakened
+9Jly16-7
+Prxgd170
+S23:463 1:112 1:423^ çOC25k/
+N2X-N
+483/7541/2421/2541/26117191/4
+CaballeroH
+L122fb9.6067-15QueenEsther1102
+BillygetsArrestd1203JrofHrts120nkBrokenstirrup,faded
+25Jun16-6
+Prxfm71/2f
+ê253:491 1:3133^ ç Alw44800
+N2R579/98311/231/235510
+CaballeroH
+L122fb7.4074-12DevilishLove12041/4SassyLittleCat12031/4UltimateAvary120óWide,tired
+TRAINER:1-7Days
+(11.27$4.76)
+Route/Sprint
+(22.23$3.23)
+Dirt
+(195.09$1.38)
+Sprint
+(116.12$1.59)
+Alw
+(37.11$2.06)
+J/T2016-17PRX(96.14$1.88)J/T2016-17(96.14$1.88)
+7
+12-1
+CheckbouncinBilly
+
+Own:EagleViewFarmandPatriciaFarro
+
+Red,White"Pp",RedBarsOnWhite
+ROSADORJ(52595.10)2016:(29933.11)
+Ch.f.4(Apr)
+
+Sire:Rimrod(Danzig)$1,500
+
+Dam:Monette(NotForLove)
+
+Br:RichardSimoff(Pa)
+
+Tr:FarroPatricia(7861510.08)2016:(972140.14)
+L124
+Life
+7220$87,779
+6220171100$25,20060
+
+20166120$62,57962
+
+Prx4200$69,86062
+D.Fst4110$36,92060
+
+Wet(439)3110$50,85962
+
+Synth0000$0-
+
+Turf(294)0000$0-
+
+Dst(289)1100$25,20060
+28Jan17-8
+Prxfst7f
+232:472 1:133 1:2714^ ç Alw43750
+C606/12531/231/211131/4
+RosadoRJ
+L121f12.1070-23CheckbouncinBilly12131/4JazzyJava1211Trousseau121hd Bump,3wide,clear
+21Dec16-1
+Pengd51/2f
+22 1:453:583 1:0523^ ç Alw33300
+N1X486/77531/2541/2441/2533/4
+RosadoRJ
+L119f4.1087-09RoyalSixShooter1193/4FarrestRim1193/4MerrilsBank1181/2Brkinair,rail,even
+30Nov16-5
+Pensly6f
+223:462:592 1:1223^ ç Alw33300
+N1X586/71121/2111hd 223/4
+RosadoRJ
+L120f4.1079-15HopfulTms11323/4ChckboncnBlly1203/4
+RoylSxShootr
+11912p,drifted,faltered
+13Nov16-5
+Prxfst61/2f
+--UNKNOWN--
+223:462 1:12 1:1833^ ç Alw42250
+C554/65411/2321/2510513
+RosadoRJ
+L119f5.1069-25SoYouKnow11971/2Rapidez12111/4FindtheMoney1193/4Outside,bid,faded
+9Oct16-5
+Prxslyø61/2f
+S224:472 1:124 1:1913^ çMd40000
+625/831111/21113/4
+RosadoRJ
+L121f*3.5079-20CheckbouncinBilly1213/4TizFir11683/4LinofMusic1213/4Ledoutside,heldgame
+24Sep16-3
+Penfst6f
+--UNKNOWN--
+23:47:593 1:133^ çMdSpWt45k
+484/73211/222222nk
+RosadoRJ
+L120f5.2079-15Sngmlovsong120nk
+ChckbncnBlly
+12081/4SphSttn12321/2Chasebtwn,latesurge
+3Sep16-2
+Prxfst6f
+22:46:59 1:133^ ç MdSpWt37k
+233/99853/4861/49139131/4
+EsquivelE
+120f21.1060-18FindtheMoney1201SentimentlMemory11521/4CWRod120hd Offslowest,dull
+WORKS:Feb18Prx3ffst:37B
+2/10
+Jan21Prx4fgd:50B
+9/19
+TRAINER:31-60Days
+(203.13$1.52)
+WonLastStart
+(153.14$1.20)
+Dirt
+(973.15$1.54)
+Sprint
+(613.14$1.52)
+Alw
+(124.15$1.78)
+J/T2016-17PRX(93.09$1.26)J/T2016-17(154.14$1.35)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race7,page:17Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+2
+5-1
+Authoritative
+
+Own:SMDLtd
+
+Black,WhiteHoops,WhiteSleeves,Black
+PENNINGTONF(109252515.23)2016:(721109.15)
+Dk.borbrf.4(Mar)
+
+Sire:Pollard'sVision(CarsonCity)$3,000
+
+Dam:Catsuit(SirCat)
+
+Br:SMDLtd(Pa)
+
+Tr:ServisJohnC(35962.26)2016:(35265.18)
+L120
+Life
+11312$134,729
+7920171000$1,26052
+
+20168312$132,89479
+
+Prx10302$114,72979
+D.Fst8311$126,07579
+
+Wet(373)3001$8,65465
+
+Synth0000$0-
+
+Turf(277)0000$0-
+
+Dst(352)1000$1,26052
+11Feb17-7
+Prxfst7f
+23:463 1:114 1:254^ çAlw25000s
+524/107721/4713/457571/2
+PenningtonF
+L1215.2073-16Lendar1213/4
+HoldMeDown
+12131/4Zipper'sHero1211Traffic,lackedbid
+9Oct16-8
+Prxmyø6f
+223:46 1:59 1:1213^ çAlw25000s
+551/8787873/4681/2661/4
+PenningtonF
+L1186.4071-20
+RowdEAlli
+116hd RBlingShins
+1214BrzilinSymphony
+1163/4Cameoutst,nofactor
+20Sep16-6
+Prxwf170
+ï23 1:473 1:13 1:443^ çAlw25000s
+412/9851/4951/2753/4781/28133/4
+PenningtonF
+L117*1.7062-23ShksprinDrm1213/4HKsMrid11733/4
+BigGllysAnswr
+12131/2Bump,tookup,outrun
+3Sep16-6
+Prxfst6f
+22:453:58 1:113^ ç DrTGrflMmB100k
+605/65541/2441/2451/2393/4
+PenningtonF
+L1175.6073-18BlckMissionFig11931/4DiscoChick12661/2Authorttv11731/2Offslow,shied,wide
+30Jly16-9
+Prxfst5f
+ï22 1:46:5813^ çAlw64740
+N1X672/8743311114
+PenningtonF
+L116*.5093-15Authorittive1164ResolutBb1211/2BrmudLongtil109nkAngledout,latesurge
+5Jly16-8
+Prxwf6f
+22:45 1:572 1:1033^ çAlw55244
+N1X656/95531/2634534
+PenningtonF
+L116*1.6081-11Kittery1143/4
+FinalBetrayal
+12431/4Authoritative
+11611/4Wide,norally
+11Jun16-5
+Penfst6f
+22:45:571 1:10ç NewStartB102k
+711/9632311/23221
+PenningtonF
+L1203.5093-08BehrniksBank1201Authoritative1203ItsJourney1201/2Blockedrailbkstr,trn
+14May16-8
+Prxfst6f
+22:453:581 1:1113^ ç Alw42600
+N1R792/87411/43nk12131/4
+PenningtonF
+L116*1.2082-19Authorittive11631/4Extrsxyxotkminx1191WkUpMm12121/4Unruly,offslo,clr
+4Apr16-6
+Prxfst6f
+224:453:574 1:11çMd25000
+764/851hd 151818
+DavisK7
+L1143.2083-21
+Authoritative
+1148Lendar
+12151/4LoveIsAll11441/2Camein,clear,drvg
+7Dec15-6
+Prxfst6f
+ý223:47 1:002 1:143ç MdSpWt38k
+292/1072hd 2hd 337103/4
+RosadoRJ
+L1222.40e54-31
+MissAvlon
+12211/2AddibelLightning12231/4SmrtyNeverQuits1222Bobbled,tired
+16Nov15-7
+Prxfst61/2f
+224:464 1:134 1:21ç MdSpWt38k
+153/111143231/25148211/4
+RosadoRJ
+L12211.0049-29
+LucyNEthel
+1221Move122111/2SweetestYet12213/4Shuffledbackstart
+WORKS:ò
+Jan26Prx5ffst 1:013B
+1/5
+Jan13Prx5fmy 1:023B
+2/8
+Dec23Prx4ffst:494B
+49/119
+TRAINER:2Off45-180
+(59.14$0.81)
+Dirt
+(361.20$1.71)
+Sprint
+(242.17$1.15)
+Alw
+(125.15$1.30)
+J/T2016-17PRX(57.25$1.49)J/T2016-17(66.21$1.29)
+8
+7-2
+DiscoRose
+
+Own:LCRacingLLC
+
+Black,pinkFishHookAnd"F&b",Pink
+RIVERAE(694511.06)2016:(38438.10)
+B.f.4(May)EASSEP14$25,000
+
+Sire:Weigelia(Safely'sMark)$3,500
+
+Dam:KataricaDisco(DiscoRico)
+
+Br:WynoaksFarmLLC&StOmersFarm(Pa)
+
+Tr:ReidRobertEJr(29466.14)2016:(19624.12)
+L120
+Life
+21262$283,960
+8620171010$14,28068
+
+201613140$146,84086
+
+Prx14261$230,47886
+D.Fst17252$263,34886
+
+Wet(320)2010$14,28084
+
+Synth1000$6,00067
+
+Turf(214)1000$33242
+
+Dst(269)1000$2,00053
+Entered7Mar17-6PRX
+21Jan17-8
+Prxwf170
+23:47 1:124 1:4444^ çAlw56080
+N1X682/911/211/2111hd 221/2
+PenningtonF
+L124*.60e69-34ShsIncrdibl11621/2DiscoRos124hd Whogoosdthmoos12111/4Notgoodenough
+31Dec16-8
+Prxfst1
+S244:473 1:113 1:3713^ ç Alw43000
+C804/9111112151121/4
+PenningtonF
+L120*.6086-19DiscoRose120121/4
+BillyNoSabay
+1143/4Rapidez121hd Fullyextended
+6Dec16-8
+Prxfst6f
+222:46 1:591 1:1223^ çAlw55330
+N1X571/6631/231431/257
+PenningtonF
+L120*1.2069-22Syrisong12111/4BrazilianSymphony11611/4LikeaLion12011/2Duel,drift,faded
+12Nov16-8
+Prxfst1
+244:49 1:141 1:4033^ ç Alw42500
+C647/72hd 11/221242103/4
+RiveraE
+L119*.5058-38MamaJones122103/4DiscoRose1196RibotStar119óDueled,nomatch
+8Oct16-5
+Prxfst11/16
+S244:483 1:13 1:4633^ ç PlumPrttyB100k
+554/621211/2211/2381/2614
+RiveraE
+L1153.0066-26TrcofGrc11641/2
+AddblLghtnng
+1171MybTonght11923/4Pursuedwinner,stopped
+24Sep16-10
+Prxfst11/16
+234:473 1:12 1:44çCotilln-G1
+703/6311/231434105191/2
+RiveraE
+L117115.7073-17Songbird12453/4CarinaMia12463/4CathrynSophia12423/4Steadied,fellback
+3Sep16-8
+Prxfst1
+24 1:48 1:122 1:373çPrncsSymrB150k
+864/6211/221/211/222261/2
+RiveraE
+L11619.5077-12CathrynSophia12261/2DiscoRose11641/2LindaMimi11641/4Wide,lead,nomatch
+7Aug16-7
+PIDfst1
+ú24 1:47 1:114 1:383ç MalRoseB122k
+676/92hd 11/21121/2433/4
+RiveraE
+L1183.0084-17Lucabunny1133/4
+HeyMonba
+11421/4WarBaby1153/4Led,weakened,
+9Jly16-4
+Prxgd1
+243:48 1:114 1:371çOC35k/
+N1X-N
+844/62hd 121212121/2
+RiveraE
+L1182.6086-15ìDiscoRose11821/2Tenggara118hd SilverLode11851/4Clear,driving
+Disqualifiedfrompursemoney
+13Jun16-8
+Prxfst170
+S243:49 1:134 1:444çOC35k/
+N1X-N
+713/7311/2312hd 11/2213/4
+RiveraE
+L118*1.7070-31APlacetoShine11813/4DiscoRose11813/4WhistlingStraits118hd Wide,driftin,
+23May16-6
+Prxfst170
+--UNKNOWN--
+242:492 1:134 1:424çOC35k/
+N1X-N
+686/741313224231/2
+RemedioM
+L1182.5078-18
+QueenaEsther
+11131/2DiscoRose11851/4WhistlingStraits11821/4Outside,nogain
+12Mar16-8
+Lrlfst1
+--UNKNOWN--
+242:48 1:123 1:382çCaesrsWshB80k
+712/6521/2441/235361/2471/4
+RemedioM
+L11616.0078-28SophiasSong1164GretSoul116óIntheNvyNow11631/4Brkout,bmp,angl5wd
+WORKS:Feb25Prx4ffst:494B
+12/27
+òFeb18Prx4ffst:472B
+1/32
+TRAINER:Route/Sprint
+(32.06$1.52)
+31-60Days
+(53.13$1.90)
+Dirt
+(201.13$1.86)
+Sprint
+(149.12$2.05)
+Alw
+(70.10$1.01)
+J/T2016-17PRX(95.15$2.46)J/T2016-17(108.15$2.33)
+9
+9-2
+GreatIllusion
+
+Own:JustInTimeRacingLLC
+
+Yellow,BlueStar,BlueBlocksOn
+MCCARTHYT(36874.22)2016:(1437274.19)
+B.m.7(May)
+
+Sire:GreatNotion(ElusiveQuality)$3,500
+
+Dam:Effervescent(Citidancer)
+
+Br:JonathanSheppard(Pa)
+
+Tr:SereyMJr(607612.12)2016:(54694.17)
+L120
+Life
+45778$239,093
+7220171001$4,84072
+
+201621433$135,35568
+
+Prx34766$215,55972
+D.Fst31576$185,97172
+
+Wet(414)8201$43,57658
+
+Synth0000$0-
+
+Turf(291)6001$9,54658
+
+Dst(384)9302$67,75372
+17Jan17-1
+Prxfst7f
+223:453 1:112 1:2514^ ç Alw44250
+N2R722/63681/45934311/2
+McCarthyT
+L120f10.8078-19AuntRose124ó
+SoYouKnow
+12011/2GreatIllusion1205Closed,bestofothers
+12Dec16-7
+Prxslyø7f
+23 1:464 1:12 1:2513^ çClm12500
+551/84851/2631/2431ó
+McCarthyT
+L120f2.4080-15GreatIllusion120óHarlansBelle1153/4CheekyGal1201/2Splitfoes,latesurge
+4Dec16-3
+Prxfst1
+C234:484 1:153 1:4233^ çClmc-7500
+N2Y678/8611653211/2153/4
+PenningtonF
+L121f5.9059-38
+GreatIllusion
+12153/4Lagrats12111/2
+AbetsAbet
+1211Splitfoes,drewaway
+ClaimedfromGaddyGlenfor$7,500,IannottiThomasIVTrainer2016(asof12/4):(67147110.21)
+22Oct16-2
+Lrlfst1
+24 1:474 1:14 1:3923^ çËMdMilDsStH50k
+502/7777107759212
+McCarthyT
+L115f6.4068-15ChpelofChimes11712
+GrtIllusion
+115nkGroovyDncr116hd Brushd3/16,runbtw
+3Oct16-3
+Prxfst170
+23 1:48 1:131 1:4343^ çClmc-7500
+N2Y657/7423231/211/2113/4
+McCarthyT
+L121f7.2077-22GretIllusion12113/4PrettyCoolCt1246SwetsGlor12111/4Wellplaced,edgedoff
+ClaimedfromJustInTimeStablefor$7,500,SereyMarioJrTrainer2016(asof10/3):(3847057440.18)
+26Sep16-8
+Prxfst170
+S243:49 1:14 1:4413^ ç Alw44400
+N2X513/721/22hd 31341/24141/2
+MartinezHN
+L120f43.8060-25MybeTonight12073/4ItsJourney12041/4LittlMissEmily11721/2Bump,wide,tired
+18Sep16-4
+Prxfst170
+S24 1:492 1:144 1:463^ çClmc-5000
+N2Y518/869766648221/2
+ChiappeR
+L1213.5063-28SevenDreams11621/2GreatIllusion12131/2TalktoMe12121/4Closedwell
+ClaimedfromGaddyGlenfor$5,000,IannottiThomasIVTrainer2016(asof9/18):(52104110.19)
+9Aug16-6
+Prxfst6f
+22 1:452:58 1:114^ çClmc-5000
+543/75763/4641/4543/435
+ArguetaE7
+L113f5.3078-14FancyMalka11343/4CowtownBrown120nkGreatIllusion11321/4Bobbled,rail
+ClaimedfromBreakawayStableLLCfor$5,000,SereyMarioJrTrainer2016(asof8/9):(3185945370.19)
+2Aug16-2
+Prxfst1
+25:482 1:131 1:3914^ çClm5000
+N2Y577/821212hd 1hd 211/4
+ArguetaE7
+L114f4.1075-16
+SweetsGalore
+12111/4GretIllusion114nk
+PrettyCoolCt
+12143/4Anglein,weakened
+24Jly16-9
+Prxfst6f
+224:462:59 1:1234^ çClm5000
+N2Y524/87863/47758431/4
+ArguetaE7
+L117f5.2072-21ThisIsShe124hd ChristinasCharm1242MusketMary11711/4Farback,railgain
+17Jly16-5
+Prxfst7f
+--UNKNOWN--
+223:451 1:103 1:2343^ çClm16000
+595/63311/23344571/4
+ArguetaE7
+L115f21.2080-16Monaguska1223/4Superling12021/4MissLaurenAnn12021/4Closeup,weakened
+4Jun16-9
+Prxfst61/2f
+232:461 1:113 1:1823^ ç Alw42400
+N1R682/712hd 1hd 1hd 11/2
+ArguetaE7
+L114f43.0083-16GrtIllson1141/2WkUpMm1211/2Extrsxyxotkmnx11621/4Viedthroughout,game
+WORKS:Feb28Prx4ffst:512B
+44/52
+Jan13Prx4fmy:512B
+9/15
+TRAINER:31-60Days
+(95.15$2.01)
+Dirt
+(620.16$2.09)
+Sprint
+(433.18$2.45)
+Alw
+(108.10$2.60)
+J/T2016-17PRX(22.36$3.63)J/T2016-17(43.33$4.14)
+2x
+5-1
+MissAvalon
+
+Own:SMDLtd
+
+Black,WhiteHoops,WhiteSleeves,Black
+PENNINGTONF(109252515.23)2016:(721109.15)
+Dk.borbrf.4(May)
+
+Sire:JumpStart(A.P.Indy)$10,000
+
+Dam:DuneDriveAvalon(HolyBull)
+
+Br:SMDLtd(Pa)
+
+Tr:ServisJohnC(35962.26)2016:(35265.18)
+L120
+Life
+12340$114,650
+8020171100$24,36069
+
+20166120$52,54080
+
+Prx11340$114,15080
+D.Fst10330$102,39080
+
+Wet(388)1010$11,76055
+
+Synth0000$0-
+
+Turf(220)1000$50052
+
+Dst(355)2020$26,04062
+10Jan17-2
+Prxfst61/2f
+22 1:45 1:094 1:1614^ çClm20000
+N3L691/86311/23131111/4
+PenningtonF
+L120b2.2094-08MissAvalon12011/4
+BrooklynGal
+122nkNavajoKitten120nkMovedout,driving
+11Oct16-3
+Prxfst6f
+223:46 1:584 1:123^ çClm20000
+N3L528/9441631/4743/4651/2
+PenningtonF
+L117b3.4072-16GoRoRoGo11911/4Ervsayslethergo1123/4
+MissKalem
+12111/4Verywide,faltered
+19Sep16-3
+Prxslyø7f
+S223:451 1:111 1:2413^ çClm40000
+N3L554/6342541/222243/4
+PenningtonF
+L116b2.9080-18
+Calculation12043/4MissAvalon1161/2SweetestYet1163Bid,continuedwell
+26Jly16-7
+Prxfst6f
+223:462:583 1:113^ çAlw54244
+N1X575/76741/4733/4763/4773/4
+RosadoRJ
+L117b4.5075-15FinalBetrayal12121/4
+FlatterMeZanj
+124hd Minerlistic12121/2Trailedthroughout
+28May16-4
+Prxfm5f
+ê214:453:5823^ çAlw72072
+N1X526/108771/2811912873/4
+PenningtonF
+L116b5.2079-13LemonStrudel121hd ZensationalMerry121hd HauntedVision12111/2Nofactor
+23Apr16-5
+Prxfst7f
+232:463 1:124 1:254çAlw56080
+N1X621/7211/21111/221
+PenningtonF
+L121b*1.1076-25SpitfireWind1181MissAvalon1213
+QueenaEsther
+118hd Foughtitoutgamely
+2Apr16-5
+Prxfst5f
+223:46:582ç Alw40740
+N1X801/4111121/21619
+PenningtonF
+L118b*1.0092-17MissAvalon1189
+Roman'sMiddy
+1189PoplarPoint11881/2Bestinhandyfashion
+7Dec15-6
+Prxfst6f
+ý223:47 1:002 1:143ç MdSpWt38k
+558/102411/431/2121/2111/2
+PenningtonF
+L122b2.40e65-31
+MissAvlon
+12211/2AddibelLightning12231/4SmrtyNeverQuits1222Wide,driving
+15Nov15-8
+Prxfst61/2f
+222:46 1:114 1:184çËDFreyer76k
+334/74751/2563/47147211/4
+PenningtonF
+L115b15.4060-26
+EighthWonder
+11991/4Kylbrylie
+12011/4Ayed'Eclaire11821/4Verywide,nofactor
+30Oct15-1
+Prxfst51/2f
+23:472 1:003 1:074ç MdSpWt38k
+4110/10131/2311/2321/2213/4
+PenningtonF
+L122b*.6067-23MoonlitSea12213/4MissAvalon1222Move12221/2Graduallyclosedgap
+12Oct15-3
+Prxfst51/2f
+S22 1:462:594 1:064ç MdSpWt37k
+574/5111/21211/221/2
+PenningtonF
+L120b5.2073-29Roman'sMiddy1201/2MissAvalon12071/2LadyLion120nkClear,heldongamely
+5Sep15-5
+Prxfst5f
+224:472 1:003ç MdSpWt61k
+315/101981/41061/461067
+PenningtonF
+L1197.2072-22JadynsGG119nkRomansMiddy119nkPrkerLily11911/4Between,someenergy
+WORKS:Feb24Prx5ffst 1:031B
+2/7
+Feb15Prx4ffst:483B
+5/50
+Jan26Prx4ffst:503B
+14/19
+Jan5Prx4ffst:502B
+3/7
+Dec23Prx4ffst:491B
+30/119
+TRAINER:31-60Days
+(126.13$1.28)
+WonLastStart
+(75.21$1.83)
+Dirt
+(361.20$1.71)
+Sprint
+(242.17$1.15)
+Alw
+(125.15$1.30)
+J/T2016-17PRX(57.25$1.49)J/T2016-17(66.21$1.29)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race7,page:18Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+8ParxRacing
+ç
+Alw
+51000N1X51/2Furlongs
+( 1:013)ALLOWANCE.Purse$51,000(PLUSUPTO40%PABF)ForFilliesAndMaresFour
+YearsOldAndUpwardWhichHaveNeverWonARaceOtherThanMaiden,Claiming,Starter,OrStateBredOr
+
+WhichHaveNeverWonTwoRaces.Weight,124lbs.Non-winnersOfARaceSinceFebruary6Allowed3lbs.
+
+(ClaimingRacesNotConsideredInAllowances).
+Posttime:4:04ETWagers:FirstHalfDailyDouble,Exacta,50CentTrifecta,10CentSuperfectaBeyerpar:74
+1
+20-1
+LikeaLion
+
+Own:SilvioLMartin
+
+Black,BlueHoop,BlueHoopOnSleeves
+VARGASJAJR(7612129.16)2016:(49990.18)
+B.f.4(Jan)
+
+Sire:GreatNotion(ElusiveQuality)$3,500
+
+Dam:GoLionGo(LionHearted)
+
+Br:Dr&MrsThomasBowman&RebeccaDavis(Md)
+
+Tr:MartinSilvioL(13121.08)2016:(607.12)
+L121
+Life
+16236$123,660
+8220173000$2,35054
+
+201613236$121,31082
+
+Prx12226$111,56082
+D.Fst10125$76,38076
+
+Wet(384)4101$37,28082
+
+Synth0000$0-
+
+Turf(282)2010$10,00062
+
+Dst(389)1100$30,00082
+10Feb17-8
+LrlfstÍ11/16
+252:503 1:154 1:4724^ çAlw44646
+N1X373/711/211/2731/27116163/4
+CarrascoVR
+L120b10.0057-22Seeing'n'believing12013/4Borino1241/2Trulamo1201/2Rank,fade,steady5/16
+21Jan17-8
+Prxwf170
+23:47 1:124 1:4444^ çAlw56080
+N1X427/931/231668129181/2
+CaballeroH
+L121b7.3053-34ShsIncrdbl11621/2DscoRos124hd Whogosdthms12111/4Prompted3wide,tired
+1Jan17-8
+Lrlfst6f
+224:463:59 1:1124^ çAlw49182
+N1X548/91513/4631/4741/4553/4
+McCarthyT
+L120b2.6080-16
+MoonVision
+1202CandySioux1221
+TizEmilyndJill
+12024wdbtw,hardrdn,empty
+6Dec16-8
+Prxfst6f
+222:46 1:591 1:1223^ çAlw55330
+N1X682/6521/24333321/2
+VargasJAJr
+L120b2.9073-22Syrisong12111/4BrazilianSymphony11611/4LikeLion12011/2Fellback,regain3rd
+15Nov16-8
+Prxfst6f
+ý222:462:592 1:1233^ çAlw64740
+N1X613/1110831/2743/44632
+VargasJAJr
+L119b3.6073-21
+RowdEAllie
+12111/4PolitePearl1213/4LikeaLion11911/2Offslow,toolate
+29Oct16-8
+Prxfst7f
+--UNKNOWN--
+232:463 1:113 1:2433^ çAlw51250
+N1X762/641hd 1hd 3nk213/4
+VargasJAJr
+L118b3.7081-20Catsadiva11813/4LikeaLion1182
+Syrisong
+12131/2Bobbled,2ndbest
+3Oct16-9
+Prxfst1
+232:47 1:114 1:383^ çAlw77200
+N1X693/9411/2411/432331/2361/2
+VargasJAJr
+L118b9.3075-22DiamondPlay1185DaringProspect11811/2LikeLion1181/2Close,continuedwell
+13Sep16-3
+Prxfst7f
+--UNKNOWN--
+223:452 1:111 1:2443^ çClm40000
+N2L702/611hd 211/21hd 11/2
+VargasJAJr
+L117b1.5082-22LikLion1171/2KnucklKnock111óWhistlingStrts11711/2Angledout,longdrive
+20Aug16-8
+Lrlgd6f
+ê23:464:583 1:113^ çËJameelaB75k
+571/11343/453710910
+VargasJAJr
+L116b23.8072-16
+LovblLdy
+1221/2EvrythingLovly11821/2MonstrSlpng12011/4Takenup,shuffl3-1/2
+31Jly16-8
+Prxgd7f
+224:454 1:104 1:2343^ çAlw64740
+N2L685/85513/4621/2661/255
+CedenoC
+L119b4.5082-13
+AuntRose
+11911/4AWingandaSong1162Taurine11611/4Bumped,widest
+28Jun16-8
+Prxmyø5f
+ï22:453:5813^ çMdSpWt52k
+821/9111/211161101/2
+VargasJAJr
+L119b*1.2093-19LikeaLion119101/2IDreamofLois119nkDontwasteurpretty11921/2Inhand
+11Jun16-8
+Prxgd5f
+ê223:46:5823^ çMdSpWt54k
+625/96544434221/2
+VargasJAJr
+L119b6.7084-13
+GladYourBack
+11921/2LikeaLion
+11951/2SneakyCowgirl11923/4Boreout,rallied
+WORKS:Feb22Prx4ffst:512B
+5/10
+Dec24Prx4fsly:51B
+8/10
+TRAINER:Route/Sprint
+(5.00$0.00)
+Dirt
+(79.11$1.70)
+Sprint
+(57.11$1.28)
+Alw
+(11.09$4.02)
+J/T2016-17PRX(17.18$1.40)J/T2016-17(20.15$1.19)
+2
+6-1
+BigMomma
+
+Own:WilliamAustin
+
+White,BlueBirdAndStripes,Blue
+HADDOCKD(2000.00)(>)
+Dk.borbrm.6(Apr)
+
+Sire:NobizLikeShobiz(AlberttheGreat)
+
+Dam:SheerSilk(WesternExpression)
+
+Br:ValerieBlethen(Ky)
+
+Tr:VazquezJuanC(5714315.25)2016:(25649.19)
+L111
+10Life
+211021$166,847
+9320171000$62743
+
+20169610$91,80093
+
+Prx12721$119,41093
+D.Fst16821$139,10093
+
+Wet(336)4200$25,76773
+
+Synth0000$0-
+
+Turf(228)1000$1,98058
+
+Dst(339)11610$93,75293
+21Jan17-5
+Pengd51/2f
+22:45:571 1:0344^ çAlw10000s
+431/5514
+LopezCC
+L120f2.7085-08
+EnchantedFacts
+1234UpHillBattle1192LadyofMoray11943/4Fog
+11Oct16-6
+Prxfst5f
+ï222:454:5743^ çAlw81612
+N1X202/87631/2761/48138211/4
+CedenoC
+L121f*1.6074-16HowsMyGold1216
+HauntedVision
+1214She'sChubs118nkOffslow,tired
+19Aug16-4
+Penfst51/2f
+22:45 1:574 1:0433^ çAlw6250s
+734/662hd 11/215151/2
+RemedioM
+L123f*.6095-16BigMomm12351/2HededforHeven1231/2Shesgotthemoves1161/22wide,driving
+1Aug16-2
+Pensly51/2f
+22 1:45 1:572 1:043^ çAlw5000s
+732/5211/21hd 1211
+RemedioM
+L119f*.7098-10
+BigMomma
+1191RosieMyWay1196GypsyFire1191/2Duelin,shrugofffoe
+12Jly16-8
+Prxfst5f
+ïC214:453:5824^ çAlw10000s
+566/86511/43nk3nk22
+RemedioM
+L122f*.6090-12
+HuntdVision1202BigMomm
+12211/2AlmightyStorm12231/4Drift,wide,nomatch
+21Jun16-6
+Prxfm5f
+ê222:444:5644^ çAlw10000s
+589/109531/443341/244
+RemedioM
+L124f*.8091-05DelightfulLiz11711/4
+ShesGifted
+1152ResoluteBabe1203/4Cameout,bump,fade
+31May16-7
+Prxfst5f
+ïS223:452:5644^ çAlw8000s
+935/72211hd 1318
+RemedioM
+L124f*1.00100-17BigMomma1248She'sGifted11723/4DarnQuiet12013/4Tookover,drewaway
+10May16-6
+Prxfst6f
+223:46:581 1:1034^ çClm8000
+825/6121/22hd 131/2151/2
+RemedioM
+L122f*.9085-17
+BigMomma
+12251/2OurCarly1202CowtownBrown113hd Mildhandling
+29Mar16-7
+Prxfst61/2f
+23:47 1:124 1:1924^ çClm8000
+685/712hd 1hd 1213/4
+RemedioM
+L120f1.8078-23
+BigMomma
+1203/4BridgetMoloney
+1204OurCarly1206Vied,clear,heldsway
+8Mar16-3
+Prxfst51/2f
+S224:464:591 1:0544^ çClm5000
+654/553111/213133/4
+RemedioM
+L120f1.7082-23
+BigMomma
+12033/4CochitaRich12241/2RareMatch1201Offpoorly,driving
+22Dec15-6
+Prxfst6f
+22 1:462:592 1:1333^ çClm7500
+N4L656/125311/22hd 111/2111/2
+RemedioM
+L124f6.9070-27
+BigMomma
+12411/2Loya12161/2DistinctDiva124nkFractious,drft,clear
+1Dec15-2
+Prxslyø51/2f
+--UNKNOWN--
+23:471 1:01 1:083^ çClm7500
+N3L634/831hd 1hd 2111/2
+RemedioM
+L121f3.7068-30
+BigMomma
+1211/2Ghazi'sStone11611/4MissThursday1215Inside,cameback
+WORKS:Feb28Prx4ffst:501B
+30/52
+Jan16Prx4ffst:503B
+22/39
+TRAINER:2Off45-180
+(48.19$1.22)
+31-60Days
+(88.18$1.54)
+Dirt
+(306.20$1.81)
+Sprint
+(158.22$1.60)
+Alw
+(35.09$1.61)
+3
+15-1
+NaturalWarrior
+
+Own:Trin-BrookStablesInc
+
+Black,Gold"V",BlackCuffsOnGold
+PINEROL(8551210.06)2016:(38222.06)
+Dk.borbrf.4(Mar)OBSWIN14$4,000
+
+Sire:A.P.Warrior(A.P.Indy)
+
+Dam:NaturalGlow(Siphon*Brz)
+
+Br:PonderHillInc(Fla)
+
+Tr:StLewisUriah(49126.02)2016:(29910.03)
+L114
+7Life
+14114$45,620
+6620172000$3,31056
+
+20169113$37,75066
+
+Prx10113$40,44066
+D.Fst10004$12,91050
+
+Wet(289)4110$32,71066
+
+Synth0000$0-
+
+Turf(221)0000$0-
+
+Dst(317)6012$13,45056
+14Feb17-8
+Prxfst6f
+22 1:452:582 1:1144^ çAlw63740
+N1X502/7641411/444691/2ñ
+PineroL7
+L114b60.1069-22SoYouKnow12133/4Princessofthieves1213/4
+AtlantisRomance
+11621/2Tired,dh
+24Jan17-8
+Prxslyø51/2f
+222:46 1:582 1:0434^ çAlw52000
+N1X564/99843/4541/2461/2483/4
+PineroL7
+L114b52.0080-16
+RangerLady
+1211PolitePearl121nkShe'sAllReady12171/2Offslow,flattenout
+12Dec16-1
+Prxslyø6f
+--UNKNOWN--
+222:46:582 1:1113^ çMd40000
+664/61111/21316171/2
+PineroL7
+L116b11.6082-15NturlWrror11671/2LuckyMtng124nkContBlssns1231/2Dominatedthroughout
+27Nov16-1
+Prxfst6f
+224:48 1:012 1:163^ çMd20000
+263/7511/211/224363/4
+SanchezMJ
+L122b16.5051-35HazyDaisy12441/2TenSilverDollars12421/4
+NturlWrrior
+12231/2Ledhalf,weakened
+7Nov16-9
+Prxfst6f
+222:47 1:594 1:1343^ çMd10000
+364/129421/2311/23435
+PineroL7
+L115b36.5064-25AppelingMiss1243LuckyMeeting1242NturlWrrior1151/2Rushedinside,tired
+23Oct16-1
+Prxfst6f
+C222:462:592 1:133^ çMd10000
+-08/116551/4711102210251/2
+PineroL7
+L114b19.4047-20
+BohemianBliss
+12163/4LuckyMeeting1243
+PrincessSkylr
+12141/4Outside,stopped
+1Oct16-9
+Prxmyø51/2f
+--UNKNOWN--
+222:454:582 1:053^ çMd10000
+467/972hd 11/21hd 241/4
+PineroL7
+L114b17.0082-13BrooklynGal12141/4NaturalWrrior11413/4
+Trousseu
+121hd Dueled,nomatchlate
+13Sep16-9
+Prxfst51/2f
+22:46 1:594 1:073^ çMd10000
+317/11953561/235341/2
+PineroL7
+L113b125.3071-22HoneymoonSpring1203
+PickyBits
+12011/2NturlWrrior11333/4Luggedinstretch
+31Jly16-10
+Prxgd6f
+214:45 1:581 1:1213^ çMd10000
+-04/118531/455112011253/4
+SanchezMJ
+L119b27.7051-13IceBluVision1121/2
+HonymoonSpring
+1192PrincssSkylr1193Between,stopped
+18Jly16-9
+Prxfst5f
+222:454:5813^ çMd10000
+-05/10653661/2102610291/4
+MartinezHN
+L119b13.0064-15GirlsandGuns124103/4
+Puchulunga
+11911/2IceBlueVision
+11211/4Wide,stopped
+PreviouslytrainedbyPersaudRandi2015:(4331826290.04)
+3Jan16-2
+Aqufst6f
+--TRACK MARKER----UNKNOWN--
+232:481 1:01 1:141çMd25000
+-02/65425136256463/4
+SilveraR
+L120b11.2027-16RisetotheTop12033/4EgyptinRose12063/4
+PinotMeunier
+12091/45wupper,faltered
+25Jun15-5
+GPfst5f
+224:471 1:012çMd35000
+333/82311112321/2
+DominguezE
+L118b9.6074-18Shesthewinner114nk
+OcalaSpirit
+11821/4NaturalWarrior1183Duel,led,wknlate
+WORKS:Jan17Prx4ffst:514B
+31/34
+TRAINER:Dirt
+(339.03$1.31)
+Sprint
+(158.03$1.09)
+Alw
+(26.08$2.78)
+J/T2016-17PRX(64.06$3.62)J/T2016-17(64.06$3.62)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race8,page:19Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+4
+7-2
+Papa'sMissile
+
+Own:AlexanderJMartinez
+
+Black,YellowDiamonds,YellowStripes
+LOPEZCC(38395.08)2016:(35051.15)
+Ch.m.5(Apr)
+
+Sire:GoldenMissile(A.P.Indy)$3,500
+
+Dam:Papa'sKara(HighYield)
+
+Br:MilferFarmInc(NY)
+
+Tr:MartinezAlexander(4110.25)2016:(468.17)
+L121
+Life
+18430$94,080
+7320172100$18,25067
+
+20169220$41,42073
+
+Prx8310$50,95073
+D.Fst15320$75,61373
+
+Wet(347)2110$18,20070
+
+Synth0000$0-
+
+Turf(252)1000$26740
+
+Dst(324)5210$37,45070
+11Feb17-6
+Prxfst51/2f
+C214:452:582 1:0524^ çClm10000
+675/721hd 1218111/4
+LopezCC
+L120b4.8085-16Papa'sMissile12011/4SpringFlower12043/4LuckyGreatness1152Heldontiring
+17Jan17-8
+Prxfst51/2f
+ý222:464:592 1:0614^ çAlw25000s
+261/921hd 311/2661/28151/4
+LopezCC
+L124fb3.1066-19Bagema121nkZipper'sHero12121/4HarlansBelle12113/4Brush,lostaction
+31Dec16-9
+Prxfst6f
+214:45 1:572 1:1013^ çClm7500
+N3L735/113211/211151101/2
+LopezCC
+L124fb*2.4087-16Papa'sMissile124101/2
+Thump
+11911/2AllD'Night12031/2Drewoffhandily
+13Dec16-3
+Prxwf51/2f
+222:46:584 1:0523^ çClm7500
+N2L706/9212131211
+LopezCC
+L121b3.1084-20
+PapsMissile
+1211AppelingMiss12233/4HenriettDubi12041/2Clearallwaydriving
+27Nov16-4
+Prxfst6f
+C223:473 1:011 1:1443^ çClm7500
+N2L304/1053232451/25121/4
+AcostaJD
+L121b6.5052-35RoyalStage11653/4JustListen1211/2RunawayCherie1211/2Outside,tired
+8Nov16-2
+Prxfst51/2f
+223:464:592 1:063^ çClm7500
+N2L4012/12843/44238413
+AcostaJD
+L121b8.6068-23AWingndSong119113/4JustListn1213/4DrgonTttoo1211/2Duckoutstr,duelwid
+23Oct16-2
+Prxfst61/2f
+22 1:46 1:123 1:1913^ çClm20000
+N2L3111/11261411/2568151/2
+ArosemenaJC
+L121b11.8063-20SingleBroad11321/2
+AWingndSong
+1181/2UnPoDiVino11311/4Verywide,nofactor
+3Oct16-2
+Prxfst51/2f
+222:462:584 1:0523^ çClmc-7500
+N2L516/88751/4531/433213/4
+CarmoucheK
+L121b*2.3082-16HoneymoonSpring12113/4Papa'sMissile121nkTimna113nkBump,verywide
+ClaimedfromUnadillaStablefor$7,500,SciaccaGaryTrainer2016(asof10/3):(2372424330.10)
+24Aug16-3
+Sarfst6f
+S224:454:58 1:1123^ çClm16000
+N2L492/7721/2211/223551/4
+CarmoucheK
+L121b3.45e80-10BeeNoteworthy1212
+Phocea
+1213/4RedneckGold1141Prompt4-3w,wkndlate
+28Jly16-10
+Sarfst61/2f
+214:45 1:11 1:1813^ çClm16000
+N2L541/93111/211/221543/4
+CarmoucheK
+L121fb3.00e77-11RecklessHumor12413/4Phocea1213/4BoldPrint121óRail,test1/4,gaveway
+29May16-1
+Belfst61/2f
+223:461 1:112 1:1813^ çClm25000
+N2L621/8211/211/21hd 213/4
+FrancoM
+L121b8.30e81-17LoveYouBabe11213/4PapsMissile12111/4RedneckGold1211Inhandins,ranon
+PreviouslytrainedbyEnglehartChris2015(asof6/26):(2776040400.22)
+26Jun15-4
+Belfst61/2f
+S224:46 1:111 1:1823^ çClm25000
+N2L297/75311/2581/2516517
+VelasquezC
+L119b13.8064-15LightningLlly11623/4Undrthmoonlght1163/4BLghtofDy12171/4Chased3w,tired
+WORKS:Jan30Prx3ffst:38B
+3/5
+TRAINER:WonLastStart
+(8.25$1.22)
+Dirt
+(50.18$2.75)
+Sprint
+(43.14$2.09)
+Alw
+(2.00$0.00)
+J/T2016-17PRX(4.75$6.65)J/T2016-17(4.75$6.65)
+5
+8-1
+HauntedVision
+
+Own:MarioDeJesus-Arriaga
+
+Blue,Blue"Ma"OnWhiteBall,White
+CABALLEROH(87161810.18)2016:(48684.17)
+B.m.6(Feb)
+
+Sire:Visionaire(GrandSlam)
+
+Dam:HauntedLass(MeadowMonster)
+
+Br:IWINFarmsLLC&StanStefanski(Pa)
+
+Tr:HelmetagRobertW(6110.17)2016:(272.07)
+L121
+Life
+31563$203,220
+78201620452$151,51078
+
+20159010$11,74058
+
+Prx9231$103,09267
+D.Fst18442$142,48667
+
+Wet(333)2010$6,66060
+
+Synth0000$0-
+
+Turf(280)11111$54,07478
+
+Dst(324)7220$67,67062
+PreviouslytrainedbyCaraballoWilfredoV2016(asof11/18):(354850.11)
+18Nov16-6
+Penfst6f
+222:454:581 1:1113^ çAlw10000s
+643/77521/2413/4421/421
+RosadoRJ
+L123f2.8087-10HeddforHvn1191HuntdVision123hd ErsthDficit119hd Lungestart,bullied1/8
+6Nov16-4
+Lrlfm51/2f
+êý223:454:563 1:0223^ çAlw25000s
+-01/111111371134113411413/4
+HernandezJA
+L122f19.7052-03
+SpectacularMe
+12021/4DancingLucy12221/4Shaboom122nkRearedbreak
+29Oct16-6
+Penfst5f
+214:452:5823^ çAlw10000s
+581/632hd 21/22hd 113/4
+RosadoRJ
+L119f2.4093-13HauntedVision11913/4Natal1192Gratzie1193/4Duelin,dugin
+11Oct16-6
+Prxfst5f
+ï222:454:5743^ çAlw81612
+N1X604/8111/22hd 2226
+RosadoRJ
+L121f8.4089-16HowsMyGold1216
+HauntedVision
+1214She'sChubs118nkDuel,drift,nomatch
+24Sep16-6
+Penfst6f
+ý22 1:454:582 1:1113^ çAlw50532
+N1X5811/1114252411/2461/2
+RosadoRJ
+L121f4.1081-15CitlynsWish12151/4
+MlibuRumRun
+116nkShsgotthmovs1141Fullofrun1/4,flat
+11Sep16-8
+Prxfm5f
+ê224:47 1:003^ çAlw10000s
+717/106321/232222nk
+OcasioLM5
+L117f*1.6079-21
+EuroIndinGirl
+124nkHuntdVision117nkWorldGonWrght1201Drifted,gaining
+26Aug16-3
+Penfm5f
+êC22:46 1:5843^ çOC25k/
+N2X-N
+524/832hd 2hd 211/265
+RosadoRJ
+L123f3.1074-20Imply11911/2PinkPrincess1191/2PreviousHonor119hd 2w,bumptrn,weakened
+6Aug16-6
+PrxfmÍ5f
+ê22:454:583^ ç Alw42600
+N1R753/8211/21211/21ó
+RosadoRJ
+L124f*2.0092-08HuntdVision124ó
+ShsChubs
+11611/2PrvousHonor1211/2Dueled,gamelyheldon
+PreviouslytrainedbyHelmetagRobertW2016(asof7/23):(222020.09)
+23Jly16-7
+PrxfmÍ5f
+êS223:453:573^ ç PwrByFarB100k
+766/62212hd 2243
+LopezCC
+L120f16.7094-03FatKat12023/4RoyalRenege120óPersnickity120nkPursuedwinner,gamely
+12Jly16-8
+Prxfst5f
+ïC214:453:5824^ çAlw10000s
+623/8411/21hd 2hd 12
+RosadoRJ
+L120f14.1092-12HauntedVision1202
+BigMomma
+12211/2AlmightyStorm12231/4Luggedin,clear
+25Jun16-8
+Prxfm5f
+ê22 1:45 1:5733^ ç Alw43000
+N1R602/1061hd 3nk53/4861/4
+RosadoRJ
+L1216.5085-12Persnickity1211LemonStrudel1243/4SunshineHrt124óStumbled,duel,tired
+14Jun16-8
+Prxfm5f
+ê213:45:5643^ çOC40k/
+N3X-N
+723/7632513/4421/2443/4
+RosadoRJ
+L12011.7090-07SpctculrM1203/4Mggsfruddnslp12031/2BrnControl1201/2Offslow,trybearout
+WORKS:Feb19Wst5ffst 1:042B
+1/1
+TRAINER:61-180Days
+(5.20$1.96)
+Dirt
+(29.10$2.06)
+Sprint
+(27.11$2.21)
+Alw
+(4.00$0.00)
+J/T2016-17PRX(3.33$3.27)J/T2016-17(3.33$3.27)
+6
+6-1
+AtlantisRomance
+
+Own:RobertTReidy
+
+White,GreenShamrock,Orange"Rr"
+ARROYOAS(3100.33)2016:(83776.09)
+B.f.4(Feb)
+
+Sire:CowtownCat(DistortedHumor)$3,000
+
+Dam:CommandtheWaters(DeputyCommander)
+
+Br:RedOakStable(Fla)
+
+Tr:SereyMJr(607612.12)2016:(54694.17)
+L121
+Life
+8122$67,830
+6520173001$9,63063
+
+20165121$58,20065
+
+Prx3111$51,81065
+D.Fst7022$31,83065
+
+Wet(325)1100$36,00062
+
+Synth0000$0-
+
+Turf(268)0000$0-
+
+Dst(341)1010$8,40051
+3Mar17-7
+Aqufst6f
+--TRACK MARKER--23 1:47:594 1:1324^ çAlw67000
+N1X543/66211/2561/2571/2573/4
+DiazHRJr5
+L116f11.7072-20RingKnocker1211LittleBearCat12313/4Felini1231/26wupper,weakened
+14Feb17-8
+Prxfst6f
+22 1:452:582 1:1144^ çAlw63740
+N1X616/7221/221321/2341/2
+OcasioLM5
+L116f5.5074-22SoYouKnow12133/4Princessofthieves1213/4AtlntisRomnc11621/2Anglein,tired
+10Feb17-7
+Aqufst6f
+--TRACK MARKER--223:46:581 1:114^ çAlw67000
+N1X631/9211/22hd 23571/4
+OcasioLM5
+L114f8.8085-13Anydayismyday11931/4
+RingKnocker
+1191MyFirLily12121/4Urgetolead,2p,tired
+6Dec16-5
+Prxfst6f
+C22:46:59 1:1213^ çAlw63490
+N1X655/6443311/2221/2251/4
+McCarthyT
+L120f2.4072-22TrustyRoll12451/4AtlantisRomance1202AllSummedUp1203Stumbledstart
+19Nov16-6
+Lrlfst7f
+ý22 1:453 1:104 1:232çSafelyKptB100k
+5413/13111/211568151/4
+CarrascoVR
+L116f116.1077-08TaleforRuby11621/4
+Takrees
+1183OutsiderArt1203/4Speed,clear2w,tired
+22Oct16-3
+Prxmyø6f
+--UNKNOWN--
+223:471 1:00 1:1313^ çMdc-40000
+626/73111215153/4
+GarciaWA
+L121*1.9072-27AtlantisRomance12153/4
+BillyNoSabay
+1247Hetherly12121/4Ledoutside,driving
+ClaimedfromRedOakStable(Brunetti)for$40,000,SaccoGregoryDTrainer2016(asof10/22):(2603845230.15)
+26Jun16-3
+Mthfst6f
+213:442:564 1:103^ çMdSpWt34k
+471/77311/2341/2371/23161/4
+JuarezN
+L1183.1076-07ShikhndSlk11871/4
+FifthndMdison
+1189AtlntisRomnc
+1183/4Stumbledstart,wknd
+1Jan16-7
+Lrlfst51/2f
+222:463:592 1:06çMdSpWt40k
+513/10411/21hd 11/221
+SanchezMJ
+L1229.3081-17SpunCopper1221AtlantisRomance12211/4LianaStar12213/4Dueled,gamely,
+WORKS:Feb6Prx3ffst:38Bg
+3/5
+Jan26Prx1fst 1:47B
+2/2
+TRAINER:1-7Days
+(108.18$2.57)
+Dirt
+(620.16$2.09)
+Sprint
+(433.18$2.45)
+Alw
+(108.10$2.60)
+J/T2016-17PRX(2.00$0.00)J/T2016-17(3.00$0.00)
+7
+9-2
+Fastener
+
+Own:ColtsNeckStablesLLC
+
+BurntOrange,TurquoiseHoop,Turquoise
+MCCARTHYT(36874.22)2016:(1437274.19)
+Dk.borbrf.4(Mar)
+
+Sire:RomanRuler(FusaichiPegasus)
+
+Dam:Mythical(DixielandBand)
+
+Br:ColtsNeckStablesLLC(Ky)
+
+Tr:GoldbergAlanE(>)2016:(16935.21)
+L121
+Life
+3101$30,110
+7320163101$30,11073
+
+20150M00$0-
+
+Prx1001$5,61061
+D.Fst3101$30,11073
+
+Wet(403)0000$0-
+
+Synth0000$0-
+
+Turf(269)0000$0-
+
+Dst(389)0000$0-
+28Aug16-3
+Sarfst6f
+22:444:57 1:0933^ çAlw85000
+N1X413/6442561/2610620
+OrtizJL
+L120f6.7074-09Saharan1202TrueRomance12163/4ShaynaLady11713/4Bmpdbrk,ins,retreated
+4Jly16-7
+Prxfst7f
+222:45 1:111 1:2443^ çAlw64740
+N2L618/88541/2421/43436
+FragosoP
+L119*1.1076-15She'sRunningFree1214She'llDoIt1172Fastener11921/2Stumbledbadlystart
+17Jun16-6
+Pimfst6f
+23 1:463:59 1:12çMdSpWt41k
+738/9231/21115161/4
+ToledoJ
+L1226.4086-15Fstener12261/4
+Tizsomethingroyl
+1223BwlmrHon
+12211/23-deep,poweraway,drvg
+WORKS:Feb14PmM4ffst:50B
+8/18
+Feb3PmM4ffst:48B
+4/29
+òJan24PmM4ffst:471Bg
+1/35
+Jan16PmM5ffst 1:01B
+2/11
+òJan9PmM4ffst:474B
+1/18
+Jan1PmM4ffst:494B
+2/9
+TRAINER:+180Days
+(11.18$0.78)
+Dirt
+(53.26$1.63)
+Sprint
+(109.22$1.40)
+Alw
+(54.26$1.40)
+J/T2016-17(12.17$0.60)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race8,page:20Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+8
+5-2
+HeyBraciole
+
+Own:JosephTCapriglone
+
+Black,LimeGreenEmblem,BlackAndLime
+ESQUIVELE(71679.08)2016:(66895.14)
+Blk.f.4(May)
+
+Sire:Freud(StormCat)$10,000
+
+Dam:PuDew(LuckyLionel)
+
+Br:JoeCapriglione(Pa)
+
+Tr:FarroPatricia(7861510.08)2016:(972140.14)
+L121
+Life
+8221$97,910
+7020171100$25,20066
+
+20167121$72,71070
+
+Prx8221$97,91070
+D.Fst6111$54,47070
+
+Wet(342)2110$43,44066
+
+Synth0000$0-
+
+Turf(312)0000$0-
+
+Dst(360)0000$0-
+2Jan17-5
+Prxslyø6f
+223:462:59 1:124^ ç Alw42750
+C661/84411/442411/211/2
+EsquivelE
+L121fb*1.10e78-16HeyBrciole1211/2FindtheMoney1213/4FrezingFst1211/2Blockedturn,closed,up
+5Dec16-7
+Prxfst6f
+222:464:594 1:1243^ ç Alw43500
+C6511/1111151/243311/223/4
+EsquivelE
+L120fb*1.9073-21HertbrekerGirl1203/4
+HyBrciol
+12011/2FindthMony1201/2Extremelywidestretch
+13Nov16-5
+Prxfst61/2f
+--UNKNOWN--
+223:462 1:12 1:1833^ ç Alw42250
+C621/6331431/249491/2
+EsquivelE
+L119fb1.9072-25SoYouKnow11971/2Rapidez12111/4FindtheMoney1193/4Angledout,flattened
+23Oct16-8
+Prxfst6f
+222:462:59 1:123^ ç Alw64500
+N1R691/104311/2311/23133/4
+EsquivelE
+L118fb9.8077-20Tonasah1181/2
+SoYouKnow
+118nkHeyBraciole11851/2Inside,gamely
+2Oct16-5
+Prxmy7f
+222:454 1:11 1:2413^ çAlw81312
+N2L591/73323111/223/4
+EsquivelE
+L118fb3.6084-12CaittheGreat1183/4HeyBraciole11813/4GirlsandGuns1211/2Inside,led,caught
+3Sep16-3
+Prxfst7f
+223:463 1:114 1:2513^ ç Alw42800
+N1R611/911hd 1hd 2hd 421/2
+EsquivelE
+L117fb*.90e77-18AddiblLghtnng1173/4AwsomSngr116nkWkUpMm12111/2Viedwide,weakened
+26Jly16-7
+Prxfst6f
+223:462:583 1:113^ çAlw54244
+N1X631/73112hd 221/265
+EsquivelE
+116f6.0078-15FinalBetrayal12121/4
+FlatterMeZanj
+124hd Minerlistic12121/2Clear,vied,yielded
+21Jun16-1
+Prxfst6f
+22 1:454:584 1:122çMd40000
+701/7331/211/2111/211/2
+HrnandzOrtegaP
+121f6.8076-19HeyBraciole1211/2Heatherly12111TizFair1211/2Angledout,bid,safe
+WORKS:Feb28Prx5ffst 1:022B
+13/13
+TRAINER:61-180Days
+(95.13$1.92)
+WonLastStart
+(153.14$1.20)
+Dirt
+(973.15$1.54)
+Sprint
+(613.14$1.52)
+Alw
+(124.15$1.78)
+J/T2016-17PRX(349.14$1.36)J/T2016-17(395.14$1.36)
+9
+12-1
+Masio
+
+Own:CarlotaStable&SpyradonKaragiannis
+
+RoyalBlue,YellowCrossSashes,Yellow
+OCASIOLM(133211613.16)2016:(522107.20)
+Ch.f.4(May)
+
+Sire:PutItBack(HonourandGlory)
+
+Dam:Ben'sTune(Concorde'sTune)
+
+Br:RogerUrbina(Fla)
+
+Tr:VegaRichard(8110.12)2016:(19623.12)
+L116
+5Life
+11222$73,408
+6120171000$25030
+
+20164200$47,96861
+
+Prx3100$25,15061
+D.Fst4101$29,58061
+
+Wet(341)1000$25030
+
+Synth0000$0-
+
+Turf(316)6121$43,57860
+
+Dst(379)1000$25030
+PreviouslytrainedbyRodriguezMiguelA2016:(112110.18)
+24Jan17-8
+Prxslyø51/2f
+222:46 1:582 1:0434^ çAlw52000
+N1X309/9221/2325116193/4
+AcostaJD
+L121f9.1069-16
+RangerLady
+1211PolitePearl121nkShe'sAllReady12171/2Stalkedwide,tired
+PreviouslytrainedbyVegaRichard2016(asof12/11):(1842227190.12)
+11Dec16-7
+Prxfst7f
+--UNKNOWN--
+224:454 1:112 1:2513^ çClm40000
+N2L612/811hd 11/2121ó
+AcostaJD
+L121f8.9080-18Masio121óGirlsandGuns12211/4Gauche12123/4Viedrail,heldgamely
+13Nov16-7
+Aqufm1
+êý232:48 1:124 1:3713^ çAlw67000
+N1X-07/1011/2421/2101310271060
+AlvaradoJ
+L118f70.0036-03FeelingBossy1211/2
+MyGirlCory
+118nkBrginingTbl1212Brushbrk,inside,faded
+30Oct16-7
+Lrlfm6f
+ê224:46:57 1:093^ çMdSpWt40k
+603/10212121213/4
+AcostaJD
+L121f5.7092-06Masio1213/4Tizasong121hd Luckfromabove1213/4Rail,driving
+4Oct16-6
+Prxfst6f
+22:45 1:574 1:1033^ çMdSpWt75k
+366/7631/2687147191/2
+CedenoC
+L1218.9065-14
+Indulgent
+1213MyCountry
+1243PlayMeaMemory12123/4Wide,tired
+PreviouslytrainedbyAzpuruaManuelJ2015(asof9/11):(360370.00)
+11Sep15-4
+GPfm71/2f
+ê24:481 1:124 1:321çMdSpWt50k
+511/10111/211/211443/4
+CastroE
+119*1.2068-15ChinaBella11923/4RunAlexRun11913/4Tizjet119nkDuel,led1/8p,wknd
+15Aug15-7
+GPfm1
+ê234:48 1:114 1:371çMdSpWt40k
+427/12111/211/21hd 11/235
+FigueroaL
+118*1.3069-20Andreya'sReward1184TizBoa1131Masio1187Duel2p,bestofrest
+25Jly15-7
+GPfm5f
+ê212:442:57çMdSpWt44k
+602/101211/2221/2211/223/4
+FigueroaL
+1182.7084-15Shakakan1143/4Masio11881/4
+PoisonArt
+11811/2Clearly2ndbest
+24Jun15-6
+GPfm5f
+ê212:443:57çMdSpWt45k
+401/10511/211/221/2211/4
+FigueroaL5
+1133.8084-11Rosebud'sTiger11811/4Masio11311/2DevilishKitten1143/4Duel,drftd,alloutlat
+4Jun15-7
+GPfst41/2f
+22:453:522çMdSpWt43k
+-8/1154436593/4
+FigueroaL5
+1138.8083-13Wishihada1182
+HighEndQueen
+11471/4HappyLady118nk3wd1/4p,evnfinish
+21May15-2
+GPfst41/2f
+222:462:524çMdSpWt45k
+-2/54421/236314
+AlvarezJL
+1186.4077-13It'sHighTime11871/4EskenLady11863/4Masio11831/2Railbid,flattnedout
+WORKS:Feb24Prx4ffst:493B
+11/23
+òFeb11Prx4ffst:482B
+1/6
+Jan14Prx4ffst:484B
+5/50
+Jan1Prx4ffst:492B
+11/18
+TRAINER:31-60Days
+(56.14$1.07)
+Dirt
+(195.12$1.14)
+Sprint
+(108.14$1.45)
+Alw
+(7.00$0.00)
+J/T2016-17PRX(4.00$0.00)J/T2016-17(4.00$0.00)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race8,page:21Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+9ParxRacing
+Md
+100001MILE70YARDS
+( 1:383)MAIDENCLAIMING.Purse$18,000(PLUSUPTO40%PABF)ForMaidens,
+FourYearsOldAndUpward.Weight,124lbs.ClaimingPrice$10,000.
+Posttime:4:31ETWagers:SecondHalfDailyDouble,Exacta,50CentTrifecta,10CentSuperfectaBeyerpar:53
+1
+15-1
+MagnaFortune
+
+Own:HopesRacingStable
+
+White,RedStripes,BlueHoopOnWhite
+SANCHEZMJ(98151015.15)2016:(65479.12)
+$10,000B.g(05.01.16)4(Mar)
+
+Sire:MagnaGraduate(HonorGrades)$2,500
+
+Dam:SnarsGoodFortune(Snar)
+
+Br:WendyMutnick(Pa)
+
+Tr:PreciadoGuadalupe(20323.15)2016:(19529.15)
+L124
+Life
+12M02$18,050
+6220173M00$1,87049
+
+20169M02$16,18062
+
+Prx9002$13,82059
+D.Fst8001$9,20056
+
+Wet(377)1001$4,62059
+
+Synth0000$0-
+
+Turf(294)3000$4,23062
+
+Dst(345)3001$6,63056
+21Feb17-1
+Prxfst51/2f
+224:473 1:003 1:0734^ Md10000
+344/6343565114113/4
+GarciaG
+L12436.2062-26DevinsPosse124hd TrTopLovr12433/4DownWiththKing1198Inside,gaveway
+30Jan17-6
+Prxfst51/2f
+23 1:474 1:004 1:0734^ Md10000
+88/92841/4883/47158181/4
+FloresJL
+L124fb9.3056-27RturnofGint124nkWindSpirit124nkDownWththKng11921/4Verywide,outrun
+10Jan17-9
+Prxfst6f
+ý22:452:574 1:104^ Md10000
+492/106611/2511/4331/2573/4
+FloresJL
+L124fb13.6080-08
+FrtStr
+12411/2DownWiththKing119óTrTopLovr12443/4Driftedout,weakened
+13Nov16-4
+Prxfst170
+234:481 1:142 1:463^ Md20000
+555/8212122441/45111/4
+MarianoA
+L122fb15.0055-34Adumato122hd 
+Pharaoh'sCity
+12251/2Mr.Charles12451/4Promptoutside,tired
+10Oct16-10
+Prxfst11/16
+ïS24:482 1:132 1:473^ Md20000
+562/911/21hd 21/244563/4
+CastilloD
+L121fb5.4071-27MoegnAvenue121óBlydeRiver1211/2
+IAmSoJelous
+11623/4Stumble,pace,tired
+26Sep16-7
+Prxfm11/16
+ê234:491 1:132 1:4513^ Md20000
+598/122hd 212hd 1hd 41/2
+CastilloD
+L122b12.2077-16HarlansBear122nkBluegrssRye124hd Kmehmeh122óForcedpace,gametry
+11Sep16-1
+Prxfm170
+ê224:474 1:143 1:4723^ Md20000
+516/9112hd 311/2621/4543/4
+MartinezA
+L133b6.7053-42MoveForward1332BlydeRiver13311/2BuddlyBuddy1331Rail,outside,yielded
+26Jly16-9
+Prxfst11/16
+ï--UNKNOWN--
+24 1:48 1:131 1:4643^ Md25000
+452/421211/2223103121/2
+MarianoA
+L119fb1.9066-23JckiesGrdn11993/4MolsssBrown11923/4MgnFortun119Forcedpace,gaveway
+4Jly16-4
+Prxfm11/16
+ê224:473 1:114 1:4323^ Md25000
+623/112hd 1hd 1hd 21/2441/4
+MarianoA
+L119b41.0082-09Aquies1241/2QualityCounts11921/2I'mIn11911/4Duckedin,rail
+18Jun16-3
+Prxfst7f
+23:453 1:111 1:244Md40000
+215/85541/2597266251/4
+MarianoA
+L121fb18.6057-17Combee11421/4ShotGunRed12123/4BigSkyDisco12141/4Crowdedstart,faded
+23May16-5
+Prxfst51/2f
+ý22 1:463:592 1:0543^  MdSpWt37k
+215/8131/2741/47117141/4
+MontanezR
+L119fb9.7068-14GrandeHeist11913/4Mr.Hamilton11921/2Grit'n'grind1191/2Closeup,gaveway
+1May16-1
+Prxslyø6f
+22:454:583 1:1143^ Md25000
+591/6211/21hd 31/2341/2
+MontanezR
+L119fb9.2074-19DottiesRy124nkInterestRteSwp12441/4MgnFortune11923/4Offrail,weakened
+WORKS:Feb15Prx6ffst 1:182B
+1/1
+òJan4Prx4fsly:48B
+1/18
+Dec28Prx5ffst 1:024B
+6/7
+Dec23Prx5ffst 1:034B
+27/32
+Dec11Prx5ffst 1:034B
+17/21
+TRAINER:Sprint/Route
+(21.05$0.92)
+Dirt
+(170.15$2.07)
+Routes
+(81.10$1.26)
+MdnClm
+(69.09$0.99)
+J/T2016-17PRX(8.13$1.92)J/T2016-17(8.13$1.92)
+2
+15-1
+EdgeofPatience
+
+Own:AngelinaMariasRacingStable
+
+Navy,GreyHorseshoeEmblem,PinkHoop
+GONZALEZS(107121114.11)2016:(60363.10)
+$10,000Ch.g(07.11.16)4(Mar)
+
+Sire:Petionville(SeekingtheGold)$5,000
+
+Dam:Edger(SwearbyDixie)
+
+Br:TomMcMenamin(Pa)
+
+Tr:TapsasElias(11013.00)2016:(594.07)
+L119
+5Life
+16M02$14,147
+5320173M01$3,27238
+
+201611M01$10,00053
+
+Prx16002$14,14753
+D.Fst13002$12,89753
+
+Wet(371)3000$1,25042
+
+Synth0000$0-
+
+Turf(242)0000$0-
+
+Dst(340)5001$4,02250
+18Feb17-2
+Prxfst170
+232:482 1:16 1:4934^ Md10000
+3410/108101011733/44436
+TorresJ7
+L117fb41.0042-45
+QuienSabe
+11911/2U.Tee
+12441/2EdgeofPatience1171Traffic,norally
+28Jan17-1
+Prxfst1
+--UNKNOWN--
+25:501 1:154 1:4234^ Md10000
+384/9961/4951/4883/4887111/4
+PineroL7
+L117b45.5048-38
+Ginner
+1241ShurFox12441/4CongratstoAvie119hd Nofactor
+9Jan17-1
+Prxfst170
+232:472 1:123 1:4324^ Md10000
+385/984731/476671/27121/4
+GonzalezS5
+L119b41.3067-20HardLabor12423/4
+CurlinCrush
+1242QuietRevenge
+12431/2Lackedarally
+20Dec16-2
+Prxgd170
+S23:47 1:113 1:4043^ Md10000
+352/1111161113106111410183/4
+PerezJM7
+L116fb18.1073-09Lori'sFolly12381/4CongratstoAvie11911/4
+HardLabor
+1232Showedlittle
+13Nov16-4
+Prxfst170
+234:481 1:142 1:463^ Md20000
+506/88108118117107141/2
+PineroL7
+L115fb39.5052-34Adumato122hd 
+Pharaoh'sCity
+12251/2Mr.Charles12451/4Failedtomenace
+24Oct16-2
+Prxfst6f
+224:47 1:594 1:133^ Md20000
+364/11111110111610169141/2
+PerezIO
+L121fb121.0059-27HonorCommitment12121/2TizAfleet12431/4
+RunDixieRun
+121óOffslow,wide
+3Sep16-4
+Prxfst6f
+22 1:46:584 1:1143^  MdSpWt38k
+-7/1212----
+MontanezR
+L120b51.80-18PonteVedraSky12091/2SouthernKisses12423/4
+Dynasir
+120nkLostcontact
+7Aug16-1
+Prxfst1
+S24 1:48 1:124 1:3913^  MdSpWt37k
+524/7751/4781/276771/269
+CastilloD
+L119b39.0067-24TacticalPlan11911/4TheseBlues11923/4
+IWrotetheScript
+11213/4Alwaysoutrun
+26Jly16-5
+Prxfst1
+24 1:481 1:131 1:3843^ MdSpWt63k
+501/8841/484751/47137153/4
+RiveraLD7
+L112fb65.1062-23
+WonDozenBanks
+1193/4VivaLaKid1191/2
+RoyalInclusion
+1195Inside,nofactor
+11Jly16-6
+Prxfst6f
+214:45:571 1:094Md40000
+2610/121112121012111912243/4
+RiveraLD7
+L114fb82.3064-13ShuffleUp12173/4IntheScript1142Rydell121nkTookupstretch
+30May16-3
+Prxmy6f
+214:444:572 1:10Md40000
+424/74797107126133/4
+CastilloD
+L121b14.4074-09SilverTrophy1214
+BabyUe
+12161/2SunshineWild1213/4Ranuponheelslate
+9Apr16-6
+Prxslyø1
+S243:49 1:134 1:39MdSpWt51k
+374/7761/2791/27137216283/4
+PerezIO
+L121fb52.8048-29
+Kingslayer
+12112MchuPicchuSky1211
+MyCousinLou
+1215Verywide,nofactor
+TRAINER:Dirt
+(71.06$1.95)
+Routes
+(22.05$0.67)
+MdnClm
+(18.00$0.00)
+J/T2016-17PRX(5.00$0.00)J/T2016-17(5.00$0.00)
+3
+15-1
+RumorMill
+
+Own:PrimaventuresLLC
+
+Black,Maroon"Srf",MaroonAndGreen
+VARGASJAJR(7612129.16)2016:(49990.18)
+$10,000B.g(02.20.17)4(Feb)
+
+Sire:YesIt'sTrue(IsItTrue)
+
+Dam:Sivory(QuietAmerican)
+
+Br:SpringRunFarmLLC(Pa)
+
+Tr:NationsKeith(15323.20)2016:(30862.20)
+ûL124
+Life
+1M00$250-
+20171M00$250-
+
+20160M00$0-
+
+Prx1000$250-
+D.Fst1000$250-
+
+Wet(365)0000$0-
+
+Synth0000$0-
+
+Turf(232)0000$0-
+
+Dst(334)1000$250-
+18Feb17-2
+Prxfst170
+232:482 1:16 1:4934^ Md10000
+-05/10341/23633914927
+VargasJAJr
+L124f10.4021-45
+QuienSabe
+11911/2U.Tee
+12441/2EdgeofPatience
+1171Wide,tired
+WORKS:Jan31Prx5ffst 1:04Bg
+3/5
+Jan14Prx5ffst 1:024B
+12/22
+Jan1Prx5ffst 1:014B
+9/11
+Dec23Prx5ffst 1:033B
+25/32
+Dec10Prx4ffst:50B
+8/18
+TRAINER:Mdn2ndStart
+(18.28$3.29)
+Dirt
+(291.22$1.90)
+Routes
+(219.19$1.74)
+MdnClm
+(67.21$1.65)
+J/T2016-17PRX(26.15$1.09)J/T2016-17(41.17$1.16)
+4
+8-1
+U.Tee
+
+Own:GandPStable
+
+White,DarkGreenBall,WhiteCap
+GARCIAG(3010.00)2016:(421.02)
+$10,000Dkb/brg(05.16.16)4(Apr)
+
+Sire:Outflanker(Danzig)$3,000
+
+Dam:MyLittleGracie(PressCard)
+
+Br:CarolLynnLeVine(Pa)
+
+Tr:LevineCarolLynn(2010.00)2016:(311.03)
+L124
+Life
+12M11$12,857
+5420172M10$5,29044
+
+20169M01$6,66754
+
+Prx12011$12,85754
+D.Fst10011$11,16754
+
+Wet(358)2000$1,69043
+
+Synth0000$0-
+
+Turf(247)0000$0-
+
+Dst(343)5011$8,85245
+18Feb17-2
+Prxfst170
+232:482 1:16 1:4934^ Md10000
+421/101017993/44322211/2
+GarciaG
+L124b34.8046-45
+QuienSabe
+11911/2U.Tee12441/2
+EdgeofPatience
+1171Offslow,swungwide
+28Jan17-1
+Prxfst1
+--UNKNOWN--
+25:501 1:154 1:4234^ Md10000
+448/9631/2623/4541/255673/4
+GarciaG
+L124b60.5051-38
+Ginner
+1241ShurFox12441/4CongratstoAvie119hd Lackedarally
+20Dec16-2
+Prxgd170
+S23:47 1:113 1:4043^ Md10000
+4310/111083/4107841/28117133/4
+GarciaG
+L123b47.6078-09Lori'sFolly12381/4CongratstoAvie11911/4
+HardLabor
+1232Bumped,wide
+3Dec16-1
+Prxfst11/16
+24:49 1:152 1:5043^ Md10000
+423/1010151010973/4810871/2
+GarciaG
+L123b24.7051-40Extrovert1233/4Ginner1231HardLabor123nkPassedfadingrivals
+15Nov16-1
+Prxfst170
+C224:473 1:141 1:4733^  Md10000
+452/9912911710451/2313/4
+GarciaG
+L122b60.9056-35Ding122nkGinner12211/2U.Tee12221/4Closedwell
+31Oct16-2
+Prxfst51/2f
+224:47:594 1:0623^ Md10000
+253/1010101391297851/2
+GarciaG
+L121b37.6073-13RunforZach12111/2
+SteveSaysNo
+121nkRedChant1141/2Offslow,nofactor
+11Jly16-1
+Prxfst51/2f
+223:454:581 1:0433^ Md10000
+463/66663/467661/2571/4
+GarciaG
+L120b57.2081-13WhitBluff11943/4IWrotthScript1121/2AmrcnForttud112nkFarback,nofactor
+26Jun16-1
+Prxfst170
+233:48 1:142 1:4643^ Md10000
+284/8791/2783/4691/25125143/4
+GarciaG
+L120b20.1047-32MrCoupons117nkGinner11981/2LilRedCaboose11233/4Neverincontention
+7Jun16-1
+Prxfst1
+242:473 1:131 1:4013^ Md15000
+543/7613617613610663/4
+GarciaG
+L119b23.5064-29Slaminator124óBestThing1244Ginner1191/2Closedgap,nofactor
+30May16-1
+Prxmy61/2f
+--UNKNOWN--
+23 1:463 1:111 1:1733^ Md15000
+362/434344491/2493/4
+GarciaG
+L119b5.1077-09StateMedia11931/4DebonaireMan11921/4SaratogaShiner11941/4Wide,gaveway
+16May16-7
+Prxfst1
+244:492 1:144 1:41Md25000
+-W
+348/8863/4863/4891/27156171/4
+GarciaG
+L121b14.8050-37
+MyCousinLou
+12151/4BellyDancer12161/2JimmytheExplorer1211/2Showedlittle
+8Dec15-1
+Prxfst6f
+222:471 1:01 1:151Md25000
+376/76771/2781/2641/2531/4
+RosadoRJ
+L122b16.4059-30Drosselmagic122nkMolassesBrown12211/2
+TrueKnockout
+1221Mildrailbid
+WORKS:Jan17Prx4ffst:514B
+30/34
+TRAINER:Dirt
+(26.00$0.00)
+Routes
+(14.07$3.51)
+MdnClm
+(21.05$2.34)
+J/T2016-17PRX(21.00$0.00)J/T2016-17(21.00$0.00)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race9,page:22Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+5
+5-2
+LookinUp
+
+Own:AlexanderJMartinez
+
+Black,YellowDiamonds,YellowStripes
+LOPEZCC(38395.08)2016:(35051.15)
+$10,000Ch.g(05.12.16)4(Mar)EASMAY15$75,000
+
+Sire:LookinAtLucky(SmartStrike)$17,500
+
+Dam:LegendaryLady(VirginiaRapids)
+
+Br:EHBeauLaneIII(Ky)
+
+Tr:MartinezAlexander(4110.25)2016:(468.17)
+L124
+Life
+15M31$23,754
+6520172M00$1,00058
+
+201613M31$22,75465
+
+Prx0000$0-
+D.Fst2000$71052
+
+Wet(371)0000$0-
+
+Synth0000$0-
+
+Turf(292)13031$23,04465
+
+Dst(351)0000$0-
+PreviouslytrainedbyHillsTimothyA2016:(1851635220.09)
+3Feb17-11
+GPfm11/16
+ê232:49 1:124 1:4234^ Md20000
+521/101011943/4963/4771/2871/2
+VasquezMA
+L123b7.7069-18LittleSky1231Rediscover1231
+Kitten'sDilemma
+1231/2Mostly3w,outrun
+13Jan17-10
+GPfm11/16
+ê232:493 1:143 1:4534^ Md20000
+582/12951/41243/41151/4521/442
+LopezP
+L123b4.6060-25Tero12311/4HopeIsRising118nkVinoBlanco1231/2Takenback,lateyield
+7Dec16-10
+GPfm71/2f
+ê23 1:473 1:114 1:293^ Md20000
+6310/119911741/43437
+LopezP
+L122b6.3082-14Beneficiary12261/2LittleSky1221/2LookinUp12221/2Check3/8p,outsidebid
+9Nov16-6
+GPWfm11/16
+êS232:492 1:14 1:453^ Md35000
+618/8712775346453/4
+AlvaradoRJr
+L120b5.6070-23Recalibrating1201/2Czarmo120hd 
+Beneficiary
+12051/4Bid,response,evnout
+20Oct16-5
+Belfm11/16
+Ñ253:494 1:133 1:4233^ Md40000
+638/8561/25665733/4761/2
+RosarioJ
+L118b14.8075-17RiverEcho11811/4Prognostication118hd 
+Snowfly
+11811/25-6wupper,weakened
+29Sep16-6
+Belfm1
+êC234:47 1:104 1:3523^ Md40000
+647/9991/2991/2861/2513/4221/4
+SaezL
+L118b17.0082-16Otto11821/4LookinUp1183/4MojoRising124hd Railto1/2,fan6p1/8
+3Sep16-11
+Mthgd11/16
+ê24 1:484 1:13 1:444Õ3^ Md40000
+(40-30)
+575/9873/477661/447483/4
+LebronV
+L119b3.3063-28BuiltforProfit12313/4
+MyBuckysBoy
+11751/4AnimlTrck11813/44wfarturn,norally
+12Aug16-3
+Mthfm11/16
+êS233:501 1:144 1:441Õ3^ Md40000
+(40-30)
+654/9651/2521/263321/2223/4
+PenningtonF
+L119b5.5072-22PaddyO'Wagon11923/4LookinUp119nkAnimalTrick1193Between,laterally
+16Jly16-3
+Mthfm1
+ê224:464 1:113 1:3743^ Md35000
+(35-30)
+638/1110101071/4623/4411/42ó
+LebronV
+L119b19.1072-24GodspdTommy124óLooknUp11911/4MyBuckysBoy1191/25wintolane,rallied
+25Jun16-8
+Mthfm11/16
+êC23 1:471 1:113 1:424Õ3^ Md40000
+(40-30)
+523/10751/2641/2623/4641/2591/2
+LebronV
+L118b16.0072-16Sanad122nkMyBucky'sBoy1181/2Snowfly11843/4Chased,nobid
+14May16-11
+Mthgd11/16
+ê24:492 1:132 1:444Õ3^ Md40000
+(40-30)
+644/1031311/2311/23255
+JuarezN
+L118b5.8067-27MoonlghtPrty12411/4MyBckysBoy11831/4Snowfly118nkInside,btwn,norally
+2Apr16-2
+GPfm1
+êC24:481 1:124 1:38Md50000
+5311/121151061/211787781/4
+GudielV
+L120b9.3062-27Mav1201/2GivetoU.K.Cats12011/4
+WhatPower
+12041/4Wide2ntn,neededmore
+WORKS:Feb24Prx3ffst:38B
+3/3
+Jan6GPW3ffst:36B
+1/1
+TRAINER:1stW/Trn
+(7.14$0.00)
+31-60Days
+(7.00$0.00)
+Dirt
+(50.18$2.75)
+Routes
+(7.43$6.71)
+MdnClm
+(6.17$1.03)
+J/T2016-17PRX(4.75$6.65)J/T2016-17(4.75$6.65)
+6
+7-2
+WarAtSunrise
+
+Own:RobertTReidy
+
+White,GreenShamrock,Orange"Rr"
+OCASIOLM(133211613.16)2016:(522107.20)
+$10,000Ch.g(09.26.15)4(Apr)EASMAY15$52,000
+
+Sire:PurePrize(StormCat)
+
+Dam:Amaunet(GoneWest)
+
+Br:CopperPennyStables(Md)
+
+Tr:SereyMJr(607612.12)2016:(54694.17)
+L119
+5Life
+11M13$25,531
+6820176M03$17,38163
+
+20164M10$8,15068
+
+Prx5001$10,02059
+D.Fst8012$19,27068
+
+Wet(399)2001$6,26157
+
+Synth0000$0-
+
+Turf(306)1000$028
+
+Dst(354)2000$50055
+25Feb17-1
+Prxfst6f
+22:454:59 1:1334^ Md20000
+461/7769511411471/2
+OcasioLM5
+L119fb*1.1062-31ElTocyo12411/2TrueBoldness12431/4Thpnnsylvnikid12423/4Farback,mildrally
+12Feb17-6
+Lrlgd7f
+232:481 1:133 1:2534^ Md20000
+(25-20)
+576/757454451/2381/4
+PanellD
+L120fb3.1073-20Moonspell1245KopperWired12431/4WrAtSunrise1201/24w,ask3/8,by-tirdone
+5Feb17-1
+Aqufst1
+--TRACK MARKER--24 1:472 1:13 1:3934^ Md20000
+632/6531/2674646361/2
+OcasioLM5
+L116fb4.8079-15FieldingGold121hd Acoustic12161/2WarAtSunrise1163/44wupper,improved
+28Jan17-2
+Lrlfst6f
+224:464:59 1:1124^ MdSpWt41k
+547/71763/4763/4771/2581/2
+KaramanosHA
+L124fb15.0077-19SoundtheHorns12451/2Speightshill1243/4SelfStart124hd Mildwideresponse
+14Jan17-1
+Prxfst6f
+23:47 1:001 1:144^ MdSpWt50k
+594/73633/44543311/4
+OcasioLM5
+L119fb21.5067-25DarkasMidnight124hd Freemrk12411/4WrAtSunrise1194Lostwhip1/8,closed
+2Jan17-2
+Prxmyø7f
+--UNKNOWN--
+224:461 1:113 1:2514^ Md40000
+472/95733/4743/4591/24101/4
+OcasioLM5
+L119fb25.9070-16GvinStreetsns1244
+RiskyPrsusion
+1244SpnishVill11721/4Driftedoutandtired
+4Dec16-6
+Prxfst170
+S244:503 1:163 1:4623^ Md40000
+73/7413/4513/4693/4627741
+BisonoJ
+L123fb5.7023-38Pharaoh'sCity123ó
+NickCanFix
+12333/4MachuPicchuSky1187Tired
+13Nov16-4
+Prxfst170
+234:481 1:142 1:463^ Mdc-20000
+551/8431/24446671/46111/2
+VargasJAJr
+L122b*1.3055-34Adumato122hd 
+Pharaoh'sCity
+12251/2Mr.Charles12451/4Steady1sttrn,tired
+ClaimedfromZillaRacingStablesfor$20,000,NevinMichelleTrainer2016(asof11/13):(2625145380.19)
+13Oct16-2
+Belfst1
+233:464 1:12 1:3733^ Md20000
+681/621/221/2111123/4
+CarmoucheK
+L121b4.1075-20MotownSound1213/4WarAtSunrise12121/2Joywve12141/4Drifted2xstr,caught
+31Aug16-2
+Sarfst1°
+--UNKNOWN--
+49 1:133 1:383 1:5133^ Md20000
+648/87476766104101/4
+CancelE
+L118b17.7068-22MusicalComedy1182Vilma1184Pontastic11841/44-3w1st,improved
+PreviouslytrainedbyMorleyThomas2015(asof10/31):(1591624210.10)
+31Oct15-6
+Lrlgd51/2f
+ê222:453:571 1:03MdSpWt46k
+2810/11101115111511131112
+RussellS
+L1225.2075-13EasyRiver1221/2Cryptos'Holiday1221He'saDandyCandy1222Trailed,
+TRAINER:Sprint/Route
+(56.11$0.94)
+2Sprints/Route
+(4.00$0.00)
+Dirt
+(620.16$2.09)
+Routes
+(208.12$1.21)
+MdnClm
+(52.12$0.95)J/T2016-17PRX(81.23$2.60)J/T2016-17(106.21$2.26)
+7
+5-1
+QuietRevenge
+
+Own:KingStar
+
+White,RedStripesOnSleeves,WhiteCap
+CASTILLOD(70159.01)2016:(33920.06)
+$10,000Ch.g(10.23.16)4(Mar)OBSAUG14$13,000
+
+Sire:IceBox(Pulpit)$7,500
+
+Dam:Strapless(Forestry)
+
+Br:RandyAlderson&ConnieBrown(Ky)
+
+Tr:VazquezJuanC(5714315.25)2016:(25649.19)
+L124
+Life
+10M22$26,550
+6320173M01$3,85051
+
+20167M21$22,70063
+
+Prx9022$26,05063
+D.Fst7022$25,30063
+
+Wet(314)2000$75038
+
+Synth0000$0-
+
+Turf(251)1000$50035
+
+Dst(316)4011$12,80063
+30Jan17-2
+Prxfst170
+--UNKNOWN--
+23 1:48 1:151 1:494^ Md20000
+398/9816814711510471/2
+CedenoC
+L124b3.5043-44BuzzWithAlex1243/4FakeFrontier1243/4Madeyourpoint1246Offslow,wide
+9Jan17-1
+Prxfst170
+232:472 1:123 1:4324^ Md10000
+519/974613/45343343/4
+CedenoC
+L124b*1.6074-20HardLabor12423/4
+CurlinCrush
+1242QuietRevenge12431/2Widebid,bestofrest
+2Jan17-2
+Prxmyø7f
+--UNKNOWN--
+224:461 1:113 1:2514^ Md40000
+383/9991098715715
+CedenoC
+L124b14.2065-16GavinStreetsense1244
+RiskyPersusion
+1244SpnishVill11721/4Failedtomenace
+4Dec16-6
+Prxfst170
+S244:503 1:163 1:4623^ Md40000
+482/7743/4623/4561/45135151/4
+CedenoC
+L123b10.8049-38Pharaoh'sCity123ó
+NickCanFix
+12333/4MachuPicchuSky1187Showedlittle
+23Oct16-3
+Prxfst170
+--UNKNOWN--
+24 1:483 1:134 1:4433^ Md20000
+638/1032321/2262827
+CedenoC
+L121b21.0066-29ShotGunRed1217QuietRevenge1215BlydeRiver1212Close,continuedwell
+4Sep16-4
+Prxfm1°
+ê50 1:152 1:412 1:5413^ MdSpWt52k
+354/101083/4973/4981/410169193/4
+CedenoC
+L120b16.4048-27Barraaq1203/4MachuPicchuSky11531/2QualityTime12013/4Showedlittle
+19Jly16-9
+Prxfst1
+242:481 1:13 1:393^ Md25000
+423/1098763/47116143181/4
+CedenoC
+L119b4.5059-22Gritngrind11914MolssesBrown11941/4QuietReveng119hd Beststridetoolate
+18Jun16-3
+Prxfst7f
+23:453 1:111 1:244Md40000
+443/87781/27135185131/4
+RemedioM
+L121b3.4069-17Combee11421/4ShotGunRed12123/4BigSkyDisco12141/4Farbackthroughout
+9Apr16-6
+Prxslyø1
+S243:49 1:134 1:39MdSpWt51k
+375/7541/2551/26126207283/4
+CedenoC
+L121b5.8048-29
+Kingslayer
+12112MachuPicchuSky1211
+MyCousinLou
+1215Finishedafter1/5
+29Mar16-5
+Prxfst61/2f
+S232:471 1:124 1:192Md40000
+591/95413/4441/225243/4
+CedenoC
+L121b10.0073-23HRExpress12143/4QuietRevenge12123/4
+EdgofPtinc1212Outsidebidforsecond
+WORKS:Jan25Prx4ffst:50B
+4/7
+Dec23Prx4ffst:501B
+77/119
+TRAINER:31-60Days
+(88.18$1.54)
+Dirt
+(306.20$1.81)
+Routes
+(156.18$1.97)
+MdnClm
+(49.16$1.30)
+8
+10-1
+CurlinCrush
+
+Own:TenStrikeRacing
+
+PurpleAndBlackQuarters,BlackHoops
+TORRESJ(26204.08)2016:(40420.05)
+$10,000B.g(01.28.17)5(Feb)FTSAUG13$100,000
+
+Sire:Curlin(SmartStrike)$150,000
+
+Dam:SecretSource(Mineshaft)
+
+Br:Thor-BredStablesLLC(Ky)
+
+Tr:GuerreroJuanCarlos(371045.27)2016:(18941.22)
+L119
+5Life
+10M11$11,815
+6020173M10$4,10053
+
+20163M00$32958
+
+Prx3010$4,10053
+D.Fst8010$7,47960
+
+Wet(428)1001$3,61159
+
+Synth0000$0-
+
+Turf(285)1000$72529
+
+Dst(393)7011$10,77160
+18Feb17-2
+Prxfst170
+232:482 1:16 1:4934^ Md10000
+234/10793/479841/479613
+PanellD
+L124fb4.8035-45
+QuienSabe
+11911/2U.Tee
+12441/2EdgeofPatience
+1171Verywide,nofactor
+28Jan17-1
+Prxfst1
+--UNKNOWN--
+25:501 1:154 1:4234^ Md10000
+353/986843/4991/499913
+PanellD
+L124b*2.3046-38
+Ginner
+1241ShurFox12441/4CongratstoAvie119hd Showedlittle
+9Jan17-1
+Prxfst170
+232:472 1:123 1:4324^ Md10000
+531/9532hd 2hd 211/2223/4
+PanellD
+L124fb2.9076-20HardLabor12423/4CurlinCrush1242
+QuietRevenge
+12431/2Bid1/2,heldsecond
+17Mar16-2
+OPfst11/16
+232:484 1:143 1:483^ Mdc-
+(12.5-10)
+504/1291076641/4663/4653/4
+SantanaRJr
+L124b*1.2064-25Miltee124nkHighNoonCocktail1183/4Flummox12121/43w,norally
+ClaimedfromMcCartyMikefor$12,500,AsmussenStevenMTrainer2015:(14992522522170.17)
+12Feb16-7
+OPfst1
+234:484 1:142 1:4133^ Md25000
+(25-20)
+558/12741/4633/455653/4661/2
+SantanaRJr
+L124b3.7068-20OldMountinLn124óThRougDisl11721/4WinTuscny124hd Bump7/8,onepaced
+28Jan16-7
+OPfst11/16
+232:471 1:121 1:4433^ MdSpWt68k
+582/12863/4883/4993/47117153/4
+SantanaRJr
+L124b13.5071-13WarStroll11723/4Titan124nkGoatsTown11711/4Steered3w,emptylate
+28Nov15-2
+RPslyø170
+24:484 1:142 1:4533^ MdSpWt33k
+593/7431/2521/4533/431/2333/4
+McMahonC
+L1202.0067-25
+LawlessWest
+120nkShock'EmAll
+12031/2CurlinCrush12021/23w,bump,block3/16
+30Apr15-8
+CDfst11/16
+234:49 1:134 1:4443^ MdSpWt50k
+577/9441/253661/2614618
+SantanaRJr
+L11622.6063-21
+Japan
+1167I'mbetterthangood123óNileator11611/46path1/4,empty
+22Oct14-5
+Keefst11/16
+233:483 1:132 1:444MdSpWt53k
+603/9541/264794114101/4
+SantanaRJr
+L11822.30--JackTripp1185
+OakBrook
+11821/2ProDaddy11823/4Steady3/8th,movedup
+6Sep14-4
+KDfm6f
+ê222:46 1:124MdSpWt90k
+297/97898137147171/2
+LeparouxJR
+L1205.0067-16MercerMillMae1173/4Barbados12011/4ColdSpice12021/4Neveramenace
+WORKS:Jan6Prx4fgd:494B
+20/50
+Dec11Prx4ffst:49B
+23/47
+TRAINER:Dirt
+(219.23$1.95)
+Routes
+(99.24$1.52)
+MdnClm
+(20.45$2.75)
+J/T2016-17PRX(11.18$2.64)J/T2016-17(12.17$2.42)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race9,page:23Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
+9
+4-1
+LongislandExpress
+
+Own:LongIslandRacingStables
+
+Yellow,RedCircle,BlackBat,RedAnd
+ESQUIVELE(71679.08)2016:(66895.14)
+$10,000Ch.g(12.17.15)5(Apr)
+
+Sire:FrostGiant(Giant'sCauseway)$5,000
+
+Dam:Outtawesthills(TakeMeOut)
+
+Br:RobertCastelli&SunsetStablesLLC(NY)
+
+Tr:FarroPatricia(7861510.08)2016:(972140.14)
+L124
+Life
+20M01$17,524
+6520172M00$1,23550
+
+20167M00$5,11355
+
+Prx1000$1,08048
+D.Fst8000$7,49652
+
+Wet(334)0000$0-
+
+Synth0000$0-
+
+Turf(210)12001$10,02865
+
+Dst(301)2000$1,08552
+PreviouslytrainedbySciaccaGary2016:(3363641450.11)
+28Jan17-1
+Prxfst1
+--UNKNOWN--
+25:501 1:154 1:4234^ Md10000
+485/9212hd 2hd 211/2451/4
+EsquivelE
+L124b4.4054-38
+Ginner
+1241ShurFox12441/4CongratstoAvie119hd Rail,bid,fadeddrive
+5Jan17-4
+Aqufst170
+--TRACK MARKER--S24 1:484 1:144 1:4724^  Md25000
+502/9421/23443671/269
+EsquivelE
+L121b17.6059-32PrimoPntimnto1213MrChrls1213RdHookExprss12111/26wupper,weakened
+14Dec16-1
+Aqufst11/16
+--TRACK MARKER--234:49 1:143 1:5033^  Md25000
+524/7661/263651/2543/4513/4
+EsquivelE
+L12421.7059-29TwoDownOntG1213/4BnIndctd121hd StrryMssngr1211/23w2nd,6w1/8,norally
+25Nov16-1
+Aqufst1
+23 1:464 1:124 1:4013^  Md25000
+522/952851/2775746
+LezcanoJ
+L12418.2064-26DnthMn1213/4PrmoPntmnto1213
+TwoDownOntoGo
+12121/4Insideto1/4,nobids
+30Oct16-3
+Belfst6f
+224:464:584 1:1043^  Md25000
+445/9376853/4881/2810
+DavisD
+L12445.2576-10SummerBourbon12111/4
+Buckwellspnt
+1211/2ScrtScholr12432ptopturn,5w1/8p
+2Sep16-4
+Sarfst7f
+232:47 1:113 1:2423^  Md25000
+284/99511/4429109201/4
+CastellanoJJ
+L12418.4060-16
+Kenyan
+1193/4Buckwellspent11943/4CelticScout119hd 4wturn,5w1/4,stopped
+11Aug16-7
+Sarfst7f
+222:453 1:103 1:243^  Md25000
+511/1048699471/2473/4
+OrtizJL
+L1248.8074-18SkyChprrl1191/2BlrnyStons11913/4HowFrostyItIs12451/22-3wturn,5wintolane
+17Jly16-5
+Belfm11/16
+Ñ25 1:491 1:124 1:423^  Md40000
+5510/1053731/2841/2971/288
+TorresJ7
+L11748.7577-14LedbyExmple12421/4ThereGoesBen118nk
+KngrooStyle
+1241/24w2ndturn,tired
+2Jly16-10
+Belyl7f
+ê224:463 1:104 1:2233^  Md40000
+1310/106741/4731/2101410223/4
+TorresJ7
+L117b6.8065-12IrishPrayer11833/4Potentially118nkRiskySour1243/4Brokeoutside,3wturn
+PreviouslytrainedbyHandalRaymond2015(asof11/29):(483430.06)
+29Nov15-4
+Aqufm1
+ê232:49 1:151 1:4013^  Md40000
+438/10312hd 21546101/4
+GryderAT
+L121b13.9063-24DreamBreaker1211/2HolyWeek1212BruddaColton12111/23wvspair1st,tired
+21Nov15-3
+Aqufst1
+ï233:472 1:131 1:3943^  Md40000
+433/1111/2111/221/2421/4571/2
+GryderAT
+L121fb5.0064-22Jacob'sHere12411/2RiverofMagic1211/2Resolve12443/4Inhandins,wkndlate
+8Nov15-2
+Aqufm1
+ê23:472 1:122 1:3743^  Md40000
+523/12911971/4961/2561/247
+GryderAT
+L121b8.2078-11FreudinLights1213/4MindMgic121nkStretFightinMn1216Hitgate,belatedly
+WORKS:Mar3Prx4ffst:53B
+12/12
+Jan22Beltr.t4ffst:51B
+48/68
+TRAINER:1stW/Trn
+(140.14$1.22)
+31-60Days
+(203.13$1.52)
+Dirt
+(973.15$1.54)
+Routes
+(467.14$1.43)
+MdnClm
+(80.11$1.15)
+J/T2016-17PRX(349.14$1.36)J/T2016-17(395.14$1.36)
+DailyRacingForm
+ParxRacing(3/6/2017)
+Prx,race9,page:24Copyrightï¿½DailyRacingFormLLCandEquibaseCompanyLLC.Allrightsreserved.
+
