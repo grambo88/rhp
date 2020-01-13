@@ -8,7 +8,7 @@ text = cleanUp(data)
 
 #data1 = cleanTimes(text)
 
-nextStep(data)
+nextStep(text)
 
 #print(data1)
 

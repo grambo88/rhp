@@ -18,9 +18,17 @@ def nextStep(data):
 		lines = [line.rstrip('\n') for line in f1.readlines()]
 		for line in lines:
 			if any(s in line for s in raceGrades):
-				print(line)
+				huh = line.replace(":", "tyler rocks")
+				print(huh)
 
-	#print("next\n")
+# def nextStep(data):
+
+# 	with open("cleanText.txt", "r") as f1:
+# 		lines = [line.rstrip('\n') for line in f1.readlines()]
+# 		for line in lines:
+# 			if any(s in line for s in raceGrades):
+# 				print(line.replace(":", "tyler rocks"))
+
 
 
 def scrambledText(raceform):
@@ -53,7 +61,8 @@ def cleanTimes(data):
 		lines = [line.rstrip('\n') for line in f1.readlines()]
 		for line in lines:
 			if any(s in line for s in raceGrades):
-				print(line)
+				pass
+#print(line)
 
 
 def cleanUp(data):
