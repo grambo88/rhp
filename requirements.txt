@@ -1,2 +1,1 @@
-binwalk===2.2.0-5f58fad
 PyPDF2==1.26.0
