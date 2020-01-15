@@ -6,9 +6,9 @@ data = scrambledText(raceform)
 
 text = cleanUp(data)
 
-#data1 = cleanTimes(text)
+data1 = cleanTimes(text)
 
-nextStep(text)
+nextStep(data1)
 
-#print(data1)
+print(data1)
 

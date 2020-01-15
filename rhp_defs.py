@@ -11,23 +11,23 @@ import sys, re, time
 raceform = "raceform.pdf"
 raceGrades = ("Alw", "OC", "Clm", "Md")
 
+def newFunction(line):
+	huh = line.replace(":", " : ")
+	print(huh)
+
+
 
 def nextStep(data):
 
 	with open("cleanText.txt", "r") as f1:
-		lines = [line.rstrip('\n') for line in f1.readlines()]
-		for line in lines:
-			if any(s in line for s in raceGrades):
-				huh = line.replace(":", "tyler rocks")
-				print(huh)
-
-# def nextStep(data):
-
-# 	with open("cleanText.txt", "r") as f1:
-# 		lines = [line.rstrip('\n') for line in f1.readlines()]
-# 		for line in lines:
-# 			if any(s in line for s in raceGrades):
-# 				print(line.replace(":", "tyler rocks"))
+		with open("newClean.txt", "w") as f2:
+			lines = [line.rstrip('\n') for line in f1.readlines()]
+			for line in lines:
+				if any(s in line for s in raceGrades):
+					newFunction(line)
+					print("--------this is in the way------")
+				else:
+					print(line)
 
 
 
