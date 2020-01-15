@@ -12,9 +12,14 @@ raceform = "raceform.pdf"
 raceGrades = ("Alw", "OC", "Clm", "Md")
 
 def newFunction(line):
-	huh = line.replace(":", " : ")
-	print(huh)
+	huh = re.split(" ", line)
+	#print(huh)
+	if huh[0] in huh:
+		ty = re.split(":", huh[0])
+		print(huh[0])
+		print(ty)
 
+	
 
 
 def nextStep(data):
@@ -25,9 +30,9 @@ def nextStep(data):
 			for line in lines:
 				if any(s in line for s in raceGrades):
 					newFunction(line)
-					print("--------this is in the way------")
+					#print("--------this is in the way------")
 				else:
-					print(line)
+					pass #print(line)
 
 
 
