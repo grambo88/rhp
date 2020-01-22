@@ -13,7 +13,33 @@ raceGrades = ("Alw", "OC", "Clm", "Md")
 
 def newFunction(line):
 	huh = re.split(" ", line)
-	print(huh)
+	#print(huh)
+
+	nl1 = re.split(":", huh[0])
+	#print(nl1)
+
+	#print(nl1[0])
+
+	try:
+		value = nl1[1]
+		#print(value)
+		huh[0] = value
+		#print(huh)
+		huh.insert(0, nl1[0])
+		print(huh)
+	except IndexError:
+		print(huh)
+		value = None
+
+
+
+	#print(nl1[1])
+
+
+	# my_string = ','.join(map(str, nl1)) 
+	# print(my_string)
+
+
 	# if huh[0] in huh:
 	# 	ty = re.split(":", huh[0])
 	# 	print(huh[0])
